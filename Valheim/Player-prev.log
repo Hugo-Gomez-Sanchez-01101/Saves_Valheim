@@ -1,0 +1,575 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
+[Physics::Module] Initialized MultithreadedJobDispatcher with 23 workers.
+Initialize engine version: 2022.3.17f1 (4fc78088f837)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   NVIDIA
+    VRAM:     8018 MB
+    Driver:   31.0.15.5222
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.203 seconds
+- Finished resetting the current domain, in  0.002 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+Using Windows.Gaming.Input
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.646800 ms
+Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
+Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
+Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
+05/29/2024 23:01:45: Set background loading budget to Low
+Unloading 5 Unused Serialized files (Serialized files now loaded: 9)
+UnloadTime: 0.180700 ms
+05/29/2024 23:01:45: Fetching PlatformPrefs 'GuiScale' before loading defaults
+05/29/2024 23:01:45: Fetching PlatformPrefs 'GuiScale' before loading defaults
+Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 2509.
+Total: 1.501100 ms (FindLiveObjects: 0.108100 ms CreateObjectMapping: 0.049600 ms MarkObjects: 1.255800 ms  DeleteObjects: 0.087400 ms)
+
+05/29/2024 23:01:45: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+05/29/2024 23:01:45: Set background loading budget to Normal
+05/29/2024 23:01:49: Set background loading budget to High
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 2 Unused Serialized files (Serialized files now loaded: 1133)
+05/29/2024 23:02:05: Set background loading budget to Low
+UnloadTime: 10.615200 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+05/29/2024 23:02:06: Missing audio clip in music respawn
+05/29/2024 23:02:06: Using environment steamid 892970
+05/29/2024 23:02:06: Using steam APPID:892970
+05/29/2024 23:02:06: Authentication:k_ESteamNetworkingAvailability_Attempting
+05/29/2024 23:02:06: Steam initialized, persona:pericomando *********_com
+05/29/2024 23:02:06: PlayFab custom ID set to "Steam_76561198967130550"
+05/29/2024 23:02:06: Using default prefs
+05/29/2024 23:02:06: Valheim version: 0.218.15 (network version 27)
+Trying to set graphic mode to 'Custom'
+Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
+Graphic mode 'Custom' applied!
+05/29/2024 23:02:06: Worldgenerator version setup:2
+05/29/2024 23:02:07: Render threading mode:MultiThreaded
+05/29/2024 23:02:07: Set button "CamZoomIn" to None!
+05/29/2024 23:02:07: Set button "CamZoomOut" to None!
+05/29/2024 23:02:07: Set button "CamZoomIn" to None!
+05/29/2024 23:02:07: Set button "CamZoomOut" to None!
+05/29/2024 23:02:07: Checking for installed DLCs
+05/29/2024 23:02:07: DLC:beta installed:False
+05/29/2024 23:02:07: Builder started
+05/29/2024 23:02:07: Loaded localization file #0 - 'localization' language: 'English'
+05/29/2024 23:02:07: Loaded localization file #1 - 'localization_extra' language: 'English'
+05/29/2024 23:02:07: Loaded localization file #2 - 'heightmap_message' language: 'English'
+05/29/2024 23:02:07: Loaded localization file #3 - 'localization_hildir' language: 'English'
+05/29/2024 23:02:07: Loaded localization file #4 - 'localization_emotes' language: 'English'
+05/29/2024 23:02:07: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+05/29/2024 23:02:07: Loaded localization file #0 - 'localization' language: 'Spanish'
+05/29/2024 23:02:07: Loaded localization file #1 - 'localization_extra' language: 'Spanish'
+05/29/2024 23:02:07: Loaded localization file #2 - 'heightmap_message' language: 'Spanish'
+05/29/2024 23:02:07: Loaded localization file #3 - 'localization_hildir' language: 'Spanish'
+05/29/2024 23:02:07: Loaded localization file #4 - 'localization_emotes' language: 'Spanish'
+05/29/2024 23:02:07: Loaded localization file #5 - 'localization_ashlands' language: 'Spanish'
+05/29/2024 23:02:07: Sending PlayFab login request (attempt 1)
+05/29/2024 23:02:07: Starting music menu
+Unloading 86077 unused Assets to reduce memory usage. Loaded Objects now: 197433.
+Total: 96.365800 ms (FindLiveObjects: 13.233500 ms CreateObjectMapping: 20.903800 ms MarkObjects: 39.243600 ms  DeleteObjects: 22.984800 ms)
+
+05/29/2024 23:02:08: PlayFab logged in as "Steam_76561198967130550"
+05/29/2024 23:02:08: PlayFab local entity ID is 98F67FB376DED196
+05/29/2024 23:04:06: show character selection
+05/29/2024 23:04:07: OnCharacterStart
+05/29/2024 23:04:13: Button pressed Start  frame:10390
+05/29/2024 23:04:14: Loading main scene
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1135)
+UnloadTime: 13.366400 ms
+05/29/2024 23:04:15: Audioman already exist, destroying self
+05/29/2024 23:04:15: Steam initialized, persona:pericomando *********_com
+05/29/2024 23:04:15: PlayFab custom ID set to "Steam_76561198967130550"
+05/29/2024 23:04:15: Using default prefs
+05/29/2024 23:04:15: Loading player profile el sabio
+05/29/2024 23:04:15: isModded: False
+05/29/2024 23:04:15: Zonesystem Awake 10480
+05/29/2024 23:04:15: DungeonDB Awake 10480
+05/29/2024 23:04:15: Steam initialized, persona:pericomando *********_com
+05/29/2024 23:04:15: Registering lobby
+05/29/2024 23:04:15: Worldgenerator version setup:1
+05/29/2024 23:04:17: Checking for installed DLCs
+05/29/2024 23:04:17: DLC:beta installed:False
+Unloading 372 unused Assets to reduce memory usage. Loaded Objects now: 195320.
+Total: 85.172400 ms (FindLiveObjects: 8.859100 ms CreateObjectMapping: 15.287700 ms MarkObjects: 60.507500 ms  DeleteObjects: 0.517900 ms)
+
+05/29/2024 23:04:18: Zonesystem Start 10480
+05/29/2024 23:04:18: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+05/29/2024 23:04:18: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+05/29/2024 23:04:18: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+05/29/2024 23:04:18: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+05/29/2024 23:04:18: Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+05/29/2024 23:04:18: DungeonDB Start 10480
+05/29/2024 23:04:18: ZRpc timeout set to 30s 
+05/29/2024 23:04:18: ZNET START
+05/29/2024 23:04:18: Load world: cabron (cabron)
+05/29/2024 23:04:18: Loading 1227932 zdos, my sessionID: 2274051413, data version: 34
+05/29/2024 23:04:18: Loading in ZDOs
+05/29/2024 23:04:20: Adding to Dictionary
+05/29/2024 23:04:20: Adding to Sectors
+05/29/2024 23:04:20: Connecting Portals, Spawners & ZSyncTransforms
+ConnectPortals => Connected 18 portals.
+ConnectSpawners => Connected 815 spawners and 1804 'done' spawners.
+05/29/2024 23:04:20: Loaded 11226 locations
+05/29/2024 23:04:20: Unloading unused assets
+Unloading 1 Unused Serialized files (Serialized files now loaded: 1135)
+Am I Host? True
+05/29/2024 23:04:20: Starting respawn
+05/29/2024 23:04:20: Lobby was created k_EResultOK  109775242529421776  error:False
+05/29/2024 23:04:20: Got requested lobby data
+05/29/2024 23:04:21: Loading minimap textures done [379ms]
+05/29/2024 23:04:21: Minimap: unpacking compressed mapData 34513 => 8390594 bytes
+05/29/2024 23:04:21: tip:$loadscreen_tip15
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 197903.
+Total: 238.182500 ms (FindLiveObjects: 9.442000 ms CreateObjectMapping: 12.858000 ms MarkObjects: 215.570700 ms  DeleteObjects: 0.311800 ms)
+
+05/29/2024 23:04:21: Got requested lobby data
+05/29/2024 23:04:26: Setting saddle:True
+05/29/2024 23:04:29: Spawned after 8,019994
+05/29/2024 23:04:29: Skipping unloading unused assets
+05/29/2024 23:04:29: Minimap: Adding unique location (-377.74, 33.69, -451.42)
+05/29/2024 23:04:29: Minimap: Adding unique location (-1615.36, 35.12, 172.06)
+05/29/2024 23:04:31: Starting music meadows
+05/29/2024 23:04:31: Resumed music meadows at 0
+05/29/2024 23:05:47: Setting selected recipe 0
+05/29/2024 23:05:49: Setting selected recipe 0
+05/29/2024 23:06:01: Stopped music meadows at 3949478
+05/29/2024 23:06:01: Starting music meadows
+05/29/2024 23:06:01: Resumed music meadows at 3949478
+05/29/2024 23:06:26: Activating default element Continue
+Am I Host? True
+Am I Host? True
+05/29/2024 23:06:29: Available space to current user: 695719956480. Saving is blocked if below: 143402606 bytes. Warnings are given if below: 286805212
+05/29/2024 23:06:29: Shutting down
+05/29/2024 23:06:29: Minimap: compressed mapData 8390594 => 34513 bytes
+05/29/2024 23:06:30: Considering autobackup. World time: 124,56, short time: 7200, long time: 43200, backup count: 4
+05/29/2024 23:06:30: Skipping backup. World session not long enough.
+05/29/2024 23:06:30: ZNet Shutdown
+05/29/2024 23:06:30: PrepareSave: clone done in 177ms
+05/29/2024 23:06:30: PrepareSave: ZDOExtraData.PrepareSave done in 203 ms
+05/29/2024 23:06:30: World save writing starting
+05/29/2024 23:06:30: World save writing started
+05/29/2024 23:06:33: Saved 1227932 ZDOs
+05/29/2024 23:06:33: World save writing finishing
+05/29/2024 23:06:33: World save writing finished
+05/29/2024 23:06:33: World saved ( 3391,0942ms )
+05/29/2024 23:06:33: Considering autobackup. World time: 124,56, short time: 7200, long time: 43200, backup count: 4
+05/29/2024 23:06:33: Skipping backup. World session not long enough.
+05/29/2024 23:06:34: Unloading unused assets
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1149)
+05/29/2024 23:06:34: Sending disconnect msg
+ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+05/29/2024 23:06:34: Disposing socket
+05/29/2024 23:06:34: Stopping listening socket
+05/29/2024 23:06:34: Last socket, unregistering callback
+05/29/2024 23:06:34: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+05/29/2024 23:06:34: Local player destroyed
+Unloading 486 unused Assets to reduce memory usage. Loaded Objects now: 211373.
+Total: 346.169100 ms (FindLiveObjects: 11.129300 ms CreateObjectMapping: 14.071500 ms MarkObjects: 319.870200 ms  DeleteObjects: 1.097900 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 1136)
+05/29/2024 23:06:35: ZNet OnDestroy
+05/29/2024 23:06:35: Net scene destroyed
+UnloadTime: 207.070000 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+05/29/2024 23:06:35: Audioman already exist, destroying self
+05/29/2024 23:06:35: Steam initialized, persona:pericomando *********_com
+05/29/2024 23:06:35: PlayFab custom ID set to "Steam_76561198967130550"
+05/29/2024 23:06:35: Using default prefs
+05/29/2024 23:06:35: Valheim version: 0.218.15 (network version 27)
+05/29/2024 23:06:35: Worldgenerator version setup:2
+05/29/2024 23:06:35: Render threading mode:MultiThreaded
+05/29/2024 23:06:35: Checking for installed DLCs
+05/29/2024 23:06:35: DLC:beta installed:False
+Unloading 2119 unused Assets to reduce memory usage. Loaded Objects now: 196839.
+Total: 364.623700 ms (FindLiveObjects: 9.658700 ms CreateObjectMapping: 13.264600 ms MarkObjects: 339.471700 ms  DeleteObjects: 2.228600 ms)
+
+05/29/2024 23:06:36: Starting music menu
+05/29/2024 23:06:36: Got requested lobby data
+05/29/2024 23:06:38: Stopped music meadows at 1628524
+05/29/2024 23:07:13: Stopping build thread
+Setting up 12 worker threads for Enlighten.
+05/29/2024 23:07:13: Steam manager on destroy
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 2863 frames, [4.0 KB-8.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 377 frames, [32.0 KB-64.0 KB]: 13906 frames, [64.0 KB-128.0 KB]: 4323 frames, [128.0 KB-256.0 KB]: 337 frames, [256.0 KB-0.5 MB]: 75 frames, [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 6 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 7.6 MB
+      Peak Allocated Bytes 7.6 MB
+      Overflow Count 114
+    [ALLOC_TEMP_Background Job.worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 499.7 KB
+      Overflow Count 259750
+    [ALLOC_TEMP_Background Job.worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 16]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 19]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 20]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_NavMesh Builder.worker 0]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 23
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 15]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.6 KB
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 12
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 192.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 21]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 86.1 KB
+      Overflow Count 2
+    [ALLOC_TEMP_Job.worker 22]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 18]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 172824
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 6 Subsections = 6144 buckets. Failed count: 868720
+        32B: 31 Subsections = 15872 buckets. Failed count: 296477
+        48B: 32 Subsections = 10922 buckets. Failed count: 1423253
+        64B: 33 Subsections = 8448 buckets. Failed count: 355780
+        80B: 60 Subsections = 12288 buckets. Failed count: 90259
+        96B: 48 Subsections = 8192 buckets. Failed count: 110717
+        112B: 18 Subsections = 2633 buckets. Failed count: 46933
+        128B: 28 Subsections = 3584 buckets. Failed count: 267235
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 2855 frames, [32.0 MB-64.0 MB]: 13 frames, [64.0 MB-128.0 MB]: 7610 frames, [128.0 MB-256.0 MB]: 2583 frames, [256.0 MB-0.50 GB]: 8833 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 18
+      Peak Allocated memory 321.8 MB
+      Peak Large allocation bytes 87.2 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 73 frames, [16.0 MB-32.0 MB]: 2299 frames, [32.0 MB-64.0 MB]: 47 frames, [64.0 MB-128.0 MB]: 92 frames, [128.0 MB-256.0 MB]: 194 frames, [256.0 MB-0.50 GB]: 19189 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 20
+      Peak Allocated memory 319.7 MB
+      Peak Large allocation bytes 49.4 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 4
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 35
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 6 Subsections = 6144 buckets. Failed count: 868720
+        32B: 31 Subsections = 15872 buckets. Failed count: 296477
+        48B: 32 Subsections = 10922 buckets. Failed count: 1423253
+        64B: 33 Subsections = 8448 buckets. Failed count: 355780
+        80B: 60 Subsections = 12288 buckets. Failed count: 90259
+        96B: 48 Subsections = 8192 buckets. Failed count: 110717
+        112B: 18 Subsections = 2633 buckets. Failed count: 46933
+        128B: 28 Subsections = 3584 buckets. Failed count: 267235
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 2379 frames, [64.0 KB-128.0 KB]: 38 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 139 frames, [1.0 MB-2.0 MB]: 298 frames, [8.0 MB-16.0 MB]: 9830 frames, [64.0 MB-128.0 MB]: 9209 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 3
+      Peak Allocated memory 100.2 MB
+      Peak Large allocation bytes 92.0 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [1.0 KB-2.0 KB]: 1 frames, [0.5 MB-1.0 MB]: 2358 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 3 frames, [8.0 MB-16.0 MB]: 7 frames, [16.0 MB-32.0 MB]: 68 frames, [32.0 MB-64.0 MB]: 102 frames, [64.0 MB-128.0 MB]: 19234 frames, [128.0 MB-256.0 MB]: 118 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 9
+      Peak Allocated memory 136.6 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 379
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 6 Subsections = 6144 buckets. Failed count: 868720
+        32B: 31 Subsections = 15872 buckets. Failed count: 296477
+        48B: 32 Subsections = 10922 buckets. Failed count: 1423253
+        64B: 33 Subsections = 8448 buckets. Failed count: 355780
+        80B: 60 Subsections = 12288 buckets. Failed count: 90259
+        96B: 48 Subsections = 8192 buckets. Failed count: 110717
+        112B: 18 Subsections = 2633 buckets. Failed count: 46933
+        128B: 28 Subsections = 3584 buckets. Failed count: 267235
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [2.0 MB-4.0 MB]: 2856 frames, [8.0 MB-16.0 MB]: 13 frames, [32.0 MB-64.0 MB]: 19025 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 9
+      Peak Allocated memory 60.0 MB
+      Peak Large allocation bytes 30.6 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [64.0 MB-128.0 MB]: 2347 frames, [128.0 MB-256.0 MB]: 120 frames, [256.0 MB-0.50 GB]: 19426 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 101
+      Peak Allocated memory 493.1 MB
+      Peak Large allocation bytes 118.4 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 127
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 6 Subsections = 6144 buckets. Failed count: 868720
+        32B: 31 Subsections = 15872 buckets. Failed count: 296477
+        48B: 32 Subsections = 10922 buckets. Failed count: 1423253
+        64B: 33 Subsections = 8448 buckets. Failed count: 355780
+        80B: 60 Subsections = 12288 buckets. Failed count: 90259
+        96B: 48 Subsections = 8192 buckets. Failed count: 110717
+        112B: 18 Subsections = 2633 buckets. Failed count: 46933
+        128B: 28 Subsections = 3584 buckets. Failed count: 267235
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [256.0 KB-0.5 MB]: 10478 frames, [1.0 MB-2.0 MB]: 11416 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.5 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [16.0 KB-32.0 KB]: 1 frames, [8.0 MB-16.0 MB]: 1 frames, [16.0 MB-32.0 MB]: 15 frames, [32.0 MB-64.0 MB]: 34 frames, [64.0 MB-128.0 MB]: 21843 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 48
+      Peak Allocated memory 91.6 MB
+      Peak Large allocation bytes 0 B
