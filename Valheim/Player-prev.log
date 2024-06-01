@@ -11,205 +11,1543 @@ Direct3D:
     VRAM:     8018 MB
     Driver:   31.0.15.5222
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.203 seconds
-- Finished resetting the current domain, in  0.002 seconds
+- Loaded All Assemblies, in  0.208 seconds
+- Finished resetting the current domain, in  0.001 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.646800 ms
+UnloadTime: 0.677900 ms
 Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
 Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
 Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
-05/29/2024 23:01:45: Set background loading budget to Low
+05/29/2024 23:31:00: Set background loading budget to Low
 Unloading 5 Unused Serialized files (Serialized files now loaded: 9)
-UnloadTime: 0.180700 ms
-05/29/2024 23:01:45: Fetching PlatformPrefs 'GuiScale' before loading defaults
-05/29/2024 23:01:45: Fetching PlatformPrefs 'GuiScale' before loading defaults
+UnloadTime: 0.161900 ms
+05/29/2024 23:31:00: Fetching PlatformPrefs 'GuiScale' before loading defaults
+05/29/2024 23:31:00: Fetching PlatformPrefs 'GuiScale' before loading defaults
 Unloading 172 unused Assets to reduce memory usage. Loaded Objects now: 2509.
-Total: 1.501100 ms (FindLiveObjects: 0.108100 ms CreateObjectMapping: 0.049600 ms MarkObjects: 1.255800 ms  DeleteObjects: 0.087400 ms)
+Total: 1.579800 ms (FindLiveObjects: 0.109100 ms CreateObjectMapping: 0.049400 ms MarkObjects: 1.337100 ms  DeleteObjects: 0.084100 ms)
 
-05/29/2024 23:01:45: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
-05/29/2024 23:01:45: Set background loading budget to Normal
-05/29/2024 23:01:49: Set background loading budget to High
+05/29/2024 23:31:00: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+05/29/2024 23:31:00: Set background loading budget to Normal
+05/29/2024 23:31:04: Set background loading budget to High
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 Unloading 2 Unused Serialized files (Serialized files now loaded: 1133)
-05/29/2024 23:02:05: Set background loading budget to Low
-UnloadTime: 10.615200 ms
+05/29/2024 23:31:21: Set background loading budget to Low
+UnloadTime: 6.647000 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-05/29/2024 23:02:06: Missing audio clip in music respawn
-05/29/2024 23:02:06: Using environment steamid 892970
-05/29/2024 23:02:06: Using steam APPID:892970
-05/29/2024 23:02:06: Authentication:k_ESteamNetworkingAvailability_Attempting
-05/29/2024 23:02:06: Steam initialized, persona:pericomando *********_com
-05/29/2024 23:02:06: PlayFab custom ID set to "Steam_76561198967130550"
-05/29/2024 23:02:06: Using default prefs
-05/29/2024 23:02:06: Valheim version: 0.218.15 (network version 27)
+05/29/2024 23:31:22: Missing audio clip in music respawn
+05/29/2024 23:31:22: Using environment steamid 892970
+05/29/2024 23:31:22: Using steam APPID:892970
+05/29/2024 23:31:22: Authentication:k_ESteamNetworkingAvailability_Attempting
+05/29/2024 23:31:22: Steam initialized, persona:pericomando *********_com
+05/29/2024 23:31:22: PlayFab custom ID set to "Steam_76561198967130550"
+05/29/2024 23:31:22: Using default prefs
+05/29/2024 23:31:22: Valheim version: 0.218.15 (network version 27)
 Trying to set graphic mode to 'Custom'
 Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
 Graphic mode 'Custom' applied!
-05/29/2024 23:02:06: Worldgenerator version setup:2
-05/29/2024 23:02:07: Render threading mode:MultiThreaded
-05/29/2024 23:02:07: Set button "CamZoomIn" to None!
-05/29/2024 23:02:07: Set button "CamZoomOut" to None!
-05/29/2024 23:02:07: Set button "CamZoomIn" to None!
-05/29/2024 23:02:07: Set button "CamZoomOut" to None!
-05/29/2024 23:02:07: Checking for installed DLCs
-05/29/2024 23:02:07: DLC:beta installed:False
-05/29/2024 23:02:07: Builder started
-05/29/2024 23:02:07: Loaded localization file #0 - 'localization' language: 'English'
-05/29/2024 23:02:07: Loaded localization file #1 - 'localization_extra' language: 'English'
-05/29/2024 23:02:07: Loaded localization file #2 - 'heightmap_message' language: 'English'
-05/29/2024 23:02:07: Loaded localization file #3 - 'localization_hildir' language: 'English'
-05/29/2024 23:02:07: Loaded localization file #4 - 'localization_emotes' language: 'English'
-05/29/2024 23:02:07: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-05/29/2024 23:02:07: Loaded localization file #0 - 'localization' language: 'Spanish'
-05/29/2024 23:02:07: Loaded localization file #1 - 'localization_extra' language: 'Spanish'
-05/29/2024 23:02:07: Loaded localization file #2 - 'heightmap_message' language: 'Spanish'
-05/29/2024 23:02:07: Loaded localization file #3 - 'localization_hildir' language: 'Spanish'
-05/29/2024 23:02:07: Loaded localization file #4 - 'localization_emotes' language: 'Spanish'
-05/29/2024 23:02:07: Loaded localization file #5 - 'localization_ashlands' language: 'Spanish'
-05/29/2024 23:02:07: Sending PlayFab login request (attempt 1)
-05/29/2024 23:02:07: Starting music menu
+05/29/2024 23:31:22: Worldgenerator version setup:2
+05/29/2024 23:31:22: Render threading mode:MultiThreaded
+05/29/2024 23:31:22: Set button "CamZoomIn" to None!
+05/29/2024 23:31:22: Set button "CamZoomOut" to None!
+05/29/2024 23:31:22: Set button "CamZoomIn" to None!
+05/29/2024 23:31:22: Set button "CamZoomOut" to None!
+05/29/2024 23:31:22: Checking for installed DLCs
+05/29/2024 23:31:22: DLC:beta installed:False
+05/29/2024 23:31:22: Builder started
+05/29/2024 23:31:22: Loaded localization file #0 - 'localization' language: 'English'
+05/29/2024 23:31:22: Loaded localization file #1 - 'localization_extra' language: 'English'
+05/29/2024 23:31:22: Loaded localization file #2 - 'heightmap_message' language: 'English'
+05/29/2024 23:31:22: Loaded localization file #3 - 'localization_hildir' language: 'English'
+05/29/2024 23:31:22: Loaded localization file #4 - 'localization_emotes' language: 'English'
+05/29/2024 23:31:22: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+05/29/2024 23:31:22: Loaded localization file #0 - 'localization' language: 'Spanish'
+05/29/2024 23:31:22: Loaded localization file #1 - 'localization_extra' language: 'Spanish'
+05/29/2024 23:31:22: Loaded localization file #2 - 'heightmap_message' language: 'Spanish'
+05/29/2024 23:31:22: Loaded localization file #3 - 'localization_hildir' language: 'Spanish'
+05/29/2024 23:31:22: Loaded localization file #4 - 'localization_emotes' language: 'Spanish'
+05/29/2024 23:31:22: Loaded localization file #5 - 'localization_ashlands' language: 'Spanish'
+05/29/2024 23:31:22: Sending PlayFab login request (attempt 1)
+05/29/2024 23:31:23: Starting music menu
 Unloading 86077 unused Assets to reduce memory usage. Loaded Objects now: 197433.
-Total: 96.365800 ms (FindLiveObjects: 13.233500 ms CreateObjectMapping: 20.903800 ms MarkObjects: 39.243600 ms  DeleteObjects: 22.984800 ms)
+Total: 93.185800 ms (FindLiveObjects: 13.191500 ms CreateObjectMapping: 20.506900 ms MarkObjects: 37.566100 ms  DeleteObjects: 21.921200 ms)
 
-05/29/2024 23:02:08: PlayFab logged in as "Steam_76561198967130550"
-05/29/2024 23:02:08: PlayFab local entity ID is 98F67FB376DED196
-05/29/2024 23:04:06: show character selection
-05/29/2024 23:04:07: OnCharacterStart
-05/29/2024 23:04:13: Button pressed Start  frame:10390
-05/29/2024 23:04:14: Loading main scene
+05/29/2024 23:31:23: PlayFab logged in as "Steam_76561198967130550"
+05/29/2024 23:31:23: PlayFab local entity ID is 98F67FB376DED196
+05/29/2024 23:31:42: show character selection
+05/29/2024 23:31:43: OnCharacterStart
+05/29/2024 23:31:55: Loading main scene
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 Unloading 3 Unused Serialized files (Serialized files now loaded: 1135)
-UnloadTime: 13.366400 ms
-05/29/2024 23:04:15: Audioman already exist, destroying self
-05/29/2024 23:04:15: Steam initialized, persona:pericomando *********_com
-05/29/2024 23:04:15: PlayFab custom ID set to "Steam_76561198967130550"
-05/29/2024 23:04:15: Using default prefs
-05/29/2024 23:04:15: Loading player profile el sabio
-05/29/2024 23:04:15: isModded: False
-05/29/2024 23:04:15: Zonesystem Awake 10480
-05/29/2024 23:04:15: DungeonDB Awake 10480
-05/29/2024 23:04:15: Steam initialized, persona:pericomando *********_com
-05/29/2024 23:04:15: Registering lobby
-05/29/2024 23:04:15: Worldgenerator version setup:1
-05/29/2024 23:04:17: Checking for installed DLCs
-05/29/2024 23:04:17: DLC:beta installed:False
+UnloadTime: 12.529300 ms
+05/29/2024 23:31:55: Audioman already exist, destroying self
+05/29/2024 23:31:55: Steam initialized, persona:pericomando *********_com
+05/29/2024 23:31:55: PlayFab custom ID set to "Steam_76561198967130550"
+05/29/2024 23:31:55: Using default prefs
+05/29/2024 23:31:55: Loading player profile el sabio
+05/29/2024 23:31:55: isModded: False
+05/29/2024 23:31:55: Zonesystem Awake 4801
+05/29/2024 23:31:55: DungeonDB Awake 4801
+05/29/2024 23:31:55: Steam initialized, persona:pericomando *********_com
+05/29/2024 23:31:55: Registering lobby
+05/29/2024 23:31:55: Worldgenerator version setup:1
+05/29/2024 23:31:58: Checking for installed DLCs
+05/29/2024 23:31:58: DLC:beta installed:False
 Unloading 372 unused Assets to reduce memory usage. Loaded Objects now: 195320.
-Total: 85.172400 ms (FindLiveObjects: 8.859100 ms CreateObjectMapping: 15.287700 ms MarkObjects: 60.507500 ms  DeleteObjects: 0.517900 ms)
+Total: 83.673600 ms (FindLiveObjects: 8.596000 ms CreateObjectMapping: 15.605700 ms MarkObjects: 58.972800 ms  DeleteObjects: 0.499000 ms)
 
-05/29/2024 23:04:18: Zonesystem Start 10480
-05/29/2024 23:04:18: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
-05/29/2024 23:04:18: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
-05/29/2024 23:04:18: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
-05/29/2024 23:04:18: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
-05/29/2024 23:04:18: Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
-05/29/2024 23:04:18: DungeonDB Start 10480
-05/29/2024 23:04:18: ZRpc timeout set to 30s 
-05/29/2024 23:04:18: ZNET START
-05/29/2024 23:04:18: Load world: cabron (cabron)
-05/29/2024 23:04:18: Loading 1227932 zdos, my sessionID: 2274051413, data version: 34
-05/29/2024 23:04:18: Loading in ZDOs
-05/29/2024 23:04:20: Adding to Dictionary
-05/29/2024 23:04:20: Adding to Sectors
-05/29/2024 23:04:20: Connecting Portals, Spawners & ZSyncTransforms
+05/29/2024 23:31:58: Zonesystem Start 4801
+05/29/2024 23:31:58: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+05/29/2024 23:31:58: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+05/29/2024 23:31:58: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+05/29/2024 23:31:58: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+05/29/2024 23:31:58: Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+05/29/2024 23:31:58: DungeonDB Start 4801
+05/29/2024 23:31:58: ZRpc timeout set to 30s 
+05/29/2024 23:31:58: ZNET START
+05/29/2024 23:31:58: Load world: cabron (cabron)
+05/29/2024 23:31:58: Loading 1227932 zdos, my sessionID: 1445960058, data version: 34
+05/29/2024 23:31:58: Loading in ZDOs
+05/29/2024 23:32:00: Adding to Dictionary
+05/29/2024 23:32:00: Adding to Sectors
+05/29/2024 23:32:00: Connecting Portals, Spawners & ZSyncTransforms
 ConnectPortals => Connected 18 portals.
 ConnectSpawners => Connected 815 spawners and 1804 'done' spawners.
-05/29/2024 23:04:20: Loaded 11226 locations
-05/29/2024 23:04:20: Unloading unused assets
+05/29/2024 23:32:01: Loaded 11226 locations
+05/29/2024 23:32:01: Unloading unused assets
 Unloading 1 Unused Serialized files (Serialized files now loaded: 1135)
 Am I Host? True
-05/29/2024 23:04:20: Starting respawn
-05/29/2024 23:04:20: Lobby was created k_EResultOK  109775242529421776  error:False
-05/29/2024 23:04:20: Got requested lobby data
-05/29/2024 23:04:21: Loading minimap textures done [379ms]
-05/29/2024 23:04:21: Minimap: unpacking compressed mapData 34513 => 8390594 bytes
-05/29/2024 23:04:21: tip:$loadscreen_tip15
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 197903.
-Total: 238.182500 ms (FindLiveObjects: 9.442000 ms CreateObjectMapping: 12.858000 ms MarkObjects: 215.570700 ms  DeleteObjects: 0.311800 ms)
+05/29/2024 23:32:01: Starting respawn
+05/29/2024 23:32:01: Lobby was created k_EResultOK  109775242538024852  error:False
+05/29/2024 23:32:01: Got requested lobby data
+05/29/2024 23:32:01: Loading minimap textures done [338ms]
+05/29/2024 23:32:01: Minimap: unpacking compressed mapData 34513 => 8390594 bytes
+05/29/2024 23:32:01: tip:$loadscreen_tip08
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 197495.
+Total: 228.233000 ms (FindLiveObjects: 9.119800 ms CreateObjectMapping: 12.687900 ms MarkObjects: 206.109100 ms  DeleteObjects: 0.316000 ms)
 
-05/29/2024 23:04:21: Got requested lobby data
-05/29/2024 23:04:26: Setting saddle:True
-05/29/2024 23:04:29: Spawned after 8,019994
-05/29/2024 23:04:29: Skipping unloading unused assets
-05/29/2024 23:04:29: Minimap: Adding unique location (-377.74, 33.69, -451.42)
-05/29/2024 23:04:29: Minimap: Adding unique location (-1615.36, 35.12, 172.06)
-05/29/2024 23:04:31: Starting music meadows
-05/29/2024 23:04:31: Resumed music meadows at 0
-05/29/2024 23:05:47: Setting selected recipe 0
-05/29/2024 23:05:49: Setting selected recipe 0
-05/29/2024 23:06:01: Stopped music meadows at 3949478
-05/29/2024 23:06:01: Starting music meadows
-05/29/2024 23:06:01: Resumed music meadows at 3949478
-05/29/2024 23:06:26: Activating default element Continue
+05/29/2024 23:32:02: Got requested lobby data
+05/29/2024 23:32:06: Setting saddle:True
+05/29/2024 23:32:10: Spawned after 8,019994
+05/29/2024 23:32:10: Skipping unloading unused assets
+05/29/2024 23:32:10: Minimap: Adding unique location (-377.74, 33.69, -451.42)
+05/29/2024 23:32:10: Minimap: Adding unique location (-1615.36, 35.12, 172.06)
+05/29/2024 23:32:12: Starting music meadows
+05/29/2024 23:32:12: Resumed music meadows at 0
+05/29/2024 23:32:22: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+05/29/2024 23:32:22: New connection
+05/29/2024 23:32:22: Accepting connection k_EResultOK
+05/29/2024 23:32:22: Connecting to Steamworks.SteamNetworkingIdentity
+05/29/2024 23:32:22: Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
+05/29/2024 23:32:23: Got handshake from client 76561198300070917
+05/29/2024 23:32:23: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+05/29/2024 23:32:29: Network version check, their:27, mine:27
+05/29/2024 23:32:29: Server: New peer connected,sending global keys
+05/29/2024 23:32:46: Got character ZDOID from Tuvieka : -1225840499:1
+05/29/2024 23:32:46: Spawned Greydwarf x 2
+05/29/2024 23:32:56: Player -1225840499 wants to pickup LeatherScraps(Clone)   im: 1445960058
+05/29/2024 23:32:56: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:32:59: Teleportation TRIGGER
+05/29/2024 23:32:59: Teleporting El Sabio
+05/29/2024 23:33:04: Loading dungeon
+05/29/2024 23:33:04: Dungeon loaded with 12 rooms in 0,5001 ms.
+05/29/2024 23:33:04: Loading room prefabs asynchronously
+05/29/2024 23:33:05: Spawning dungeon
+05/29/2024 23:33:13: Stopped music meadows at 2691628
+05/29/2024 23:33:13: Starting music blackforest
+05/29/2024 23:33:13: Resumed music blackforest at 0
+05/29/2024 23:33:15: Spawned Seagal x 1
+05/29/2024 23:33:16: Player onboard, total onboard 1
+05/29/2024 23:33:19: Setting selected recipe 0
+05/29/2024 23:33:28: Loading dungeon
+05/29/2024 23:33:28: Dungeon loaded with 12 rooms in 0 ms.
+05/29/2024 23:33:28: Loading room prefabs asynchronously
+05/29/2024 23:33:28: Spawning dungeon
+05/29/2024 23:33:28: Player over board, players left 0
+05/29/2024 23:33:34: Player onboard, total onboard 1
+05/29/2024 23:33:36: Player over board, players left 0
+05/29/2024 23:33:37: Loading dungeon
+05/29/2024 23:33:37: Dungeon loaded with 12 rooms in 0 ms.
+05/29/2024 23:33:37: Loading room prefabs asynchronously
+05/29/2024 23:33:37: Spawning dungeon
+05/29/2024 23:33:39: Player onboard, total onboard 1
+05/29/2024 23:33:45: Loading dungeon
+05/29/2024 23:33:45: Dungeon loaded with 12 rooms in 0 ms.
+05/29/2024 23:33:45: Loading room prefabs asynchronously
+05/29/2024 23:33:45: Spawning dungeon
+05/29/2024 23:33:45: Player over board, players left 0
+05/29/2024 23:33:46: Player onboard, total onboard 1
+05/29/2024 23:33:46: Player over board, players left 0
+05/29/2024 23:33:48: Player -1225840499 wants to pickup FineWood(Clone)   im: 1445960058
+05/29/2024 23:33:48: Player -1225840499 wants to pickup FineWood(Clone)   im: 1445960058
+05/29/2024 23:33:48:   but they are already the owner
+05/29/2024 23:33:49: Setting selected recipe 0
+05/29/2024 23:33:51: Setting selected recipe 0
+05/29/2024 23:33:55: Player onboard, total onboard 1
+05/29/2024 23:33:58: Doodad controlls set VikingShip(Clone)
+05/29/2024 23:33:58: Player onboard, total onboard 2
+05/29/2024 23:34:54: Starting music sailing
+05/29/2024 23:34:55: Spawned Fish1 x 5
+05/29/2024 23:34:57: Placed locations in zone -66,-107  duration 1,0023 ms
+05/29/2024 23:35:00: Stopped music blackforest at 4705881
+05/29/2024 23:35:00: Resumed music sailing at 0
+05/29/2024 23:35:34: Stopped music sailing at 1516569
+05/29/2024 23:35:34: Starting music mountain
+05/29/2024 23:35:34: Resumed music mountain at 0
+05/29/2024 23:35:54: Player over board, players left 1
+05/29/2024 23:35:57: Stop doodad controlls
+05/29/2024 23:36:00: Player over board, players left 0
+05/29/2024 23:36:04: Disabling PlayerBase  character_trigger
+05/29/2024 23:36:05: Placed piece_workbench
+05/29/2024 23:36:05: Disabling PlayerBase  character_trigger
+05/29/2024 23:36:08: Disabling TELEPORT  character_trigger
+05/29/2024 23:36:08: Disabling PlayerBase  character_trigger
+05/29/2024 23:36:10: Placed portal_wood
+05/29/2024 23:36:10: Disabling TELEPORT  character_trigger
+05/29/2024 23:36:10: Disabling PlayerBase  character_trigger
+05/29/2024 23:36:10: Disabling TELEPORT  character_trigger
+05/29/2024 23:36:10: Disabling PlayerBase  character_trigger
+05/29/2024 23:36:10: Disabling TELEPORT  character_trigger
+05/29/2024 23:36:10: Disabling PlayerBase  character_trigger
+05/29/2024 23:36:16: Teleportation TRIGGER
+05/29/2024 23:36:17: Teleportation TRIGGER
+05/29/2024 23:36:17: Connected portals 1:518995 <-> 1445960058:1228335
+05/29/2024 23:36:17: [ Connected 1 portals ]
+05/29/2024 23:36:18: Teleportation TRIGGER
+05/29/2024 23:36:18: Teleporting El Sabio
+05/29/2024 23:36:25: Setting saddle:True
+05/29/2024 23:36:30: Disabling TELEPORT  character_trigger
+05/29/2024 23:36:30: Disabling PlayerBase  character_trigger
+05/29/2024 23:36:32: Stopped music mountain at 2550508
+05/29/2024 23:36:32: Starting music meadows
+05/29/2024 23:36:32: Resumed music meadows at 2691628
+05/29/2024 23:36:32: Disabling PlayerBase  character_trigger
+05/29/2024 23:36:33: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:36:48: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:36:48: Setting selected recipe 0
+05/29/2024 23:36:50: Player -1225840499 wants to pickup Pukeberries(Clone)   im: 1445960058
+05/29/2024 23:36:50: Player -1225840499 wants to pickup LeatherScraps(Clone)   im: 1445960058
+05/29/2024 23:36:50: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:36:51: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:36:51: Setting selected recipe 0
+05/29/2024 23:36:52: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:36:53: Setting selected recipe 18
+05/29/2024 23:36:54: Player -1225840499 wants to open piece_chest(Clone)   im: 1445960058
+05/29/2024 23:36:55: Setting selected recipe 18
+05/29/2024 23:36:58: Setting selected recipe 0
+05/29/2024 23:37:03: Setting selected recipe 0
+05/29/2024 23:37:03: Setting selected recipe 0
+05/29/2024 23:37:04: Setting selected recipe 21
+05/29/2024 23:37:06: Setting selected recipe 22
+05/29/2024 23:37:11: Setting selected recipe 0
+05/29/2024 23:37:15: Stopped music meadows at 1884200
+05/29/2024 23:37:15: Starting music meadows
+05/29/2024 23:37:15: Resumed music meadows at 1884200
+05/29/2024 23:37:33: Setting selected recipe 0
+05/29/2024 23:37:41: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:37:41: Setting selected recipe 1
+05/29/2024 23:37:41: Stopped music meadows at 1176940
+05/29/2024 23:37:41: Starting music blackforest
+05/29/2024 23:37:41: Resumed music blackforest at 4705881
+05/29/2024 23:37:46: Setting selected recipe 1
+05/29/2024 23:37:48: Drop item $item_leatherscraps
+05/29/2024 23:37:48: drop all 1  1
+05/29/2024 23:37:48: Setting selected recipe 1
+05/29/2024 23:37:48: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:37:49: Drop item $item_royaljelly
+05/29/2024 23:37:49: drop all 3  3
+05/29/2024 23:37:49: Setting selected recipe 1
+05/29/2024 23:37:51: Loading dungeon
+05/29/2024 23:37:51: Dungeon loaded with 27 rooms in 0 ms.
+05/29/2024 23:37:51: Loading room prefabs asynchronously
+05/29/2024 23:37:51: Loading dungeon
+05/29/2024 23:37:51: Dungeon loaded with 23 rooms in 0 ms.
+05/29/2024 23:37:51: Loading room prefabs asynchronously
+05/29/2024 23:37:51: Spawning dungeon
+05/29/2024 23:37:51: Spawning dungeon
+05/29/2024 23:38:04: Setting selected recipe 1
+05/29/2024 23:38:08: Setting selected recipe 1
+05/29/2024 23:38:09: Loading dungeon
+05/29/2024 23:38:09: Dungeon loaded with 26 rooms in 0 ms.
+05/29/2024 23:38:09: Loading room prefabs asynchronously
+05/29/2024 23:38:09: Spawning dungeon
+05/29/2024 23:38:16: Setting selected recipe 1
+05/29/2024 23:38:18: Drop item $item_stone
+05/29/2024 23:38:18: drop all 1  1
+05/29/2024 23:38:18: Setting selected recipe 1
+05/29/2024 23:38:20: Drop item $item_fircone
+05/29/2024 23:38:20: drop all 2  2
+05/29/2024 23:38:20: Setting selected recipe 1
+05/29/2024 23:38:21: Drop item $item_wood
+05/29/2024 23:38:21: drop all 2  2
+05/29/2024 23:38:21: Setting selected recipe 0
+05/29/2024 23:38:22: Drop item $item_resin
+05/29/2024 23:38:22: drop all 1  1
+05/29/2024 23:38:22: Setting selected recipe 0
+05/29/2024 23:38:23: Update PlayFab entity token
+05/29/2024 23:38:25: Starting music evening
+05/29/2024 23:38:26: Stopped music blackforest at 1982265
+05/29/2024 23:38:29: Spawned FireFlies x 1
+05/29/2024 23:38:30: Spawned FireFlies x 1
+05/29/2024 23:38:30: Spawned FireFlies x 1
+05/29/2024 23:38:40: Spawned Greydwarf_Shaman x 1
+05/29/2024 23:38:42: Loading dungeon
+05/29/2024 23:38:42: Dungeon loaded with 27 rooms in 0 ms.
+05/29/2024 23:38:42: Loading room prefabs asynchronously
+05/29/2024 23:38:42: Spawning dungeon
+05/29/2024 23:38:44: Destroying old picked Pickable_ForestCryptRemains03(Clone)
+05/29/2024 23:38:45: Destroying old picked Pickable_ForestCryptRemains01(Clone)
+05/29/2024 23:38:47: Spawned Greydwarf x 1
+05/29/2024 23:38:47: Spawned Greydwarf_Shaman x 1
+05/29/2024 23:38:50: Setting saddle:True
+05/29/2024 23:38:58: Spawned Skeleton x 1
+05/29/2024 23:38:58: Spawned Skeleton x 2
+05/29/2024 23:39:02: Setting selected recipe 0
+05/29/2024 23:39:12: Starting music blackforest
+05/29/2024 23:39:12: Resumed music blackforest at 1982265
+05/29/2024 23:39:22: Loading dungeon
+05/29/2024 23:39:22: Dungeon loaded with 26 rooms in 0,5007 ms.
+05/29/2024 23:39:22: Loading room prefabs asynchronously
+05/29/2024 23:39:22: Loading dungeon
+05/29/2024 23:39:22: Dungeon loaded with 27 rooms in 0 ms.
+05/29/2024 23:39:22: Loading room prefabs asynchronously
+05/29/2024 23:39:22: Spawning dungeon
+05/29/2024 23:39:22: Spawning dungeon
+05/29/2024 23:39:33: Spawned Greydwarf x 2
+05/29/2024 23:39:33: Spawned Seeker x 2
+05/29/2024 23:39:41: Spawned odin x 1
+05/29/2024 23:39:45: No player in range, despawning
+05/29/2024 23:40:04: hit mine rock 102
+05/29/2024 23:40:05: hit mine rock 102
+05/29/2024 23:40:07: hit mine rock 102
+05/29/2024 23:40:07: Suport time 2,685547
+05/29/2024 23:40:08: hit mine rock 44
+05/29/2024 23:40:09: hit mine rock 44
+05/29/2024 23:40:11: hit mine rock 44
+05/29/2024 23:40:11: Suport time 2,075195
+05/29/2024 23:40:11: hit mine rock 0
+05/29/2024 23:40:13: hit mine rock 58
+05/29/2024 23:40:21: Got character ZDOID from Tuvieka : 0:0
+05/29/2024 23:40:26: hit mine rock 80
+05/29/2024 23:40:26: hit mine rock 58
+05/29/2024 23:40:29: Got character ZDOID from Tuvieka : -1225840499:520
+05/29/2024 23:40:34: Spawned Greydwarf x 1
+05/29/2024 23:40:40: Spawned Greydwarf x 1
+05/29/2024 23:40:40: Spawned Greydwarf_Elite x 1
+05/29/2024 23:40:40: Spawned Skeleton x 1
+05/29/2024 23:40:40: Spawned Skeleton x 1
+05/29/2024 23:40:40: Spawned Goblin x 3
+05/29/2024 23:40:40: Spawned FireFlies x 1
+05/29/2024 23:40:40: Spawned FireFlies x 1
+05/29/2024 23:40:42: Destroying old picked Pickable_MountainRemains01_buried(Clone)
+05/29/2024 23:40:45: Loading dungeon
+05/29/2024 23:40:45: Dungeon loaded with 26 rooms in 0 ms.
+05/29/2024 23:40:45: Loading room prefabs asynchronously
+05/29/2024 23:40:45: Spawning dungeon
+05/29/2024 23:41:08: hit mine rock 41
+05/29/2024 23:41:09: hit mine rock 41
+05/29/2024 23:41:11: hit mine rock 41
+05/29/2024 23:41:14: hit mine rock 61
+05/29/2024 23:41:28: hit mine rock 61
+05/29/2024 23:41:29: hit mine rock 61
+05/29/2024 23:41:30: hit mine rock 61
+05/29/2024 23:41:34: Setting selected recipe 0
+05/29/2024 23:41:35: Spawned Greydwarf x 3
+05/29/2024 23:41:40: Drop item $item_stone
+05/29/2024 23:41:40: drop all 8  8
+05/29/2024 23:41:40: Setting selected recipe 0
+05/29/2024 23:41:43: Setting selected recipe 0
+05/29/2024 23:41:47: hit mine rock 27
+05/29/2024 23:41:47: hit mine rock 41
+05/29/2024 23:41:48: hit mine rock 27
+05/29/2024 23:41:48: hit mine rock 41
+05/29/2024 23:41:50: hit mine rock 27
+05/29/2024 23:41:50: Suport time 2,075195
+05/29/2024 23:41:50: hit mine rock 41
+05/29/2024 23:41:51: hit mine rock 41
+05/29/2024 23:41:51: Suport time 2,075195
+05/29/2024 23:41:53: hit mine rock 30
+05/29/2024 23:41:54: hit mine rock 30
+05/29/2024 23:41:55: hit mine rock 30
+05/29/2024 23:41:55: Suport time 2,075195
+05/29/2024 23:41:57: hit mine rock 51
+05/29/2024 23:41:58: hit mine rock 51
+05/29/2024 23:42:01: hit mine rock 51
+05/29/2024 23:42:01: Suport time 2,258301
+05/29/2024 23:42:08: Setting selected recipe 0
+05/29/2024 23:42:14: hit mine rock 18
+05/29/2024 23:42:14: hit mine rock 26
+05/29/2024 23:42:16: hit mine rock 18
+05/29/2024 23:42:16: hit mine rock 26
+05/29/2024 23:42:17: hit mine rock 26
+05/29/2024 23:42:17: Suport time 2,01416
+05/29/2024 23:42:20: hit mine rock 92
+05/29/2024 23:42:20: hit mine rock 123
+05/29/2024 23:42:20: hit mine rock 75
+05/29/2024 23:42:22: hit mine rock 92
+05/29/2024 23:42:22: hit mine rock 123
+05/29/2024 23:42:22: hit mine rock 75
+05/29/2024 23:42:24: hit mine rock 92
+05/29/2024 23:42:24: hit mine rock 123
+05/29/2024 23:42:24: hit mine rock 75
+05/29/2024 23:42:24: Setting selected recipe 0
+05/29/2024 23:42:28: Setting selected recipe 0
+05/29/2024 23:42:31: hit mine rock 92
+05/29/2024 23:42:31: hit mine rock 123
+05/29/2024 23:42:31: hit mine rock 75
+05/29/2024 23:42:32: Setting selected recipe 0
+05/29/2024 23:42:34: hit mine rock 92
+05/29/2024 23:42:34: Suport time 2,01416
+05/29/2024 23:42:34: hit mine rock 123
+05/29/2024 23:42:34: hit mine rock 75
+05/29/2024 23:42:34: Suport time 1,89209
+05/29/2024 23:42:36: hit mine rock 123
+05/29/2024 23:42:36: Suport time 2,01416
+05/29/2024 23:42:36: hit mine rock 94
+05/29/2024 23:42:36: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:42:38: hit mine rock 12
+05/29/2024 23:42:38: hit mine rock 94
+05/29/2024 23:42:38: Player -1225840499 wants to pickup Wood(Clone)   im: 1445960058
+05/29/2024 23:42:38: Player -1225840499 wants to pickup Wood(Clone)   im: 1445960058
+05/29/2024 23:42:38: Player -1225840499 wants to pickup Wood(Clone)   im: 1445960058
+05/29/2024 23:42:39: Player -1225840499 wants to pickup Wood(Clone)   im: 1445960058
+05/29/2024 23:42:39: hit mine rock 12
+05/29/2024 23:42:39: hit mine rock 94
+05/29/2024 23:42:40: Player -1225840499 wants to takeall from Player_tombstone(Clone)   im: 1445960058
+05/29/2024 23:42:42: Spawned FireFlies x 1
+05/29/2024 23:42:44: hit mine rock 12
+05/29/2024 23:42:44: hit mine rock 94
+05/29/2024 23:42:44: Suport time 2,01416
+05/29/2024 23:42:45: Poison damage: 2,453846 ttl:4,502746 hits:4 dmg perhit:0,6134615
+05/29/2024 23:42:45: hit mine rock 81
+05/29/2024 23:42:45: hit mine rock 12
+05/29/2024 23:42:45: Suport time 2,01416
+05/29/2024 23:42:45: hit mine rock 69
+05/29/2024 23:42:52: hit mine rock 104
+05/29/2024 23:42:53: Player -1225840499 wants to pickup Resin(Clone)   im: 1445960058
+05/29/2024 23:42:53: Player -1225840499 wants to pickup Wood(Clone)   im: 1445960058
+05/29/2024 23:42:53: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:42:54: Setting selected recipe 0
+05/29/2024 23:42:56: Drop item $item_stone
+05/29/2024 23:42:56: drop all 17  17
+05/29/2024 23:42:56: Setting selected recipe 0
+05/29/2024 23:42:59: hit mine rock 8
+05/29/2024 23:42:59: hit mine rock 70
+05/29/2024 23:43:00: hit mine rock 8
+05/29/2024 23:43:00: hit mine rock 70
+05/29/2024 23:43:02: hit mine rock 8
+05/29/2024 23:43:02: hit mine rock 70
+05/29/2024 23:43:03: Spawned FireFlies x 1
+05/29/2024 23:43:06: hit mine rock 8
+05/29/2024 23:43:06: Suport time 1,953125
+05/29/2024 23:43:06: hit mine rock 70
+05/29/2024 23:43:06: Suport time 1,831055
+05/29/2024 23:43:08: hit mine rock 0
+05/29/2024 23:43:09: hit mine rock 0
+05/29/2024 23:43:10: Minerock hit has no collider or invalid hit area on ___MineRock5 m_meshFilter
+05/29/2024 23:43:11: hit mine rock 0
+05/29/2024 23:43:12: hit mine rock 58
+05/29/2024 23:43:12: hit mine rock 0
+05/29/2024 23:43:12: Suport time 1,953125
+05/29/2024 23:43:12: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:43:12: Player -1225840499 wants to pickup CopperOre(Clone)   im: 1445960058
+05/29/2024 23:43:12: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:43:14: hit mine rock 58
+05/29/2024 23:43:15: hit mine rock 58
+05/29/2024 23:43:15: Suport time 1,953125
+05/29/2024 23:43:17: hit mine rock 2
+05/29/2024 23:43:19: hit mine rock 80
+05/29/2024 23:43:20: hit mine rock 2
+05/29/2024 23:43:20: hit mine rock 80
+05/29/2024 23:43:22: hit mine rock 61
+05/29/2024 23:43:22: hit mine rock 80
+05/29/2024 23:43:23: hit mine rock 61
+05/29/2024 23:43:23: hit mine rock 80
+05/29/2024 23:43:23: Suport time 1,89209
+05/29/2024 23:43:24: Player -1225840499 wants to pickup CopperOre(Clone)   im: 1445960058
+05/29/2024 23:43:24: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:43:24: Player -1225840499 wants to pickup CopperOre(Clone)   im: 1445960058
+05/29/2024 23:43:24: Player -1225840499 wants to pickup CopperOre(Clone)   im: 1445960058
+05/29/2024 23:43:24: hit mine rock 61
+05/29/2024 23:43:24: Suport time 1,89209
+05/29/2024 23:43:27: Setting selected recipe 0
+05/29/2024 23:43:29: Poison damage: 2,192106 ttl:4,310669 hits:4 dmg perhit:0,5480264
+05/29/2024 23:43:29: hit mine rock 110
+05/29/2024 23:43:31: hit mine rock 110
+05/29/2024 23:43:37: Spawned Greydwarf x 1
+05/29/2024 23:43:37: Spawned Greydwarf_Shaman x 1
+05/29/2024 23:43:37: hit mine rock 17
+05/29/2024 23:43:38: hit mine rock 20
+05/29/2024 23:43:38: hit mine rock 17
+05/29/2024 23:43:39: hit mine rock 20
+05/29/2024 23:43:40: hit mine rock 17
+05/29/2024 23:43:40: hit mine rock 20
+05/29/2024 23:43:42: hit mine rock 20
+05/29/2024 23:43:43: hit mine rock 20
+05/29/2024 23:43:43: Suport time 2,01416
+05/29/2024 23:43:45: Player -1225840499 wants to pickup CopperOre(Clone)   im: 1445960058
+05/29/2024 23:43:46: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:43:46: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:43:48: hit mine rock 110
+05/29/2024 23:43:48: hit mine rock 100
+05/29/2024 23:43:49: hit mine rock 110
+05/29/2024 23:43:49: hit mine rock 100
+05/29/2024 23:43:51: hit mine rock 110
+05/29/2024 23:43:51: hit mine rock 100
+05/29/2024 23:43:52: hit mine rock 104
+05/29/2024 23:43:52: hit mine rock 17
+05/29/2024 23:43:52: Suport time 1,953125
+05/29/2024 23:43:52: hit mine rock 110
+05/29/2024 23:43:52: hit mine rock 100
+05/29/2024 23:43:53: hit mine rock 104
+05/29/2024 23:43:53: hit mine rock 110
+05/29/2024 23:43:53: hit mine rock 100
+05/29/2024 23:43:55: hit mine rock 104
+05/29/2024 23:43:55: hit mine rock 110
+05/29/2024 23:43:55: Suport time 1,953125
+05/29/2024 23:43:55: hit mine rock 100
+05/29/2024 23:43:55: Suport time 1,89209
+05/29/2024 23:43:55: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:43:55: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:43:56: hit mine rock 104
+05/29/2024 23:43:56: Suport time 1,953125
+05/29/2024 23:43:57: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:43:57: Player -1225840499 wants to pickup CopperOre(Clone)   im: 1445960058
+05/29/2024 23:43:57: Player -1225840499 wants to pickup Resin(Clone)   im: 1445960058
+05/29/2024 23:43:58: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:43:58: hit mine rock 36
+05/29/2024 23:43:59: hit mine rock 36
+05/29/2024 23:43:59: Suport time 2,01416
+05/29/2024 23:44:00: hit mine rock 43
+05/29/2024 23:44:03: hit mine rock 43
+05/29/2024 23:44:05: hit mine rock 43
+05/29/2024 23:44:05: Suport time 1,953125
+05/29/2024 23:44:06: Player -1225840499 wants to pickup CopperOre(Clone)   im: 1445960058
+05/29/2024 23:44:06: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:44:10: hit mine rock 67
+05/29/2024 23:44:11: hit mine rock 82
+05/29/2024 23:44:11: hit mine rock 67
+05/29/2024 23:44:11: hit mine rock 105
+05/29/2024 23:44:12: hit mine rock 82
+05/29/2024 23:44:12: hit mine rock 38
+05/29/2024 23:44:12: hit mine rock 5
+05/29/2024 23:44:12: hit mine rock 29
+05/29/2024 23:44:12: hit mine rock 67
+05/29/2024 23:44:12: hit mine rock 68
+05/29/2024 23:44:12: hit mine rock 14
+05/29/2024 23:44:12: hit mine rock 2
+05/29/2024 23:44:12: hit mine rock 90
+05/29/2024 23:44:13: hit mine rock 82
+05/29/2024 23:44:13: Suport time 1,89209
+05/29/2024 23:44:15: hit mine rock 18
+05/29/2024 23:44:16: hit mine rock 18
+05/29/2024 23:44:16: Suport time 1,89209
+05/29/2024 23:44:18: hit mine rock 105
+05/29/2024 23:44:18: Setting selected recipe 0
+05/29/2024 23:44:21: Player -1225840499 wants to pickup Wood(Clone)   im: 1445960058
+05/29/2024 23:44:21: Player -1225840499 wants to pickup Pukeberries(Clone)   im: 1445960058
+05/29/2024 23:44:22: hit mine rock 105
+05/29/2024 23:44:22: Suport time 1,953125
+05/29/2024 23:44:23: hit mine rock 103
+05/29/2024 23:44:25: Player -1225840499 wants to pickup Resin(Clone)   im: 1445960058
+05/29/2024 23:44:26: Player -1225840499 wants to pickup Wood(Clone)   im: 1445960058
+05/29/2024 23:44:26: Setting selected recipe 0
+05/29/2024 23:44:27: Poison damage: 1,465359 ttl:2,21052 hits:2 dmg perhit:0,7326797
+05/29/2024 23:44:30: Poison damage: 0,9826709 ttl:1,991298 hits:1 dmg perhit:0,9826709
+05/29/2024 23:44:31: Setting selected recipe 0
+05/29/2024 23:44:38: Spawned Greydwarf x 1
+05/29/2024 23:44:38: Spawned Greydwarf_Shaman x 1
+05/29/2024 23:44:39: Setting selected recipe 0
+05/29/2024 23:44:42: Spawned Greydwarf_Elite x 1
+05/29/2024 23:44:42: Spawned Skeleton x 3
+05/29/2024 23:44:42: Spawned FireFlies x 1
+05/29/2024 23:44:42: Loading dungeon
+05/29/2024 23:44:42: Dungeon loaded with 27 rooms in 0 ms.
+05/29/2024 23:44:42: Loading room prefabs asynchronously
+05/29/2024 23:44:42: Spawning dungeon
+05/29/2024 23:44:45: Setting selected recipe 0
+05/29/2024 23:44:47: Setting selected recipe 0
+05/29/2024 23:44:55: Spawned Greydwarf x 2
+05/29/2024 23:44:55: Spawned Greydwarf_Shaman x 1
+05/29/2024 23:45:05: Spawned Greydwarf x 1
+05/29/2024 23:45:05: Spawned Greydwarf_Shaman x 1
+05/29/2024 23:45:15: Spawned Greydwarf x 1
+05/29/2024 23:45:15: Spawned Greydwarf_Elite x 1
+05/29/2024 23:45:15: Spawned Greydwarf_Shaman x 1
+05/29/2024 23:45:17: Setting saddle:True
+05/29/2024 23:45:32: Spawned Greydwarf_Elite x 1
+05/29/2024 23:45:32: Spawned Troll x 1
+05/29/2024 23:45:32: Spawned FireFlies x 1
+05/29/2024 23:45:41: Setting selected recipe 0
+05/29/2024 23:45:41: Spawned Skeleton x 1
+05/29/2024 23:45:41: Spawned Greyling x 1
+05/29/2024 23:46:08: Setting selected recipe 0
+05/29/2024 23:46:11: Drop item $item_trophy_goblin
+05/29/2024 23:46:11: drop all 1  1
+05/29/2024 23:46:11: Setting selected recipe 0
+05/29/2024 23:46:23: Spawned Skeleton x 3
+05/29/2024 23:46:23: Spawned Seeker x 2
+05/29/2024 23:46:25: Player -1225840499 wants to pickup AncientSeed(Clone)   im: 1445960058
+05/29/2024 23:46:25: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:46:29: Stopped music blackforest at 3156166
+05/29/2024 23:46:29: trying to add $item_wood
+05/29/2024 23:46:29: Added ore Wood
+05/29/2024 23:46:30: trying to add $item_wood
+05/29/2024 23:46:30: Added ore Wood
+05/29/2024 23:46:30: trying to add $item_wood
+05/29/2024 23:46:30: Added ore Wood
+05/29/2024 23:46:30: trying to add $item_wood
+05/29/2024 23:46:30: Added ore Wood
+05/29/2024 23:46:30: trying to add $item_finewood
+05/29/2024 23:46:30: Added ore FineWood
+05/29/2024 23:46:30: trying to add $item_finewood
+05/29/2024 23:46:30: Added ore FineWood
+05/29/2024 23:46:31: trying to add $item_finewood
+05/29/2024 23:46:31: Added ore FineWood
+05/29/2024 23:46:32: hit mine rock 2
+05/29/2024 23:46:32: Valid True
+05/29/2024 23:46:32: On death False
+05/29/2024 23:46:32: trying to add $item_finewood
+05/29/2024 23:46:32: Added ore FineWood
+05/29/2024 23:46:32: trying to add $item_finewood
+05/29/2024 23:46:32: Added ore FineWood
+05/29/2024 23:46:32: trying to add $item_finewood
+05/29/2024 23:46:32: Added ore FineWood
+05/29/2024 23:46:32: trying to add $item_finewood
+05/29/2024 23:46:32: Added ore FineWood
+05/29/2024 23:46:32: trying to add $item_finewood
+05/29/2024 23:46:32: Added ore FineWood
+05/29/2024 23:46:33: trying to add $item_finewood
+05/29/2024 23:46:33: Added ore FineWood
+05/29/2024 23:46:35: trying to add $item_finewood
+05/29/2024 23:46:35: Added ore FineWood
+05/29/2024 23:46:35: trying to add $item_finewood
+05/29/2024 23:46:35: Added ore FineWood
+05/29/2024 23:46:35: trying to add $item_finewood
+05/29/2024 23:46:35: Added ore FineWood
+05/29/2024 23:46:35: trying to add $item_finewood
+05/29/2024 23:46:35: Added ore FineWood
+05/29/2024 23:46:35: trying to add $item_finewood
+05/29/2024 23:46:35: Added ore FineWood
+05/29/2024 23:46:36: trying to add $item_finewood
+05/29/2024 23:46:36: Added ore FineWood
+05/29/2024 23:46:36: trying to add $item_finewood
+05/29/2024 23:46:36: Added ore FineWood
+05/29/2024 23:46:36: trying to add $item_finewood
+05/29/2024 23:46:36: Added ore FineWood
+05/29/2024 23:46:37: trying to add $item_finewood
+05/29/2024 23:46:37: Added ore FineWood
+05/29/2024 23:46:38: trying to add $item_finewood
+05/29/2024 23:46:38: Added ore FineWood
+05/29/2024 23:46:38: trying to add $item_finewood
+05/29/2024 23:46:38: Added ore FineWood
+05/29/2024 23:46:44: trying to add $item_copperore
+05/29/2024 23:46:44: Added ore CopperOre
+05/29/2024 23:46:45: Starting music home
+05/29/2024 23:46:45: trying to add $item_copperore
+05/29/2024 23:46:45: Added ore CopperOre
+05/29/2024 23:46:45: trying to add $item_copperore
+05/29/2024 23:46:45: Added ore CopperOre
+05/29/2024 23:46:45: trying to add $item_copperore
+05/29/2024 23:46:45: Added ore CopperOre
+05/29/2024 23:46:45: trying to add $item_copperore
+05/29/2024 23:46:45: Added ore CopperOre
+05/29/2024 23:46:46: trying to add $item_copperore
+05/29/2024 23:46:46: Added ore CopperOre
+05/29/2024 23:46:51: Stopped music home at 283180
+05/29/2024 23:46:53: trying to add $item_copperore
+05/29/2024 23:46:53: Added ore CopperOre
+05/29/2024 23:46:53: trying to add $item_copperore
+05/29/2024 23:46:53: Added ore CopperOre
+05/29/2024 23:46:53: trying to add $item_copperore
+05/29/2024 23:46:53: Added ore CopperOre
+05/29/2024 23:46:54: Spawned Greydwarf x 3
+05/29/2024 23:46:56: trying to add $item_copperore
+05/29/2024 23:46:56: Added ore CopperOre
+05/29/2024 23:46:56: trying to add $item_copperore
+05/29/2024 23:46:56: Added ore CopperOre
+05/29/2024 23:46:58: Starting music home
+05/29/2024 23:46:58: Resumed music home at 283180
+05/29/2024 23:47:00: Stopped music home at 68678
+05/29/2024 23:47:00: trying to add $item_copperore
+05/29/2024 23:47:00: Added ore CopperOre
+05/29/2024 23:47:01: trying to add $item_copperore
+05/29/2024 23:47:01: Added ore CopperOre
+05/29/2024 23:47:02: trying to add $item_copperore
+05/29/2024 23:47:02: Added ore CopperOre
+05/29/2024 23:47:03: trying to add $item_copperore
+05/29/2024 23:47:03: Added ore CopperOre
+05/29/2024 23:47:03: trying to add $item_copperore
+05/29/2024 23:47:03: Added ore CopperOre
+05/29/2024 23:47:03: trying to add $item_copperore
+05/29/2024 23:47:03: Added ore CopperOre
+05/29/2024 23:47:05: Starting music home
+05/29/2024 23:47:05: Resumed music home at 68678
+05/29/2024 23:47:07: Stopped music home at 86553
+05/29/2024 23:47:08: trying to add $item_copperore
+05/29/2024 23:47:08: Added ore CopperOre
+05/29/2024 23:47:09: trying to add $item_copperore
+05/29/2024 23:47:09: Added ore CopperOre
+05/29/2024 23:47:13: Valid True
+05/29/2024 23:47:13: On death False
+05/29/2024 23:47:13: Setting selected recipe 0
+05/29/2024 23:47:17: Player -1225840499 wants to pickup Wood(Clone)   im: 1445960058
+05/29/2024 23:47:17: Spawned FireFlies x 1
+05/29/2024 23:47:20: Setting selected recipe 0
+05/29/2024 23:47:23: Player -1225840499 wants to pickup Wood(Clone)   im: 1445960058
+05/29/2024 23:47:27: Starting music morning
+05/29/2024 23:47:36: Got character ZDOID from Tuvieka : 0:0
+05/29/2024 23:47:41: Starting respawn
+05/29/2024 23:47:41: Local player destroyed
+05/29/2024 23:47:41: tip:$loadscreen_tip21
+05/29/2024 23:47:44: Got character ZDOID from Tuvieka : -1225840499:1649
+05/29/2024 23:47:49: Found bed at custom spawn point
+05/29/2024 23:47:49: Skipping unloading unused assets
+05/29/2024 23:47:49: Starting music meadows
+05/29/2024 23:47:57: Grave should fit in inventory, loot all
+05/29/2024 23:47:57: Player 1445960058 wants to takeall from Player_tombstone(Clone)   im: 1445960058
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
+  at Player.AutoPickup (System.Single dt) [0x00092] in <67f3c386e04446c49523ecfd5b8921c2>:0 
+  at Player.FixedUpdate () [0x000b6] in <67f3c386e04446c49523ecfd5b8921c2>:0 
+
+05/29/2024 23:47:58: Setting selected recipe 0
+05/29/2024 23:47:58: Stopped music meadows at 374438
+05/29/2024 23:47:58: Starting music meadows
+05/29/2024 23:47:58: Resumed music meadows at 374438
+05/29/2024 23:48:05: Setting selected recipe 0
+05/29/2024 23:48:14: Disabling PlayerBase  character_trigger
+05/29/2024 23:48:18: Disabling PlayerBase  character_trigger
+05/29/2024 23:48:20: Disabling TELEPORT  character_trigger
+05/29/2024 23:48:20: Disabling PlayerBase  character_trigger
+05/29/2024 23:48:24: Player -1225840499 wants to pickup Wood(Clone)   im: 1445960058
+05/29/2024 23:48:25: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:48:25: Player -1225840499 wants to pickup DragonEgg(Clone)   im: 1445960058
+05/29/2024 23:48:28: Stopped music meadows at 1298195
+05/29/2024 23:48:28: Starting music blackforest
+05/29/2024 23:48:28: Resumed music blackforest at 3156166
+05/29/2024 23:48:28: Stopped music blackforest at 8467
+05/29/2024 23:48:28: Starting music meadows
+05/29/2024 23:48:28: Resumed music meadows at 1298195
+05/29/2024 23:48:35: Setting selected recipe 0
+05/29/2024 23:48:44: Player 1445960058 wants to open piece_chest(Clone)   im: 1445960058
+05/29/2024 23:48:44: Setting selected recipe 0
+05/29/2024 23:48:46: Added to stack27 0
+05/29/2024 23:48:46: Setting selected recipe 0
+05/29/2024 23:48:47: Stopped music meadows at 839193
+05/29/2024 23:48:47: Starting music home
+05/29/2024 23:48:47: Resumed music home at 86553
+05/29/2024 23:48:52: Setting selected recipe 0
+05/29/2024 23:48:59: Stopped music home at 533433
+05/29/2024 23:48:59: Starting music meadows
+05/29/2024 23:48:59: Resumed music meadows at 839193
+05/29/2024 23:49:01: Setting selected recipe 0
+05/29/2024 23:49:04: Player -1225840499 wants to open piece_chest(Clone)   im: 1445960058
+05/29/2024 23:49:05: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:49:07: Stopped music meadows at 347155
+05/29/2024 23:49:07: Starting music meadows
+05/29/2024 23:49:07: Resumed music meadows at 347155
+05/29/2024 23:49:07: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:49:08: Setting selected recipe 0
+05/29/2024 23:49:09: Player -1225840499 wants to open piece_chest(Clone)   im: 1445960058
+05/29/2024 23:49:16: trying to add $item_blackmetalscrap
+05/29/2024 23:49:16: Added ore BlackMetalScrap
+05/29/2024 23:49:17: trying to add $item_blackmetalscrap
+05/29/2024 23:49:17: Added ore BlackMetalScrap
+05/29/2024 23:49:19: trying to add $item_blackmetalscrap
+05/29/2024 23:49:19: Added ore BlackMetalScrap
+05/29/2024 23:49:34: Setting selected recipe 0
+05/29/2024 23:49:41: Setting selected recipe 0
+05/29/2024 23:49:46: Player -1225840499 wants to pickup CookedBugMeat(Clone)   im: 1445960058
+05/29/2024 23:49:46: Player -1225840499 wants to pickup CookedBugMeat(Clone)   im: 1445960058
+05/29/2024 23:49:54: Setting selected recipe 0
+05/29/2024 23:49:56: Setting selected recipe 0
+05/29/2024 23:49:59: Setting selected recipe 0
+05/29/2024 23:50:01: Setting selected recipe 0
+05/29/2024 23:50:01: Setting selected recipe 0
+05/29/2024 23:50:02: Setting selected recipe 0
+05/29/2024 23:50:06: Setting selected recipe 0
+05/29/2024 23:50:07: Setting selected recipe 0
+05/29/2024 23:50:07: Setting selected recipe 0
+05/29/2024 23:50:07: Setting selected recipe 0
+05/29/2024 23:50:07: Setting selected recipe 0
+05/29/2024 23:50:07: Stopped music meadows at 2657537
+05/29/2024 23:50:07: Starting music meadows
+05/29/2024 23:50:07: Resumed music meadows at 2657537
+05/29/2024 23:50:09: Setting selected recipe 0
+05/29/2024 23:50:11: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:11: Setting selected recipe 0
+05/29/2024 23:50:12: Player -1225840499 wants to pickup Honey(Clone)   im: 1445960058
+05/29/2024 23:50:12: Player -1225840499 wants to pickup Honey(Clone)   im: 1445960058
+05/29/2024 23:50:13: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:13: Setting selected recipe 0
+05/29/2024 23:50:14: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:14: Setting selected recipe 0
+05/29/2024 23:50:15: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:15: Setting selected recipe 0
+05/29/2024 23:50:16: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:16: Setting selected recipe 0
+05/29/2024 23:50:17: Setting selected recipe 0
+05/29/2024 23:50:17: Player -1225840499 wants to pickup BlackMetal(Clone)   im: 1445960058
+05/29/2024 23:50:18: Player -1225840499 wants to pickup BlackMetal(Clone)   im: 1445960058
+05/29/2024 23:50:18: Setting selected recipe 0
+05/29/2024 23:50:18: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:18: Setting selected recipe 0
+05/29/2024 23:50:19: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:19: Setting selected recipe 0
+05/29/2024 23:50:22: Setting selected recipe 0
+05/29/2024 23:50:22: Player -1225840499 wants to pickup Copper(Clone)   im: 1445960058
+05/29/2024 23:50:22: Player -1225840499 wants to pickup Copper(Clone)   im: 1445960058
+05/29/2024 23:50:23: Disabling TELEPORT  character_trigger
+05/29/2024 23:50:23: Disabling PlayerBase  character_trigger
+05/29/2024 23:50:24: Added ore CopperOre
+05/29/2024 23:50:24: Added ore CopperOre
+05/29/2024 23:50:24: Added ore CopperOre
+05/29/2024 23:50:24: Added ore CopperOre
+05/29/2024 23:50:25: Added ore CopperOre
+05/29/2024 23:50:25: Added ore CopperOre
+05/29/2024 23:50:25: Added ore CopperOre
+05/29/2024 23:50:29: Stopped music meadows at 963215
+05/29/2024 23:50:29: Starting music meadows
+05/29/2024 23:50:29: Resumed music meadows at 963215
+05/29/2024 23:50:31: Setting selected recipe 0
+05/29/2024 23:50:33: Stopped music meadows at 161817
+05/29/2024 23:50:33: Starting music meadows
+05/29/2024 23:50:33: Resumed music meadows at 161817
+05/29/2024 23:50:33: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:33: Setting selected recipe 0
+05/29/2024 23:50:35: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:35: Setting selected recipe 0
+05/29/2024 23:50:35: Player -1225840499 wants to pickup BlackMetal(Clone)   im: 1445960058
+05/29/2024 23:50:37: Setting selected recipe 0
+05/29/2024 23:50:38: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:38: Setting selected recipe 0
+05/29/2024 23:50:39: Stopped music meadows at 238022
+05/29/2024 23:50:39: Starting music home
+05/29/2024 23:50:39: Resumed music home at 533433
+05/29/2024 23:50:39: Stopped music home at 4703
+05/29/2024 23:50:39: Starting music meadows
+05/29/2024 23:50:39: Resumed music meadows at 238022
+05/29/2024 23:50:39: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:39: Setting selected recipe 0
+05/29/2024 23:50:40: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:40: Setting selected recipe 0
+05/29/2024 23:50:41: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:41: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:41: Setting selected recipe 0
+05/29/2024 23:50:42: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:45: Stopped music meadows at 254956
+05/29/2024 23:50:45: Starting music meadows
+05/29/2024 23:50:45: Resumed music meadows at 254956
+05/29/2024 23:50:45: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:45: Setting selected recipe 0
+05/29/2024 23:50:46: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:46: Setting selected recipe 0
+05/29/2024 23:50:46: Player -1225840499 wants to pickup Copper(Clone)   im: 1445960058
+05/29/2024 23:50:47: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:47: Setting selected recipe 0
+05/29/2024 23:50:47: Player -1225840499 wants to pickup Copper(Clone)   im: 1445960058
+05/29/2024 23:50:48: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:48: Setting selected recipe 0
+05/29/2024 23:50:49: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:49: Setting selected recipe 0
+05/29/2024 23:50:49: Stopped music meadows at 203212
+05/29/2024 23:50:49: Starting music meadows
+05/29/2024 23:50:49: Resumed music meadows at 203212
+05/29/2024 23:50:50: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:50: Setting selected recipe 0
+05/29/2024 23:50:50: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:50: Setting selected recipe 0
+05/29/2024 23:50:51: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:51: Setting selected recipe 0
+05/29/2024 23:50:52: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:52: Setting selected recipe 0
+05/29/2024 23:50:53: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:50:53: Setting selected recipe 0
+05/29/2024 23:50:54: Setting selected recipe 0
+05/29/2024 23:50:55: Stopped music meadows at 249311
+05/29/2024 23:50:55: Starting music home
+05/29/2024 23:50:55: Resumed music home at 4703
+05/29/2024 23:50:55: Stopped music home at 2822
+05/29/2024 23:50:55: Starting music meadows
+05/29/2024 23:50:55: Resumed music meadows at 249311
+05/29/2024 23:50:56: Setting selected recipe 0
+05/29/2024 23:50:58: Setting selected recipe 1
+05/29/2024 23:51:00: Setting selected recipe 23
+05/29/2024 23:51:03: Setting selected recipe 0
+05/29/2024 23:51:07: Disabling PlayerBase  character_trigger
+05/29/2024 23:51:08: Player -1225840499 wants to pickup BarleyFlour(Clone)   im: 1445960058
+05/29/2024 23:51:19: Stopped music meadows at 1053695
+05/29/2024 23:51:19: Starting music home
+05/29/2024 23:51:19: Resumed music home at 2822
+05/29/2024 23:51:26: Player -1225840499 wants to pickup Wood(Clone)   im: 1445960058
+05/29/2024 23:51:28: Player -1225840499 wants to pickup Honey(Clone)   im: 1445960058
+05/29/2024 23:51:29: Player -1225840499 wants to pickup Stone(Clone)   im: 1445960058
+05/29/2024 23:51:36: Setting selected recipe 0
+05/29/2024 23:51:38: Stopped music home at 826431
+05/29/2024 23:51:38: Starting music meadows
+05/29/2024 23:51:38: Resumed music meadows at 1053695
+05/29/2024 23:51:39: Setting selected recipe 0
+05/29/2024 23:51:40: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:41: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:41: Setting selected recipe 0
+05/29/2024 23:51:42: Player -1225840499 wants to open piece_chest(Clone)   im: 1445960058
+05/29/2024 23:51:42: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:42: Setting selected recipe 0
+05/29/2024 23:51:43: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:43: Setting selected recipe 0
+05/29/2024 23:51:44: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:44: Setting selected recipe 0
+05/29/2024 23:51:44: Stopped music meadows at 261542
+05/29/2024 23:51:44: Starting music meadows
+05/29/2024 23:51:44: Resumed music meadows at 261542
+05/29/2024 23:51:44: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:44: Setting selected recipe 0
+05/29/2024 23:51:45: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:45: Setting selected recipe 0
+05/29/2024 23:51:46: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:46: Setting selected recipe 0
+05/29/2024 23:51:47: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:47: Setting selected recipe 0
+05/29/2024 23:51:48: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:48: Setting selected recipe 0
+05/29/2024 23:51:49: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:49: Setting selected recipe 0
+05/29/2024 23:51:50: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:50: Setting selected recipe 0
+05/29/2024 23:51:50: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:50: Setting selected recipe 0
+05/29/2024 23:51:52: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:52: Setting selected recipe 0
+05/29/2024 23:51:53: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:51:53: Setting selected recipe 0
+05/29/2024 23:51:56: Stopped music meadows at 532843
+05/29/2024 23:51:56: Starting music home
+05/29/2024 23:51:56: Resumed music home at 826431
+05/29/2024 23:51:57: Setting selected recipe 0
+05/29/2024 23:51:59: Setting selected recipe 0
+05/29/2024 23:51:59: Stopped music home at 146764
+05/29/2024 23:51:59: Starting music meadows
+05/29/2024 23:51:59: Resumed music meadows at 532843
+05/29/2024 23:52:01: Disabling PlayerBase  character_trigger
+05/29/2024 23:52:04: Player -1225840499 wants to pickup RawMeat(Clone)   im: 1445960058
+05/29/2024 23:52:27: Stopped music meadows at 1203283
+05/29/2024 23:52:27: Starting music meadows
+05/29/2024 23:52:27: Resumed music meadows at 1203283
+05/29/2024 23:52:31: Setting selected recipe 0
+05/29/2024 23:52:34: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:52:34: Setting selected recipe 0
+05/29/2024 23:52:35: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:52:35: Setting selected recipe 0
+05/29/2024 23:52:36: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:52:36: Setting selected recipe 0
+05/29/2024 23:52:37: Setting selected recipe 1
+05/29/2024 23:52:42: Placed wood_floor_1x1
+05/29/2024 23:52:44: Placed wood_floor_1x1
+05/29/2024 23:52:55: Stopped music meadows at 1266330
+05/29/2024 23:52:56: Starting music home
+05/29/2024 23:52:56: Resumed music home at 146764
+05/29/2024 23:52:56: Placed artisan_ext1
+05/29/2024 23:52:56: Stopped music home at 12230
+05/29/2024 23:52:56: Starting music meadows
+05/29/2024 23:52:56: Resumed music meadows at 1266330
+05/29/2024 23:52:57: Queue unlock msg:$msg_newstation_level:$piece_artisanstation $msg_level 2
+05/29/2024 23:52:57: Queue unlock msg:$msg_newrecipe:$item_ceramicplate
+05/29/2024 23:52:58: Setting selected recipe 0
+05/29/2024 23:53:03: Setting selected recipe 0
+05/29/2024 23:53:06: Setting selected recipe 0
+05/29/2024 23:53:10: Setting selected recipe 0
+05/29/2024 23:53:11: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:53:15: Setting selected recipe 0
+05/29/2024 23:53:16: Player 1445960058 wants to open container   im: 1445960058
+05/29/2024 23:53:16: Setting selected recipe 0
+05/29/2024 23:53:17: Setting selected recipe 0
+05/29/2024 23:53:18: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:53:19: Player 1445960058 wants to open container   im: 1445960058
+05/29/2024 23:53:19: Setting selected recipe 0
+05/29/2024 23:53:21: Setting selected recipe 0
+05/29/2024 23:53:24: Item is not in this container
+05/29/2024 23:53:24: Setting selected recipe 0
+05/29/2024 23:53:37: Stopped music meadows at 1825033
+05/29/2024 23:53:37: Starting music meadows
+05/29/2024 23:53:37: Resumed music meadows at 1825033
+05/29/2024 23:53:44: Placed itemstandh
+05/29/2024 23:53:48: Player 1445960058 wants to open container   im: 1445960058
+05/29/2024 23:53:48: Setting selected recipe 0
+05/29/2024 23:53:49: Stopped music meadows at 526847
+05/29/2024 23:53:49: Starting music meadows
+05/29/2024 23:53:49: Resumed music meadows at 526847
+05/29/2024 23:53:49: Setting selected recipe 0
+05/29/2024 23:53:51: Setting selected recipe 0
+05/29/2024 23:53:53: Item is not in this container
+05/29/2024 23:53:53: Setting selected recipe 0
+05/29/2024 23:53:58: Setting selected recipe 0
+05/29/2024 23:54:00: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:00: Setting selected recipe 0
+05/29/2024 23:54:01: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:01: Setting selected recipe 0
+05/29/2024 23:54:03: Setting selected recipe 0
+05/29/2024 23:54:04: Setting selected recipe 0
+05/29/2024 23:54:05: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:05: Setting selected recipe 0
+05/29/2024 23:54:05: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:05: Setting selected recipe 0
+05/29/2024 23:54:06: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:06: Setting selected recipe 0
+05/29/2024 23:54:08: Setting selected recipe 0
+05/29/2024 23:54:10: Setting selected recipe 0
+05/29/2024 23:54:12: Setting selected recipe 0
+05/29/2024 23:54:13: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:13: Setting selected recipe 0
+05/29/2024 23:54:14: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:14: Setting selected recipe 0
+05/29/2024 23:54:14: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:14: Setting selected recipe 0
+05/29/2024 23:54:15: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:15: Setting selected recipe 0
+05/29/2024 23:54:16: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:16: Setting selected recipe 0
+05/29/2024 23:54:16: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:16: Setting selected recipe 0
+05/29/2024 23:54:17: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:17: Setting selected recipe 0
+05/29/2024 23:54:17: Stopped music meadows at 1238033
+05/29/2024 23:54:17: Starting music meadows
+05/29/2024 23:54:17: Resumed music meadows at 1238033
+05/29/2024 23:54:18: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:18: Setting selected recipe 0
+05/29/2024 23:54:19: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:54:19: Setting selected recipe 0
+05/29/2024 23:54:21: Setting selected recipe 0
+05/29/2024 23:54:23: Stopped music meadows at 234259
+05/29/2024 23:54:23: Starting music meadows
+05/29/2024 23:54:23: Resumed music meadows at 234259
+05/29/2024 23:54:23: Setting selected recipe 0
+05/29/2024 23:54:27: Queue unlock msg:$msg_newmaterial:$item_ceramicplate
+05/29/2024 23:54:27: Queue unlock msg:$msg_newrecipe:$item_shieldcore
+05/29/2024 23:54:27: Queue unlock msg:$msg_newpiece:$ship_longship_ashlands
+05/29/2024 23:54:27: Setting selected recipe 0
+05/29/2024 23:54:29: Player -1225840499 wants to pickup CookedLoxMeat(Clone)   im: 1445960058
+05/29/2024 23:54:29: Player -1225840499 wants to pickup CookedLoxMeat(Clone)   im: 1445960058
+05/29/2024 23:54:29: Setting selected recipe 2
+05/29/2024 23:54:29: Player -1225840499 wants to pickup CookedLoxMeat(Clone)   im: 1445960058
+05/29/2024 23:54:29: Player -1225840499 wants to pickup CookedLoxMeat(Clone)   im: 1445960058
+05/29/2024 23:54:29: Player -1225840499 wants to pickup CookedLoxMeat(Clone)   im: 1445960058
+05/29/2024 23:54:33: Setting selected recipe 0
+05/29/2024 23:54:35: Setting selected recipe 0
+05/29/2024 23:54:36: Stopped music meadows at 601183
+05/29/2024 23:54:36: Starting music meadows
+05/29/2024 23:54:36: Resumed music meadows at 601183
+05/29/2024 23:54:38: Drop item $item_ceramicplate
+05/29/2024 23:54:38: drop all 5  5
+05/29/2024 23:54:38: Setting selected recipe 0
+05/29/2024 23:54:38: Player -1225840499 wants to pickup CeramicPlate(Clone)   im: 1445960058
+05/29/2024 23:54:41: Setting selected recipe 0
+05/29/2024 23:54:49: Setting selected recipe 0
+05/29/2024 23:54:51: Setting selected recipe 0
+05/29/2024 23:54:55: Stopped music meadows at 811890
+05/29/2024 23:54:55: Starting music home
+05/29/2024 23:54:55: Resumed music home at 12230
+05/29/2024 23:55:05: Setting selected recipe 0
+05/29/2024 23:55:08: Stopped music home at 577312
+05/29/2024 23:55:08: Starting music meadows
+05/29/2024 23:55:08: Resumed music meadows at 811890
+05/29/2024 23:55:08: Setting selected recipe 0
+05/29/2024 23:55:12: Setting selected recipe 0
+05/29/2024 23:55:16: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:55:16: Setting selected recipe 0
+05/29/2024 23:55:18: Setting selected recipe 0
+05/29/2024 23:55:21: Setting selected recipe 0
+05/29/2024 23:55:25: Setting selected recipe 0
+05/29/2024 23:55:28: Setting selected recipe 0
+05/29/2024 23:55:30: Setting selected recipe 0
+05/29/2024 23:55:33: Setting selected recipe 0
+05/29/2024 23:55:36: Stopped music meadows at 1207987
+05/29/2024 23:55:36: Starting music meadows
+05/29/2024 23:55:36: Resumed music meadows at 1207987
+05/29/2024 23:55:38: Stopped music meadows at 106310
+05/29/2024 23:55:38: Starting music home
+05/29/2024 23:55:38: Resumed music home at 577312
+05/29/2024 23:55:39: Disabling OnboardTrigger  character_trigger
+05/29/2024 23:55:39: Disabling FloatCollider  Ignore Raycast
+05/29/2024 23:55:45: Stopped music home at 305759
+05/29/2024 23:55:45: Starting music meadows
+05/29/2024 23:55:45: Resumed music meadows at 106310
+05/29/2024 23:55:46: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:55:46: Setting selected recipe 0
+05/29/2024 23:55:48: Setting selected recipe 0
+05/29/2024 23:55:52: Setting selected recipe 0
+05/29/2024 23:55:52: Setting selected recipe 2
+05/29/2024 23:55:54: Setting selected recipe 0
+05/29/2024 23:55:58: Setting selected recipe 0
+05/29/2024 23:55:59: Setting selected recipe 0
+05/29/2024 23:56:00: Setting selected recipe 1
+05/29/2024 23:56:03: Queue unlock msg:$msg_newmaterial:$item_shieldcore
+05/29/2024 23:56:03: Queue unlock msg:$msg_newpiece:$piece_shieldgenerator
+05/29/2024 23:56:03: Setting selected recipe 2
+05/29/2024 23:56:09: Disabling OnboardTrigger  character_trigger
+05/29/2024 23:56:09: Disabling FloatCollider  Ignore Raycast
+05/29/2024 23:56:10: Stopped music meadows at 1100735
+05/29/2024 23:56:10: Starting music meadows
+05/29/2024 23:56:10: Resumed music meadows at 1100735
+05/29/2024 23:56:13: Stopped music meadows at 129830
+05/29/2024 23:56:13: Starting music home
+05/29/2024 23:56:13: Resumed music home at 305759
+05/29/2024 23:56:22: Stopped music home at 382905
+05/29/2024 23:56:22: Starting music meadows
+05/29/2024 23:56:22: Resumed music meadows at 129830
+05/29/2024 23:56:23: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:23: Setting selected recipe 0
+05/29/2024 23:56:25: Setting selected recipe 0
+05/29/2024 23:56:27: Setting selected recipe 0
+05/29/2024 23:56:30: Setting selected recipe 0
+05/29/2024 23:56:31: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:31: Setting selected recipe 0
+05/29/2024 23:56:32: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:32: Setting selected recipe 0
+05/29/2024 23:56:34: Setting selected recipe 0
+05/29/2024 23:56:37: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:37: Setting selected recipe 0
+05/29/2024 23:56:37: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:37: Setting selected recipe 0
+05/29/2024 23:56:38: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:38: Setting selected recipe 0
+05/29/2024 23:56:39: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:39: Setting selected recipe 0
+05/29/2024 23:56:39: Update PlayFab entity token
+05/29/2024 23:56:40: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:40: Setting selected recipe 0
+05/29/2024 23:56:41: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:41: Setting selected recipe 0
+05/29/2024 23:56:42: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:42: Setting selected recipe 0
+05/29/2024 23:56:42: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:42: Setting selected recipe 0
+05/29/2024 23:56:44: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:44: Setting selected recipe 0
+05/29/2024 23:56:44: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:44: Setting selected recipe 0
+05/29/2024 23:56:45: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:45: Setting selected recipe 0
+05/29/2024 23:56:46: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:46: Setting selected recipe 0
+05/29/2024 23:56:46: Stopped music meadows at 1074698
+05/29/2024 23:56:46: Starting music home
+05/29/2024 23:56:46: Resumed music home at 382905
+05/29/2024 23:56:47: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:56:47: Setting selected recipe 0
+05/29/2024 23:56:48: Added to stack19 0
+05/29/2024 23:56:48: Setting selected recipe 1
+05/29/2024 23:56:54: Setting selected recipe 1
+05/29/2024 23:56:56: Stopped music home at 430061
+05/29/2024 23:56:56: Starting music meadows
+05/29/2024 23:56:56: Resumed music meadows at 1074698
+05/29/2024 23:56:57: Player -1225840499 wants to pickup Copper(Clone)   im: 1445960058
+05/29/2024 23:56:57: Player -1225840499 wants to pickup Copper(Clone)   im: 1445960058
+05/29/2024 23:56:59: Disabling OnboardTrigger  character_trigger
+05/29/2024 23:56:59: Disabling FloatCollider  Ignore Raycast
+05/29/2024 23:57:00: Disabling PlayerBase  character_trigger
+05/29/2024 23:57:00: Disabling PlayerBase  character_trigger
+05/29/2024 23:57:03: Stopped music meadows at 304170
+05/29/2024 23:57:03: Starting music meadows
+05/29/2024 23:57:03: Resumed music meadows at 304170
+05/29/2024 23:57:06: Setting selected recipe 1
+05/29/2024 23:57:08: Setting selected recipe 1
+05/29/2024 23:57:11: Drop item $item_shieldcore
+05/29/2024 23:57:11: drop all 1  1
+05/29/2024 23:57:11: Setting selected recipe 1
+05/29/2024 23:57:15: Player -1225840499 wants to pickup ShieldCore(Clone)   im: 1445960058
+05/29/2024 23:57:15: Setting selected recipe 1
+05/29/2024 23:57:20: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:20: Setting selected recipe 1
+05/29/2024 23:57:22: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:22: Setting selected recipe 1
+05/29/2024 23:57:25: Added to stack20 0
+05/29/2024 23:57:25: Setting selected recipe 1
+05/29/2024 23:57:26: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:26: Setting selected recipe 1
+05/29/2024 23:57:30: Added to stack4 5
+05/29/2024 23:57:30: Setting selected recipe 1
+05/29/2024 23:57:32: Stopped music meadows at 1290777
+05/29/2024 23:57:32: Starting music home
+05/29/2024 23:57:32: Resumed music home at 430061
+05/29/2024 23:57:33: Setting selected recipe 1
+05/29/2024 23:57:34: Disabling PlayerBase  character_trigger
+05/29/2024 23:57:34: Disabling PlayerBase  character_trigger
+05/29/2024 23:57:39: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:39: Setting selected recipe 1
+05/29/2024 23:57:41: Added to stack11 0
+05/29/2024 23:57:41: Setting selected recipe 1
+05/29/2024 23:57:43: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:43: Setting selected recipe 1
+05/29/2024 23:57:44: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:44: Setting selected recipe 1
+05/29/2024 23:57:45: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:45: Setting selected recipe 1
+05/29/2024 23:57:46: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:46: Setting selected recipe 1
+05/29/2024 23:57:47: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:47: Setting selected recipe 1
+05/29/2024 23:57:48: Setting selected recipe 1
+05/29/2024 23:57:49: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:49: Setting selected recipe 1
+05/29/2024 23:57:50: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:50: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:50: Setting selected recipe 1
+05/29/2024 23:57:50: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:50: Setting selected recipe 1
+05/29/2024 23:57:51: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:51: Setting selected recipe 1
+05/29/2024 23:57:52: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:52: Setting selected recipe 1
+05/29/2024 23:57:53: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:53: Setting selected recipe 1
+05/29/2024 23:57:53: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:53: Setting selected recipe 1
+05/29/2024 23:57:54: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:54: Setting selected recipe 1
+05/29/2024 23:57:56: Stopped music home at 1014195
+05/29/2024 23:57:56: Starting music meadows
+05/29/2024 23:57:56: Resumed music meadows at 1290777
+05/29/2024 23:57:56: Player 1445960058 wants to open piece_chest(Clone)   im: 1445960058
+05/29/2024 23:57:56: Setting selected recipe 1
+05/29/2024 23:57:56: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:57:58: Player 1445960058 wants to open piece_chest(Clone)   im: 1445960058
+05/29/2024 23:57:58: Setting selected recipe 1
+05/29/2024 23:57:59: Stopped music meadows at 127948
+05/29/2024 23:57:59: Starting music meadows
+05/29/2024 23:57:59: Resumed music meadows at 127948
+05/29/2024 23:57:59: Setting selected recipe 1
+05/29/2024 23:57:59: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:58:00: Player 1445960058 wants to open piece_chest(Clone)   im: 1445960058
+05/29/2024 23:58:00: Setting selected recipe 1
+05/29/2024 23:58:00: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:58:01: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:58:04: Stopped music meadows at 242726
+05/29/2024 23:58:04: Starting music home
+05/29/2024 23:58:04: Resumed music home at 1014195
+05/29/2024 23:58:05: Setting selected recipe 1
+05/29/2024 23:58:06: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:58:07: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:58:08: Setting selected recipe 1
+05/29/2024 23:58:09: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:58:09: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:58:10: Setting selected recipe 1
+05/29/2024 23:58:11: Setting selected recipe 1
+05/29/2024 23:58:13: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:58:13: Stopped music home at 403455
+05/29/2024 23:58:13: Starting music home
+05/29/2024 23:58:13: Resumed music home at 403455
+05/29/2024 23:58:14: Setting selected recipe 0
+05/29/2024 23:58:16: Stopped music home at 106310
+05/29/2024 23:58:16: Starting music meadows
+05/29/2024 23:58:16: Resumed music meadows at 242726
+05/29/2024 23:58:17: Stopped music meadows at 67737
+05/29/2024 23:58:17: Starting music home
+05/29/2024 23:58:17: Resumed music home at 106310
+05/29/2024 23:58:21: Setting selected recipe 0
+05/29/2024 23:58:22: Stopped music home at 197567
+05/29/2024 23:58:22: Starting music meadows
+05/29/2024 23:58:22: Resumed music meadows at 67737
+05/29/2024 23:58:22: Drop item $item_wood
+05/29/2024 23:58:22: drop all 24  24
+05/29/2024 23:58:22: Setting selected recipe 1
+05/29/2024 23:58:24: Setting selected recipe 0
+05/29/2024 23:58:27: Setting selected recipe 0
+05/29/2024 23:58:29: Setting selected recipe 0
+05/29/2024 23:58:31: Stopped music meadows at 413951
+05/29/2024 23:58:31: Starting music home
+05/29/2024 23:58:31: Resumed music home at 197567
+05/29/2024 23:58:32: Setting selected recipe 0
+05/29/2024 23:58:35: Setting selected recipe 0
+05/29/2024 23:58:38: Setting selected recipe 0
+05/29/2024 23:58:40: Setting selected recipe 0
+05/29/2024 23:58:43: Setting selected recipe 0
+05/29/2024 23:58:45: Setting selected recipe 0
+05/29/2024 23:58:48: Setting selected recipe 0
+05/29/2024 23:58:51: Setting selected recipe 0
+05/29/2024 23:58:52: Setting selected recipe 0
+05/29/2024 23:58:54: Disabling PlayerBase  character_trigger
+05/29/2024 23:58:54: Disabling PlayerBase  character_trigger
+05/29/2024 23:58:56: Stopped music home at 1086666
+05/29/2024 23:58:56: Starting music home
+05/29/2024 23:58:56: Resumed music home at 1086666
+05/29/2024 23:58:56: Disabling OnboardTrigger  character_trigger
+05/29/2024 23:58:56: Disabling FloatCollider  Ignore Raycast
+05/29/2024 23:59:02: Stopped music home at 242726
+05/29/2024 23:59:02: Starting music meadows
+05/29/2024 23:59:02: Resumed music meadows at 413951
+05/29/2024 23:59:02: Stopped music meadows at 17875
+05/29/2024 23:59:02: Starting music home
+05/29/2024 23:59:02: Resumed music home at 242726
+05/29/2024 23:59:02: Setting selected recipe 1
+05/29/2024 23:59:04: Setting selected recipe 1
+05/29/2024 23:59:05: Setting selected recipe 1
+05/29/2024 23:59:09: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:59:09: Setting selected recipe 1
+05/29/2024 23:59:12: Setting selected recipe 1
+05/29/2024 23:59:15: Setting selected recipe 1
+05/29/2024 23:59:17: Setting selected recipe 1
+05/29/2024 23:59:20: Setting selected recipe 1
+05/29/2024 23:59:22: Setting selected recipe 1
+05/29/2024 23:59:23: Setting selected recipe 1
+05/29/2024 23:59:23: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:59:23: Setting selected recipe 1
+05/29/2024 23:59:27: Setting selected recipe 1
+05/29/2024 23:59:29: Setting selected recipe 1
+05/29/2024 23:59:30: Setting selected recipe 1
+05/29/2024 23:59:32: Setting selected recipe 1
+05/29/2024 23:59:33: Setting selected recipe 1
+05/29/2024 23:59:37: Disabling OnboardTrigger  character_trigger
+05/29/2024 23:59:37: Disabling FloatCollider  Ignore Raycast
+05/29/2024 23:59:38: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:59:38: Setting selected recipe 1
+05/29/2024 23:59:39: Setting selected recipe 1
+05/29/2024 23:59:40: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/29/2024 23:59:40: Setting selected recipe 1
+05/29/2024 23:59:42: Setting selected recipe 1
+05/29/2024 23:59:43: Stopped music home at 1781326
+05/29/2024 23:59:43: Starting music meadows
+05/29/2024 23:59:43: Resumed music meadows at 17875
+05/29/2024 23:59:44: Disabling OnboardTrigger  character_trigger
+05/29/2024 23:59:44: Disabling FloatCollider  Ignore Raycast
+05/29/2024 23:59:45: Disabling PlayerBase  character_trigger
+05/29/2024 23:59:45: Disabling PlayerBase  character_trigger
+05/29/2024 23:59:48: Placed piece_shieldgenerator
+05/29/2024 23:59:48: Disabling PlayerBase  character_trigger
+05/29/2024 23:59:48: Disabling PlayerBase  character_trigger
+05/29/2024 23:59:48: Disabling PlayerBase  character_trigger
+05/29/2024 23:59:48: Disabling PlayerBase  character_trigger
+05/29/2024 23:59:48: Disabling PlayerBase  character_trigger
+05/29/2024 23:59:48: Disabling PlayerBase  character_trigger
+05/30/2024 00:00:14: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:00:14: Setting selected recipe 1
+05/30/2024 00:00:14: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:00:14: Setting selected recipe 1
+05/30/2024 00:00:18: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:00:18: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:00:18: Setting selected recipe 1
+05/30/2024 00:00:18: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:00:19: Setting selected recipe 1
+05/30/2024 00:00:20: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:00:29: Stopped music meadows at 2058851
+05/30/2024 00:00:29: Starting music meadows
+05/30/2024 00:00:29: Resumed music meadows at 2058851
+05/30/2024 00:00:49: Disabling PlayerBase  character_trigger
+05/30/2024 00:00:49: Disabling PlayerBase  character_trigger
+05/30/2024 00:00:52: Player -1225840499 wants to pickup Copper(Clone)   im: 1445960058
+05/30/2024 00:00:52: Player -1225840499 wants to pickup Iron(Clone)   im: 1445960058
+05/30/2024 00:00:52: Player -1225840499 wants to pickup ShieldCore(Clone)   im: 1445960058
+05/30/2024 00:00:52: Player -1225840499 wants to pickup Copper(Clone)   im: 1445960058
+05/30/2024 00:00:52:   but they are already the owner
+05/30/2024 00:00:52: Player -1225840499 wants to pickup Iron(Clone)   im: 1445960058
+05/30/2024 00:00:52:   but they are already the owner
+05/30/2024 00:00:52: Player -1225840499 wants to pickup ShieldCore(Clone)   im: 1445960058
+05/30/2024 00:00:52:   but they are already the owner
+05/30/2024 00:00:52: Disabling PlayerBase  character_trigger
+05/30/2024 00:00:52: Disabling PlayerBase  character_trigger
+05/30/2024 00:00:52: Disabling PlayerBase  character_trigger
+05/30/2024 00:00:52: Disabling PlayerBase  character_trigger
+05/30/2024 00:00:52: Disabling PlayerBase  character_trigger
+05/30/2024 00:00:52: Disabling PlayerBase  character_trigger
+05/30/2024 00:00:53: Setting selected recipe 1
+05/30/2024 00:00:57: Setting selected recipe 1
+05/30/2024 00:00:58: Player -1225840499 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:02: Player 1445960058 wants to open piece_chest(Clone)   im: 1445960058
+05/30/2024 00:01:02: Setting selected recipe 1
+05/30/2024 00:01:04: Setting selected recipe 1
+05/30/2024 00:01:05: Setting selected recipe 1
+05/30/2024 00:01:06: Setting selected recipe 1
+05/30/2024 00:01:07: Setting selected recipe 1
+05/30/2024 00:01:07: RPC_Disconnect
+05/30/2024 00:01:07: Destroying abandoned non persistent zdo -1225840499:2477 owner -1225840499
+05/30/2024 00:01:07: Destroying abandoned non persistent zdo -1225840499:2479 owner -1225840499
+05/30/2024 00:01:07: Destroying abandoned non persistent zdo -1225840499:2478 owner -1225840499
+05/30/2024 00:01:07: Destroying abandoned non persistent zdo -1225840499:1649 owner -1225840499
+05/30/2024 00:01:07: Destroying abandoned non persistent zdo -1225840499:2476 owner -1225840499
+05/30/2024 00:01:07: Disposing socket
+05/30/2024 00:01:07: Closing socket 76561198300070917
+05/30/2024 00:01:07:   send queue size:0
+05/30/2024 00:01:07: Disposing socket
+05/30/2024 00:01:07: Got status changed msg k_ESteamNetworkingConnectionState_None
+05/30/2024 00:01:08: Setting selected recipe 1
+05/30/2024 00:01:09: Setting selected recipe 1
+05/30/2024 00:01:09: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:09: Setting selected recipe 1
+05/30/2024 00:01:10: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:10: Setting selected recipe 1
+05/30/2024 00:01:11: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:11: Setting selected recipe 1
+05/30/2024 00:01:12: Stopped music meadows at 1875014
+05/30/2024 00:01:12: Starting music meadows
+05/30/2024 00:01:12: Resumed music meadows at 1875014
+05/30/2024 00:01:12: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:12: Setting selected recipe 1
+05/30/2024 00:01:13: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:13: Setting selected recipe 1
+05/30/2024 00:01:14: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:14: Setting selected recipe 1
+05/30/2024 00:01:14: Stopped music meadows at 101606
+05/30/2024 00:01:14: Starting music home
+05/30/2024 00:01:14: Resumed music home at 1781326
+05/30/2024 00:01:15: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:15: Setting selected recipe 1
+05/30/2024 00:01:15: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:15: Setting selected recipe 1
+05/30/2024 00:01:16: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:16: Setting selected recipe 1
+05/30/2024 00:01:17: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:17: Setting selected recipe 1
+05/30/2024 00:01:18: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:18: Setting selected recipe 1
+05/30/2024 00:01:19: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:19: Setting selected recipe 1
+05/30/2024 00:01:20: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:20: Setting selected recipe 1
+05/30/2024 00:01:21: Stopped music home at 282239
+05/30/2024 00:01:21: Starting music meadows
+05/30/2024 00:01:21: Resumed music meadows at 101606
+05/30/2024 00:01:21: Player 1445960058 wants to open piece_chest(Clone)   im: 1445960058
+05/30/2024 00:01:21: Setting selected recipe 1
+05/30/2024 00:01:22: Stopped music meadows at 37631
+05/30/2024 00:01:22: Starting music home
+05/30/2024 00:01:22: Resumed music home at 282239
+05/30/2024 00:01:23: Player 1445960058 wants to open piece_chest(Clone)   im: 1445960058
+05/30/2024 00:01:23: Setting selected recipe 1
+05/30/2024 00:01:24: Player 1445960058 wants to open piece_chest(Clone)   im: 1445960058
+05/30/2024 00:01:24: Setting selected recipe 1
+05/30/2024 00:01:25: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:25: Setting selected recipe 1
+05/30/2024 00:01:26: Stopped music home at 182515
+05/30/2024 00:01:26: Starting music meadows
+05/30/2024 00:01:26: Resumed music meadows at 37631
+05/30/2024 00:01:26: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:26: Setting selected recipe 1
+05/30/2024 00:01:27: Stopped music meadows at 30105
+05/30/2024 00:01:27: Starting music meadows
+05/30/2024 00:01:27: Resumed music meadows at 30105
+05/30/2024 00:01:27: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:27: Setting selected recipe 1
+05/30/2024 00:01:28: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:28: Setting selected recipe 1
+05/30/2024 00:01:29: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:29: Setting selected recipe 1
+05/30/2024 00:01:30: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:30: Setting selected recipe 1
+05/30/2024 00:01:30: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:30: Setting selected recipe 1
+05/30/2024 00:01:31: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:31: Setting selected recipe 1
+05/30/2024 00:01:32: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:32: Setting selected recipe 1
+05/30/2024 00:01:32: Stopped music meadows at 244607
+05/30/2024 00:01:32: Starting music home
+05/30/2024 00:01:32: Resumed music home at 182515
+05/30/2024 00:01:33: Player 1445960058 wants to open piece_chest_wood(Clone)   im: 1445960058
+05/30/2024 00:01:33: Setting selected recipe 1
+05/30/2024 00:01:41: Disabling PlayerBase  character_trigger
+05/30/2024 00:01:41: Disabling PlayerBase  character_trigger
+05/30/2024 00:01:43: Disabling OnboardTrigger  character_trigger
+05/30/2024 00:01:43: Disabling FloatCollider  Ignore Raycast
+05/30/2024 00:01:46: Activating default element Continue
+05/30/2024 00:01:50: Activating default element Continue
+Am I Host? True
+05/30/2024 00:01:55: Available space to current user: 694083375104. Saving is blocked if below: 143336528 bytes. Warnings are given if below: 286673056
+05/30/2024 00:01:55: Minimap: compressed mapData 8390636 => 34570 bytes
+05/30/2024 00:01:55: Considering autobackup. World time: 1792,2, short time: 7200, long time: 43200, backup count: 4
+05/30/2024 00:01:55: Time to overwrite our last autobackup
+05/30/2024 00:01:55: Replacing backup file: el sabio_backup_auto-20240515135839
+05/30/2024 00:01:55: Saving backup at: el sabio_backup_auto-20240530000155
+05/30/2024 00:01:55: Sending message to save player profiles
+05/30/2024 00:01:56: PrepareSave: clone done in 235ms
+05/30/2024 00:01:56: PrepareSave: ZDOExtraData.PrepareSave done in 149 ms
+05/30/2024 00:01:56: World save writing starting
+05/30/2024 00:01:56: World save writing started
+05/30/2024 00:01:59: Saved 1228283 ZDOs
+05/30/2024 00:02:00: World save writing finishing
+05/30/2024 00:02:00: World save writing finished
+05/30/2024 00:02:00: World saved ( 3948,9494ms )
+05/30/2024 00:02:00: Considering autobackup. World time: 1796,34, short time: 7200, long time: 43200, backup count: 4
+05/30/2024 00:02:00: Time to overwrite our last autobackup
+05/30/2024 00:02:00: Replacing backup file: cabron_backup_auto-20240515230356
+05/30/2024 00:02:00: Saving backup at: cabron_backup_auto-20240530000156
+05/30/2024 00:02:00: World auto backup saved ( 00:00:00.0349330ms )
+05/30/2024 00:02:00: Activating default element Continue
+Am I Host? True
+05/30/2024 00:02:01: Activating default element Continue
 Am I Host? True
 Am I Host? True
-05/29/2024 23:06:29: Available space to current user: 695719956480. Saving is blocked if below: 143402606 bytes. Warnings are given if below: 286805212
-05/29/2024 23:06:29: Shutting down
-05/29/2024 23:06:29: Minimap: compressed mapData 8390594 => 34513 bytes
-05/29/2024 23:06:30: Considering autobackup. World time: 124,56, short time: 7200, long time: 43200, backup count: 4
-05/29/2024 23:06:30: Skipping backup. World session not long enough.
-05/29/2024 23:06:30: ZNet Shutdown
-05/29/2024 23:06:30: PrepareSave: clone done in 177ms
-05/29/2024 23:06:30: PrepareSave: ZDOExtraData.PrepareSave done in 203 ms
-05/29/2024 23:06:30: World save writing starting
-05/29/2024 23:06:30: World save writing started
-05/29/2024 23:06:33: Saved 1227932 ZDOs
-05/29/2024 23:06:33: World save writing finishing
-05/29/2024 23:06:33: World save writing finished
-05/29/2024 23:06:33: World saved ( 3391,0942ms )
-05/29/2024 23:06:33: Considering autobackup. World time: 124,56, short time: 7200, long time: 43200, backup count: 4
-05/29/2024 23:06:33: Skipping backup. World session not long enough.
-05/29/2024 23:06:34: Unloading unused assets
-Unloading 3 Unused Serialized files (Serialized files now loaded: 1149)
-05/29/2024 23:06:34: Sending disconnect msg
+05/30/2024 00:02:01: Available space to current user: 694076555264. Saving is blocked if below: 143415302 bytes. Warnings are given if below: 286830604
+05/30/2024 00:02:02: Minimap: compressed mapData 8390636 => 34570 bytes
+05/30/2024 00:02:02: Considering autobackup. World time: 1796,74, short time: 7200, long time: 43200, backup count: 4
+05/30/2024 00:02:02: No autobackup needed yet...
+05/30/2024 00:02:02: PrepareSave: clone done in 165ms
+05/30/2024 00:02:02: PrepareSave: ZDOExtraData.PrepareSave done in 245 ms
+05/30/2024 00:02:02: World save writing starting
+05/30/2024 00:02:02: World save writing started
+05/30/2024 00:02:05: Saved 1228283 ZDOs
+05/30/2024 00:02:05: World save writing finishing
+05/30/2024 00:02:05: World save writing finished
+05/30/2024 00:02:06: World saved ( 3327,3963ms )
+05/30/2024 00:02:06: Considering autobackup. World time: 1796,74, short time: 7200, long time: 43200, backup count: 4
+05/30/2024 00:02:06: No autobackup needed yet...
+05/30/2024 00:02:06: Activating default element Continue
+Am I Host? True
+Am I Host? True
+05/30/2024 00:02:08: Available space to current user: 694076518400. Saving is blocked if below: 143415302 bytes. Warnings are given if below: 286830604
+Am I Host? True
+05/30/2024 00:02:08: Game - OnApplicationQuit
+Am I Host? True
+05/30/2024 00:02:08: Available space to current user: 694076518400. Saving is blocked if below: 143415302 bytes. Warnings are given if below: 286830604
+05/30/2024 00:02:08: Shutting down
+05/30/2024 00:02:08: Minimap: compressed mapData 8390636 => 34570 bytes
+05/30/2024 00:02:08: Considering autobackup. World time: 1796,74, short time: 7200, long time: 43200, backup count: 4
+05/30/2024 00:02:08: No autobackup needed yet...
+05/30/2024 00:02:08: ZNet Shutdown
+05/30/2024 00:02:08: PrepareSave: clone done in 147ms
+05/30/2024 00:02:08: PrepareSave: ZDOExtraData.PrepareSave done in 139 ms
+05/30/2024 00:02:08: World save writing starting
+05/30/2024 00:02:08: World save writing started
+05/30/2024 00:02:12: Saved 1228283 ZDOs
+05/30/2024 00:02:12: World save writing finishing
+05/30/2024 00:02:12: World save writing finished
+05/30/2024 00:02:12: World saved ( 3483,415ms )
+05/30/2024 00:02:12: Considering autobackup. World time: 1796,74, short time: 7200, long time: 43200, backup count: 4
+05/30/2024 00:02:12: No autobackup needed yet...
+05/30/2024 00:02:13: Unloading unused assets
+Unloading 3 Unused Serialized files (Serialized files now loaded: 1151)
+05/30/2024 00:02:13: Sending disconnect msg
 ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-05/29/2024 23:06:34: Disposing socket
-05/29/2024 23:06:34: Stopping listening socket
-05/29/2024 23:06:34: Last socket, unregistering callback
-05/29/2024 23:06:34: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
-05/29/2024 23:06:34: Local player destroyed
-Unloading 486 unused Assets to reduce memory usage. Loaded Objects now: 211373.
-Total: 346.169100 ms (FindLiveObjects: 11.129300 ms CreateObjectMapping: 14.071500 ms MarkObjects: 319.870200 ms  DeleteObjects: 1.097900 ms)
+05/30/2024 00:02:13: Disposing socket
+05/30/2024 00:02:13: Stopping listening socket
+05/30/2024 00:02:13: Last socket, unregistering callback
+05/30/2024 00:02:13: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+05/30/2024 00:02:13: Stopping build thread
+Unloading 6542 unused Assets to reduce memory usage. Loaded Objects now: 571446.
+Total: 430.094800 ms (FindLiveObjects: 42.025900 ms CreateObjectMapping: 22.063800 ms MarkObjects: 354.359100 ms  DeleteObjects: 11.645900 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 1136)
-05/29/2024 23:06:35: ZNet OnDestroy
-05/29/2024 23:06:35: Net scene destroyed
-UnloadTime: 207.070000 ms
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-05/29/2024 23:06:35: Audioman already exist, destroying self
-05/29/2024 23:06:35: Steam initialized, persona:pericomando *********_com
-05/29/2024 23:06:35: PlayFab custom ID set to "Steam_76561198967130550"
-05/29/2024 23:06:35: Using default prefs
-05/29/2024 23:06:35: Valheim version: 0.218.15 (network version 27)
-05/29/2024 23:06:35: Worldgenerator version setup:2
-05/29/2024 23:06:35: Render threading mode:MultiThreaded
-05/29/2024 23:06:35: Checking for installed DLCs
-05/29/2024 23:06:35: DLC:beta installed:False
-Unloading 2119 unused Assets to reduce memory usage. Loaded Objects now: 196839.
-Total: 364.623700 ms (FindLiveObjects: 9.658700 ms CreateObjectMapping: 13.264600 ms MarkObjects: 339.471700 ms  DeleteObjects: 2.228600 ms)
-
-05/29/2024 23:06:36: Starting music menu
-05/29/2024 23:06:36: Got requested lobby data
-05/29/2024 23:06:38: Stopped music meadows at 1628524
-05/29/2024 23:07:13: Stopping build thread
 Setting up 12 worker threads for Enlighten.
-05/29/2024 23:07:13: Steam manager on destroy
+05/30/2024 00:02:16: ZNet OnDestroy
+05/30/2024 00:02:16: Net scene destroyed
+05/30/2024 00:02:16: Steam manager on destroy
+05/30/2024 00:02:16: Local player destroyed
+GarbageCollector disposing of ComputeBuffer. Please use ComputeBuffer.Release() or .Dispose() to manually release the buffer.
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [2.0 KB-4.0 KB]: 2863 frames, [4.0 KB-8.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 377 frames, [32.0 KB-64.0 KB]: 13906 frames, [64.0 KB-128.0 KB]: 4323 frames, [128.0 KB-256.0 KB]: 337 frames, [256.0 KB-0.5 MB]: 75 frames, [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [2.0 MB-4.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 6 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 2884 frames, [8.0 KB-16.0 KB]: 3 frames, [16.0 KB-32.0 KB]: 724 frames, [32.0 KB-64.0 KB]: 77465 frames, [64.0 KB-128.0 KB]: 48058 frames, [128.0 KB-256.0 KB]: 9947 frames, [256.0 KB-0.5 MB]: 683 frames, [0.5 MB-1.0 MB]: 29 frames, [1.0 MB-2.0 MB]: 7 frames, [2.0 MB-4.0 MB]: 11 frames, [4.0 MB-8.0 MB]: 7 frames
       Initial Block Size 4.0 MB
-      Current Block Size 7.6 MB
+      Current Block Size 8.0 MB
       Peak Allocated Bytes 7.6 MB
-      Overflow Count 114
+      Overflow Count 102
     [ALLOC_TEMP_Background Job.worker 4]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -218,8 +1556,8 @@ Memory Statistics:
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 0.5 MB
-      Peak Allocated Bytes 499.7 KB
-      Overflow Count 259750
+      Peak Allocated Bytes 511.5 KB
+      Overflow Count 293742
     [ALLOC_TEMP_Background Job.worker 3]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -230,15 +1568,15 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 372 B
       Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 7]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 372 B
-      Overflow Count 0
     [ALLOC_TEMP_Job.worker 16]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 6]
       Initial Block Size 32.0 KB
@@ -270,6 +1608,11 @@ Memory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 372 B
       Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 372 B
+      Overflow Count 0
     [ALLOC_TEMP_Job.worker 20]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
@@ -279,11 +1622,6 @@ Memory Statistics:
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Background Job.worker 8]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 372 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 13]
       Initial Block Size 32.0 KB
@@ -337,9 +1675,9 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 15]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
-      Overflow Count 0
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 511.6 KB
+      Overflow Count 1
     [ALLOC_TEMP_Background Job.worker 9]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -362,9 +1700,9 @@ Memory Statistics:
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 13]
       Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
-      Overflow Count 0
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 511.6 KB
+      Overflow Count 1
     [ALLOC_TEMP_Background Job.worker 1]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -388,7 +1726,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 3]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 192.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.worker 5]
       Initial Block Size 32.0 KB
@@ -403,7 +1741,7 @@ Memory Statistics:
     [ALLOC_TEMP_UnityGfxDeviceWorker]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 86.1 KB
+      Peak Allocated Bytes 96.0 KB
       Overflow Count 2
     [ALLOC_TEMP_Job.worker 22]
       Initial Block Size 256.0 KB
@@ -413,19 +1751,19 @@ Memory Statistics:
     [ALLOC_TEMP_Job.worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 192.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.worker 10]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 17]
+    [ALLOC_TEMP_Job.worker 7]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.worker 7]
+    [ALLOC_TEMP_Job.worker 17]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
@@ -446,31 +1784,31 @@ Memory Statistics:
       Peak Allocated Bytes 372 B
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 172824
+  Peak main deferred allocation count 151495
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 6 Subsections = 6144 buckets. Failed count: 868720
-        32B: 31 Subsections = 15872 buckets. Failed count: 296477
-        48B: 32 Subsections = 10922 buckets. Failed count: 1423253
-        64B: 33 Subsections = 8448 buckets. Failed count: 355780
-        80B: 60 Subsections = 12288 buckets. Failed count: 90259
-        96B: 48 Subsections = 8192 buckets. Failed count: 110717
-        112B: 18 Subsections = 2633 buckets. Failed count: 46933
-        128B: 28 Subsections = 3584 buckets. Failed count: 267235
+        16B: 6 Subsections = 6144 buckets. Failed count: 6122145
+        32B: 31 Subsections = 15872 buckets. Failed count: 1157752
+        48B: 32 Subsections = 10922 buckets. Failed count: 29035788
+        64B: 33 Subsections = 8448 buckets. Failed count: 1230502
+        80B: 60 Subsections = 12288 buckets. Failed count: 612974
+        96B: 48 Subsections = 8192 buckets. Failed count: 475581
+        112B: 18 Subsections = 2633 buckets. Failed count: 179752
+        128B: 28 Subsections = 3584 buckets. Failed count: 1404161
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 2855 frames, [32.0 MB-64.0 MB]: 13 frames, [64.0 MB-128.0 MB]: 7610 frames, [128.0 MB-256.0 MB]: 2583 frames, [256.0 MB-0.50 GB]: 8833 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 2881 frames, [32.0 MB-64.0 MB]: 9 frames, [64.0 MB-128.0 MB]: 1909 frames, [128.0 MB-256.0 MB]: 28065 frames, [256.0 MB-0.50 GB]: 106954 frames
       Requested Block Size 16.0 MB
-      Peak Block count 18
-      Peak Allocated memory 321.8 MB
-      Peak Large allocation bytes 87.2 MB
+      Peak Block count 23
+      Peak Allocated memory 432.0 MB
+      Peak Large allocation bytes 131.2 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 73 frames, [16.0 MB-32.0 MB]: 2299 frames, [32.0 MB-64.0 MB]: 47 frames, [64.0 MB-128.0 MB]: 92 frames, [128.0 MB-256.0 MB]: 194 frames, [256.0 MB-0.50 GB]: 19189 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 89 frames, [16.0 MB-32.0 MB]: 2278 frames, [32.0 MB-64.0 MB]: 56 frames, [64.0 MB-128.0 MB]: 95 frames, [128.0 MB-256.0 MB]: 194 frames, [256.0 MB-0.50 GB]: 137106 frames
       Requested Block Size 16.0 MB
-      Peak Block count 20
-      Peak Allocated memory 319.7 MB
+      Peak Block count 23
+      Peak Allocated memory 356.2 MB
       Peak Large allocation bytes 49.4 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -485,7 +1823,7 @@ Memory Statistics:
 [ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
   Initial Block Size 2.0 MB
   Used Block Count 1
-  Overflow Count (too large) 0
+  Overflow Count (too large) 1
   Overflow Count (full) 0
 [ALLOC_TEMP_JOB_ASYNC (Background)]
   Initial Block Size 1.0 MB
@@ -493,59 +1831,59 @@ Memory Statistics:
   Overflow Count (too large) 4
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 35
+  Peak main deferred allocation count 8
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 6 Subsections = 6144 buckets. Failed count: 868720
-        32B: 31 Subsections = 15872 buckets. Failed count: 296477
-        48B: 32 Subsections = 10922 buckets. Failed count: 1423253
-        64B: 33 Subsections = 8448 buckets. Failed count: 355780
-        80B: 60 Subsections = 12288 buckets. Failed count: 90259
-        96B: 48 Subsections = 8192 buckets. Failed count: 110717
-        112B: 18 Subsections = 2633 buckets. Failed count: 46933
-        128B: 28 Subsections = 3584 buckets. Failed count: 267235
+        16B: 6 Subsections = 6144 buckets. Failed count: 6122145
+        32B: 31 Subsections = 15872 buckets. Failed count: 1157752
+        48B: 32 Subsections = 10922 buckets. Failed count: 29035788
+        64B: 33 Subsections = 8448 buckets. Failed count: 1230502
+        80B: 60 Subsections = 12288 buckets. Failed count: 612974
+        96B: 48 Subsections = 8192 buckets. Failed count: 475581
+        112B: 18 Subsections = 2633 buckets. Failed count: 179752
+        128B: 28 Subsections = 3584 buckets. Failed count: 1404161
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 2379 frames, [64.0 KB-128.0 KB]: 38 frames, [256.0 KB-0.5 MB]: 1 frames, [0.5 MB-1.0 MB]: 139 frames, [1.0 MB-2.0 MB]: 298 frames, [8.0 MB-16.0 MB]: 9830 frames, [64.0 MB-128.0 MB]: 9209 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 2368 frames, [64.0 KB-128.0 KB]: 48 frames, [0.5 MB-1.0 MB]: 161 frames, [1.0 MB-2.0 MB]: 6 frames, [2.0 MB-4.0 MB]: 298 frames, [8.0 MB-16.0 MB]: 1919 frames, [64.0 MB-128.0 MB]: 135018 frames
       Requested Block Size 16.0 MB
-      Peak Block count 3
-      Peak Allocated memory 100.2 MB
+      Peak Block count 5
+      Peak Allocated memory 118.9 MB
       Peak Large allocation bytes 92.0 MB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [1.0 KB-2.0 KB]: 1 frames, [0.5 MB-1.0 MB]: 2358 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 3 frames, [8.0 MB-16.0 MB]: 7 frames, [16.0 MB-32.0 MB]: 68 frames, [32.0 MB-64.0 MB]: 102 frames, [64.0 MB-128.0 MB]: 19234 frames, [128.0 MB-256.0 MB]: 118 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 1 frames, [0.5 MB-1.0 MB]: 2347 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 5 frames, [8.0 MB-16.0 MB]: 10 frames, [16.0 MB-32.0 MB]: 78 frames, [32.0 MB-64.0 MB]: 101 frames, [64.0 MB-128.0 MB]: 137154 frames, [128.0 MB-256.0 MB]: 118 frames
       Requested Block Size 16.0 MB
       Peak Block count 9
-      Peak Allocated memory 136.6 MB
+      Peak Allocated memory 135.0 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 379
+  Peak main deferred allocation count 186
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 6 Subsections = 6144 buckets. Failed count: 868720
-        32B: 31 Subsections = 15872 buckets. Failed count: 296477
-        48B: 32 Subsections = 10922 buckets. Failed count: 1423253
-        64B: 33 Subsections = 8448 buckets. Failed count: 355780
-        80B: 60 Subsections = 12288 buckets. Failed count: 90259
-        96B: 48 Subsections = 8192 buckets. Failed count: 110717
-        112B: 18 Subsections = 2633 buckets. Failed count: 46933
-        128B: 28 Subsections = 3584 buckets. Failed count: 267235
+        16B: 6 Subsections = 6144 buckets. Failed count: 6122145
+        32B: 31 Subsections = 15872 buckets. Failed count: 1157752
+        48B: 32 Subsections = 10922 buckets. Failed count: 29035788
+        64B: 33 Subsections = 8448 buckets. Failed count: 1230502
+        80B: 60 Subsections = 12288 buckets. Failed count: 612974
+        96B: 48 Subsections = 8192 buckets. Failed count: 475581
+        112B: 18 Subsections = 2633 buckets. Failed count: 179752
+        128B: 28 Subsections = 3584 buckets. Failed count: 1404161
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 2856 frames, [8.0 MB-16.0 MB]: 13 frames, [32.0 MB-64.0 MB]: 19025 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 2882 frames, [4.0 MB-8.0 MB]: 1 frames, [8.0 MB-16.0 MB]: 8 frames, [32.0 MB-64.0 MB]: 136927 frames
       Requested Block Size 4.0 MB
       Peak Block count 9
       Peak Allocated memory 60.0 MB
       Peak Large allocation bytes 30.6 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [64.0 MB-128.0 MB]: 2347 frames, [128.0 MB-256.0 MB]: 120 frames, [256.0 MB-0.50 GB]: 19426 frames
+      Peak usage frame count: [128.0 KB-256.0 KB]: 1 frames, [64.0 MB-128.0 MB]: 2334 frames, [128.0 MB-256.0 MB]: 140 frames, [256.0 MB-0.50 GB]: 137343 frames
       Requested Block Size 4.0 MB
       Peak Block count 101
-      Peak Allocated memory 493.1 MB
-      Peak Large allocation bytes 118.4 MB
+      Peak Allocated memory 492.7 MB
+      Peak Large allocation bytes 137.8 MB
 [ALLOC_TYPETREE] Dual Thread Allocator
   Peak main deferred allocation count 127
     [ALLOC_BUCKET]
@@ -553,23 +1891,23 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 6 Subsections = 6144 buckets. Failed count: 868720
-        32B: 31 Subsections = 15872 buckets. Failed count: 296477
-        48B: 32 Subsections = 10922 buckets. Failed count: 1423253
-        64B: 33 Subsections = 8448 buckets. Failed count: 355780
-        80B: 60 Subsections = 12288 buckets. Failed count: 90259
-        96B: 48 Subsections = 8192 buckets. Failed count: 110717
-        112B: 18 Subsections = 2633 buckets. Failed count: 46933
-        128B: 28 Subsections = 3584 buckets. Failed count: 267235
+        16B: 6 Subsections = 6144 buckets. Failed count: 6122145
+        32B: 31 Subsections = 15872 buckets. Failed count: 1157752
+        48B: 32 Subsections = 10922 buckets. Failed count: 29035788
+        64B: 33 Subsections = 8448 buckets. Failed count: 1230502
+        80B: 60 Subsections = 12288 buckets. Failed count: 612974
+        96B: 48 Subsections = 8192 buckets. Failed count: 475581
+        112B: 18 Subsections = 2633 buckets. Failed count: 179752
+        128B: 28 Subsections = 3584 buckets. Failed count: 1404161
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 10478 frames, [1.0 MB-2.0 MB]: 11416 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 4799 frames, [1.0 MB-2.0 MB]: 135019 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 1.5 MB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [16.0 KB-32.0 KB]: 1 frames, [8.0 MB-16.0 MB]: 1 frames, [16.0 MB-32.0 MB]: 15 frames, [32.0 MB-64.0 MB]: 34 frames, [64.0 MB-128.0 MB]: 21843 frames
+      Peak usage frame count: [16.0 KB-32.0 KB]: 1 frames, [8.0 MB-16.0 MB]: 3 frames, [16.0 MB-32.0 MB]: 33 frames, [32.0 MB-64.0 MB]: 26 frames, [64.0 MB-128.0 MB]: 139755 frames
       Requested Block Size 2.0 MB
-      Peak Block count 48
-      Peak Allocated memory 91.6 MB
+      Peak Block count 49
+      Peak Allocated memory 93.9 MB
       Peak Large allocation bytes 0 B
