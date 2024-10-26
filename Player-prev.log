@@ -1,0 +1,75 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
+Initialize engine version: 2020.3.45f1 (660cd1701bd5)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8032 MB
+    Driver:   31.0.15.3742
+Begin MonoManager ReloadAssembly
+- Completed reload, in  2.825 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+Using XInput
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.140300 ms
+10/24/2023 17:06:21: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/24/2023 17:06:21: Fetching PlatformPrefs 'GuiScale' before loading defaults
+10/24/2023 17:06:21: Starting to load scene:start
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.870300 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+10/24/2023 17:06:29: Using environment steamid 892970
+10/24/2023 17:06:29: Using steam APPID:892970
+10/24/2023 17:06:29: Authentication:k_ESteamNetworkingAvailability_Attempting
+10/24/2023 17:06:29: Steam initialized, persona:pericomando *********_com
+10/24/2023 17:06:29: PlayFab custom ID set to "Steam_76561198967130550"
+10/24/2023 17:06:29: Using default prefs
+10/24/2023 17:06:29: Valheim version: 0.217.25 (network version 15)
+10/24/2023 17:06:29: Worldgenerator version setup:2
+10/24/2023 17:06:29: Render threading mode:MultiThreaded
+10/24/2023 17:06:29: Set button "CamZoomIn" to None!
+10/24/2023 17:06:29: Set button "CamZoomOut" to None!
+10/24/2023 17:06:29: Set button "CamZoomIn" to None!
+10/24/2023 17:06:29: Set button "CamZoomOut" to None!
+10/24/2023 17:06:29: Loaded localization file #0 - 'localization' language: 'English'
+10/24/2023 17:06:29: Loaded localization file #1 - 'localization_extra' language: 'English'
+10/24/2023 17:06:29: Loaded localization file #2 - 'heightmap_message' language: 'English'
+10/24/2023 17:06:29: Loaded localization file #3 - 'localization_hildir' language: 'English'
+10/24/2023 17:06:29: Loaded localization file #4 - 'localization_emotes' language: 'English'
+10/24/2023 17:06:30: Missing audio clip in music respawn
+10/24/2023 17:06:30: Checking for installed DLCs
+10/24/2023 17:06:30: DLC:beta installed:False
+10/24/2023 17:06:30: Builder started
+10/24/2023 17:06:30: Sending PlayFab login request (attempt 1)
+10/24/2023 17:06:30: Ticket is System.Byte[] of length 369
+10/24/2023 17:06:30: Session auth respons callback
+10/24/2023 17:06:30: Starting music menu
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 156003.
+Total: 147.451100 ms (FindLiveObjects: 7.306700 ms CreateObjectMapping: 13.281400 ms MarkObjects: 126.587800 ms  DeleteObjects: 0.274800 ms)
+
+10/24/2023 17:06:31: PlayFab logged in as "Steam_76561198967130550"
+10/24/2023 17:06:31: PlayFab local entity ID is 98F67FB376DED196
+10/24/2023 17:06:32: Stopping build thread
+Setting up 12 worker threads for Enlighten.
+  Thread -> id: 2c20 -> priority: 1 
+  Thread -> id: 3b78 -> priority: 1 
+  Thread -> id: 1c0 -> priority: 1 
+  Thread -> id: 38d8 -> priority: 1 
+  Thread -> id: 22a0 -> priority: 1 
+  Thread -> id: 24cc -> priority: 1 
+  Thread -> id: 236c -> priority: 1 
+  Thread -> id: 1f48 -> priority: 1 
+  Thread -> id: 1a70 -> priority: 1 
+  Thread -> id: 1c40 -> priority: 1 
+  Thread -> id: 2bf8 -> priority: 1 
+  Thread -> id: 1544 -> priority: 1 
+10/24/2023 17:06:32: Steam manager on destroy

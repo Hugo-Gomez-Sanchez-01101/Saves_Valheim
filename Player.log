@@ -1,0 +1,1194 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/Valheim/MonoBleedingEdge/etc'
+[Physics::Module] Initialized MultithreadedJobDispatcher with 23 workers.
+Initialize engine version: 2022.3.12f1 (4fe6e059c7ef)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/Valheim/valheim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   NVIDIA
+    VRAM:     8032 MB
+    Driver:   31.0.15.4629
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.614 seconds
+- Finished resetting the current domain, in  0.002 seconds
+<RI> Initializing input.
+New input system (experimental) initialized
+Using Windows.Gaming.Input
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.876900 ms
+12/30/2023 14:16:55: Fetching PlatformPrefs 'GuiScale' before loading defaults
+12/30/2023 14:16:55: Fetching PlatformPrefs 'GuiScale' before loading defaults
+Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
+Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
+Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
+12/30/2023 14:16:55: Starting to load scene:start
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
+Shader 'Lux Lit Particles/ Tess Bumped': fallback shader 'Lux Lit Particles/ Bumped Smoke' not found
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.782700 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+12/30/2023 14:17:03: Using environment steamid 892970
+12/30/2023 14:17:03: Using steam APPID:892970
+12/30/2023 14:17:03: Authentication:k_ESteamNetworkingAvailability_Attempting
+12/30/2023 14:17:03: Steam initialized, persona:pericomando *********_com
+12/30/2023 14:17:03: PlayFab custom ID set to "Steam_76561198967130550"
+12/30/2023 14:17:03: Using default prefs
+12/30/2023 14:17:03: Valheim version: 0.217.38 (network version 20)
+Trying to set graphic mode to 'Custom'
+Graphic mode 'Custom' applied!
+12/30/2023 14:17:03: Worldgenerator version setup:2
+12/30/2023 14:17:03: Render threading mode:MultiThreaded
+12/30/2023 14:17:03: Set button "CamZoomIn" to None!
+12/30/2023 14:17:03: Set button "CamZoomOut" to None!
+12/30/2023 14:17:03: Set button "CamZoomIn" to None!
+12/30/2023 14:17:03: Set button "CamZoomOut" to None!
+12/30/2023 14:17:03: Loaded localization file #0 - 'localization' language: 'English'
+12/30/2023 14:17:03: Loaded localization file #1 - 'localization_extra' language: 'English'
+12/30/2023 14:17:03: Loaded localization file #2 - 'heightmap_message' language: 'English'
+12/30/2023 14:17:03: Loaded localization file #3 - 'localization_hildir' language: 'English'
+12/30/2023 14:17:03: Loaded localization file #4 - 'localization_emotes' language: 'English'
+12/30/2023 14:17:03: Missing audio clip in music respawn
+12/30/2023 14:17:03: Checking for installed DLCs
+12/30/2023 14:17:03: DLC:beta installed:False
+12/30/2023 14:17:03: Builder started
+12/30/2023 14:17:04: Sending PlayFab login request (attempt 1)
+12/30/2023 14:17:04: Starting music menu
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 156149.
+Total: 57.314100 ms (FindLiveObjects: 8.371900 ms CreateObjectMapping: 14.539600 ms MarkObjects: 34.061800 ms  DeleteObjects: 0.340600 ms)
+
+12/30/2023 14:17:05: PlayFab logged in as "Steam_76561198967130550"
+12/30/2023 14:17:05: PlayFab local entity ID is 98F67FB376DED196
+12/30/2023 14:18:48: Loaded localization file #0 - 'localization' language: 'English'
+12/30/2023 14:18:48: Loaded localization file #1 - 'localization_extra' language: 'English'
+12/30/2023 14:18:48: Loaded localization file #2 - 'heightmap_message' language: 'English'
+12/30/2023 14:18:48: Loaded localization file #3 - 'localization_hildir' language: 'English'
+12/30/2023 14:18:48: Loaded localization file #4 - 'localization_emotes' language: 'English'
+Trying to set graphic mode to 'Custom'
+Graphic mode 'Custom' applied!
+12/30/2023 14:18:49: show character selection
+12/30/2023 14:18:51: Vis equip model set to 1
+12/30/2023 14:18:56: Vis equip model set to 1
+12/30/2023 14:19:06: OnCharacterStart
+12/30/2023 14:19:12: Loading main scene
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 11.135600 ms
+12/30/2023 14:19:13: Steam initialized, persona:pericomando *********_com
+12/30/2023 14:19:13: PlayFab custom ID set to "Steam_76561198967130550"
+12/30/2023 14:19:13: Using default prefs
+12/30/2023 14:19:13: Loading player profile el sabio
+12/30/2023 14:19:13: isModded: False
+12/30/2023 14:19:13: Zonesystem Awake 19686
+12/30/2023 14:19:13: DungeonDB Awake 19686
+12/30/2023 14:19:13: Steam initialized, persona:pericomando *********_com
+12/30/2023 14:19:13: Worldgenerator version setup:1
+12/30/2023 14:19:15: Audioman already exist, destroying self
+12/30/2023 14:19:15: Checking for installed DLCs
+12/30/2023 14:19:15: DLC:beta installed:False
+Unloading 132 unused Assets to reduce memory usage. Loaded Objects now: 154825.
+Total: 64.660900 ms (FindLiveObjects: 8.149500 ms CreateObjectMapping: 11.893700 ms MarkObjects: 43.607900 ms  DeleteObjects: 1.009500 ms)
+
+12/30/2023 14:19:20: Zonesystem Start 19686
+12/30/2023 14:19:20: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+12/30/2023 14:19:20: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+12/30/2023 14:19:20: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+12/30/2023 14:19:20: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_hildir
+12/30/2023 14:19:21: DungeonDB Start 19686
+12/30/2023 14:19:21: ZRpc timeout set to 30s 
+12/30/2023 14:19:21: ZNET START
+12/30/2023 14:19:21: Load world: cabron (cabron)
+12/30/2023 14:19:21: Loading 810589 zdos, my sessionID: 1075019493, data version: 29
+12/30/2023 14:19:21: Creating ZDOs
+12/30/2023 14:19:21: Loading in ZDOs
+12/30/2023 14:19:23: Adding to Dictionary
+12/30/2023 14:19:24: Adding to Sectors
+12/30/2023 14:19:24: Converting Ships & Fishing-rods ownership
+12/30/2023 14:19:24: Converting & mapping CreationTime
+Converted 632 Creation Times.
+12/30/2023 14:19:24: Converting portals
+ConvertPortals => Make sure all 37 portals are in a good state.
+ConvertPortals => fixed 17 portals.
+12/30/2023 14:19:24: Converting spawners
+ConvertSpawners => Will try and convert 2346 spawners.
+ConvertSpawners => Converted 688 spawners, and 1658 'done' spawners.
+12/30/2023 14:19:24: Converting ZSyncTransforms
+ConvertSyncTransforms => Will try and convert 39 SyncTransforms.
+12/30/2023 14:19:24: Converting ItemSeeds
+ConvertSeed => Converted 567 ZDOs.
+12/30/2023 14:19:24: Converting Dungeons
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 41 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 54 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 10 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 11 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 25 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 7 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 21 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 14 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 20 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 31 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 37 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 21 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 42 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 26 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 25 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 10 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 19 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 35 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 44 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 12 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 35 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 30 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 42 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 11 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 51 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 10 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 40 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 20 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 43 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 6 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 30 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 34 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 26 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 17 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 32 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 38 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 13 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 19 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 43 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 21 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 62 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 25 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 14 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 36 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 25 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 34 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 34 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 9 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 30 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 15 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 32 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 14 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 25 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 8 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 34 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 37 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 13 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 60 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 13 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 13 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 19 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 35 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 42 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 9 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 8 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 17 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 31 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 31 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 30 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 26 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 20 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 35 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 30 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 42 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 36 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 34 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 68 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 10 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 35 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 12 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 45 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 36 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 37 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 41 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 47 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 12 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 48 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 35 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 30 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 45 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 54 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 44 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 32 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 35 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 52 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 30 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 31 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 17 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 36 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 15 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 32 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 15 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 19 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 13 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 36 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 48 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 47 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 25 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 30 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 15 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 38 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 16 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 25 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 26 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 13 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 32 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 47 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 31 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 38 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 10 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 25 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 19 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 21 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 11 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 37 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 15 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 30 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 26 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 31 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 25 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 36 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 21 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 41 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 32 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 19 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 37 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 44 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 31 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 34 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 34 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 17 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 36 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 24 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 20 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 36 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 45 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 20 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 9 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 7 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 19 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 26 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 32 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 38 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 15 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 30 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 32 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 53 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 6 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 36 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 13 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 16 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 17 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 34 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 31 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 22 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 29 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 18 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 7 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 19 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 26 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 34 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 25 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 39 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 23 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 12 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 20 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 36 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 27 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 20 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 28 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 16 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 42 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 26 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 19 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 31 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 13 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 33 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 39 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 31 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 46 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 38 rooms.
+12/30/2023 14:19:24: Cleaned up old dungeon data format for 34 rooms.
+12/30/2023 14:19:24: Loaded 9963 locations
+12/30/2023 14:19:24: Unloading unused assets
+12/30/2023 14:19:24: Generating locations
+12/30/2023 14:19:24: Checking for location duplicates
+Unloading 12 Unused Serialized files (Serialized files now loaded: 0)
+12/30/2023 14:19:24: Old location found StartTemple x 1
+12/30/2023 14:19:24: Old location found Eikthyrnir x 3
+12/30/2023 14:19:24: Old location found GoblinKing x 1
+12/30/2023 14:19:24: Old location found GDKing x 1
+12/30/2023 14:19:24: Old location found Bonemass x 1
+12/30/2023 14:19:24: Old location found SunkenCrypt4 x 85
+12/30/2023 14:19:24: Old location found Vendor_BlackForest x 1
+12/30/2023 14:19:24: Old location found Dragonqueen x 1
+12/30/2023 14:19:24: Old location found Mistlands_Giant1 x 9
+12/30/2023 14:19:29: Failed to place all Mistlands_Giant1, placed 227 out of 350
+12/30/2023 14:19:33: Failed to place all Mistlands_Giant2, placed 51 out of 100
+12/30/2023 14:19:33: Old location found Mistlands_DvergrTownEntrance1 x 4
+12/30/2023 14:19:34: Old location found Mistlands_DvergrTownEntrance2 x 7
+12/30/2023 14:19:36: Old location found Mistlands_DvergrBossEntrance1 x 1
+12/30/2023 14:19:38: Old location found StoneCircle x 13
+12/30/2023 14:19:38: Old location found Greydwarf_camp1 x 83
+12/30/2023 14:19:38: Old location found Runestone_Greydwarfs x 32
+12/30/2023 14:19:38: Old location found Grave1 x 44
+12/30/2023 14:19:39: Old location found SwampRuin1 x 10
+12/30/2023 14:19:39: Old location found SwampRuin2 x 7
+12/30/2023 14:19:39: Old location found FireHole x 26
+12/30/2023 14:19:39: Old location found Runestone_Draugr x 12
+12/30/2023 14:19:39: Old location found Crypt2 x 52
+12/30/2023 14:19:39: Old location found Ruin1 x 51
+12/30/2023 14:19:39: Old location found Ruin2 x 41
+12/30/2023 14:19:39: Old location found StoneHouse3 x 56
+12/30/2023 14:19:40: Old location found StoneHouse4 x 48
+12/30/2023 14:19:40: Old location found Ruin3 x 8
+12/30/2023 14:19:40: Old location found GoblinCamp2 x 28
+12/30/2023 14:19:41: Old location found StoneTower1 x 4
+12/30/2023 14:19:42: Old location found StoneTower3 x 13
+12/30/2023 14:19:42: Old location found StoneHenge2 x 1
+12/30/2023 14:19:42: Old location found StoneHenge3 x 1
+12/30/2023 14:19:42: Old location found StoneHenge6 x 6
+12/30/2023 14:19:42: Old location found WoodHouse1 x 15
+12/30/2023 14:19:42: Old location found WoodHouse2 x 8
+12/30/2023 14:19:43: Old location found WoodHouse3 x 10
+12/30/2023 14:19:43: Old location found WoodHouse4 x 4
+12/30/2023 14:19:43: Old location found WoodHouse5 x 11
+12/30/2023 14:19:43: Old location found WoodHouse6 x 11
+12/30/2023 14:19:43: Old location found WoodHouse7 x 11
+12/30/2023 14:19:43: Old location found WoodHouse8 x 10
+12/30/2023 14:19:43: Old location found WoodHouse9 x 11
+12/30/2023 14:19:43: Old location found WoodHouse10 x 12
+12/30/2023 14:19:43: Old location found WoodHouse11 x 11
+12/30/2023 14:19:43: Old location found WoodHouse12 x 9
+12/30/2023 14:19:43: Old location found WoodHouse13 x 5
+12/30/2023 14:19:43: Old location found WoodFarm1 x 7
+12/30/2023 14:19:43: Old location found WoodVillage1 x 4
+12/30/2023 14:19:43: Old location found TrollCave02 x 64
+12/30/2023 14:19:43: Old location found Dolmen01 x 30
+12/30/2023 14:19:43: Old location found Dolmen02 x 26
+12/30/2023 14:19:44: Old location found Dolmen03 x 15
+12/30/2023 14:19:44: Old location found Crypt3 x 51
+12/30/2023 14:19:44: Old location found Crypt4 x 47
+12/30/2023 14:19:45: Old location found InfestedTree01 x 179
+12/30/2023 14:19:45: Old location found SwampHut1 x 11
+12/30/2023 14:19:45: Old location found SwampHut2 x 15
+12/30/2023 14:19:45: Old location found SwampHut3 x 10
+12/30/2023 14:19:46: Old location found SwampHut4 x 15
+12/30/2023 14:19:46: Old location found SwampHut5 x 5
+12/30/2023 14:19:46: Old location found SwampWell1 x 5
+12/30/2023 14:19:46: Old location found StoneTowerRuins04 x 5
+12/30/2023 14:19:46: Old location found StoneTowerRuins05 x 6
+12/30/2023 14:19:47: Old location found StoneTowerRuins03 x 19
+12/30/2023 14:19:47: Old location found StoneTowerRuins07 x 16
+12/30/2023 14:19:47: Old location found StoneTowerRuins08 x 16
+12/30/2023 14:19:47: Old location found StoneTowerRuins09 x 25
+12/30/2023 14:19:47: Old location found StoneTowerRuins10 x 14
+12/30/2023 14:19:47: Old location found ShipSetting01 x 42
+12/30/2023 14:19:49: Old location found DrakeNest01 x 39
+12/30/2023 14:19:49: Old location found Waymarker01 x 13
+12/30/2023 14:19:49: Old location found Waymarker02 x 12
+12/30/2023 14:19:49: Old location found AbandonedLogCabin02 x 4
+12/30/2023 14:19:50: Old location found AbandonedLogCabin03 x 7
+12/30/2023 14:19:50: Old location found AbandonedLogCabin04 x 9
+12/30/2023 14:19:51: Old location found MountainGrave01 x 22
+12/30/2023 14:19:51: Old location found DrakeLorestone x 6
+12/30/2023 14:19:51: Old location found MountainWell1 x 4
+12/30/2023 14:19:52: Old location found ShipWreck01 x 6
+12/30/2023 14:19:52: Old location found ShipWreck02 x 4
+12/30/2023 14:19:52: Old location found ShipWreck03 x 8
+12/30/2023 14:19:52: Old location found ShipWreck04 x 4
+12/30/2023 14:19:53: Old location found Runestone_Meadows x 43
+12/30/2023 14:19:53: Old location found Runestone_Boars x 25
+12/30/2023 14:19:53: Old location found Runestone_Swamps x 22
+12/30/2023 14:19:53: Old location found Runestone_Mountains x 18
+12/30/2023 14:19:54: Old location found Runestone_BlackForest x 6
+12/30/2023 14:19:55: Old location found Runestone_Plains x 18
+12/30/2023 14:19:55: Old location found TarPit1 x 10
+12/30/2023 14:19:56: Failed to place all TarPit1, placed 94 out of 100
+12/30/2023 14:19:56: Old location found TarPit2 x 1
+12/30/2023 14:19:57: Failed to place all TarPit2, placed 11 out of 100
+12/30/2023 14:19:57: Old location found TarPit3 x 19
+12/30/2023 14:19:59: Old location found MountainCave02 x 20
+12/30/2023 14:20:01: Failed to place all MountainCave02, placed 132 out of 160
+12/30/2023 14:20:01: Old location found Mistlands_GuardTower1_new x 4
+12/30/2023 14:20:01: Old location found Mistlands_GuardTower1_ruined_new x 2
+12/30/2023 14:20:02: Old location found Mistlands_GuardTower1_ruined_new2 x 1
+12/30/2023 14:20:02: Old location found Mistlands_GuardTower2_new x 3
+12/30/2023 14:20:02: Old location found Mistlands_GuardTower3_new x 1
+12/30/2023 14:20:03: Old location found Mistlands_GuardTower3_ruined_new x 1
+12/30/2023 14:20:03: Old location found Mistlands_Lighthouse1_new x 5
+12/30/2023 14:20:04: Old location found Mistlands_Excavation1 x 1
+12/30/2023 14:20:05: Old location found Mistlands_Excavation2 x 2
+12/30/2023 14:20:06: Old location found Mistlands_Harbour1 x 6
+12/30/2023 14:20:06: Old location found Mistlands_Viaduct1 x 5
+12/30/2023 14:20:06: Old location found Mistlands_Viaduct2 x 8
+12/30/2023 14:20:06: Old location found Mistlands_RockSpire1 x 10
+12/30/2023 14:20:06: Old location found Mistlands_RoadPost1 x 21
+12/30/2023 14:20:07: Old location found Mistlands_StatueGroup1 x 12
+12/30/2023 14:20:07: Old location found Mistlands_Statue1 x 11
+12/30/2023 14:20:07: Old location found Mistlands_Statue2 x 7
+12/30/2023 14:20:07: Old location found Mistlands_Swords1 x 1
+12/30/2023 14:20:07: Old location found Mistlands_Swords3 x 2
+12/30/2023 14:20:07: Old location found Runestone_Mistlands x 2
+12/30/2023 14:20:07:  Done generating locations, duration:43095,5396 ms
+12/30/2023 14:20:07: Starting respawn
+12/30/2023 14:20:13: Unpacking compressed mapdata 26419
+12/30/2023 14:20:13: tip:$loadscreen_tip13
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1728159.
+Total: 592.999000 ms (FindLiveObjects: 202.667400 ms CreateObjectMapping: 38.248200 ms MarkObjects: 344.999200 ms  DeleteObjects: 7.083700 ms)
+
+12/30/2023 14:20:19: Destroying old picked Pickable_ForestCryptRemains01(Clone)
+12/30/2023 14:20:19: Setting saddle:True
+12/30/2023 14:20:22: Spawned after 8,019994
+12/30/2023 14:20:22: Skipping unloading unused assets
+12/30/2023 14:20:22: Minimap: Adding unique location (-377.74, 33.69, -451.42)
+12/30/2023 14:20:22: Minimap: Adding unique location (-1615.36, 35.12, 172.06)
+12/30/2023 14:20:24: Starting music meadows
+12/30/2023 14:20:24: Resumed music meadows at 0
+12/30/2023 14:20:43: Setting selected recipe 0
+Trying to set graphic mode to 'Custom'
+Graphic mode 'Custom' applied!
+Trying to set graphic mode to 'Custom'
+Graphic mode 'Custom' applied!
+Trying to set graphic mode to 'Custom'
+Graphic mode 'Custom' applied!
+12/30/2023 14:21:43: Skipping unloading unused assets
+12/30/2023 14:24:05: Update PlayFab entity token
+12/30/2023 14:31:02: Setting selected recipe 0
+12/30/2023 14:31:03: Queue unlock msg:$msg_newrecipe:$item_fishingbait_deepnorth
+12/30/2023 14:31:03: Queue unlock msg:$msg_newrecipe:$item_fishingbait_forest
+12/30/2023 14:31:03: Queue unlock msg:$msg_newrecipe:$item_fishingbait_plains
+12/30/2023 14:31:03: Queue unlock msg:$msg_newrecipe:$item_fishingbait_swamp
+12/30/2023 14:31:03: Queue unlock msg:$msg_newrecipe:$item_shield_bonetower
+12/30/2023 14:31:03: Queue unlock msg:$msg_newrecipe:$item_shield_iron_tower
+12/30/2023 14:31:03: Queue unlock msg:$msg_newpiece:$piece_blackforge_ext2
+12/30/2023 14:31:03: Queue unlock msg:$msg_newpiece:$piece_hexagonalgate
+12/30/2023 14:31:03: Queue unlock msg:$msg_newpiece:$piece_brazierfloor02
+12/30/2023 14:31:03: Queue unlock msg:$msg_newpiece:$piece_magetable_ext2
+12/30/2023 14:31:24: Setting selected recipe 0
+12/30/2023 14:31:35: Setting selected recipe 1
+12/30/2023 14:31:44: Stopped music meadows at 855395
+12/30/2023 14:31:44: Starting music meadows
+12/30/2023 14:31:44: Resumed music meadows at 855395
+12/30/2023 14:31:46: Setting selected recipe 0
+12/30/2023 14:31:49: Setting selected recipe 0
+12/30/2023 14:32:02: Destroying old picked Pickable_ForestCryptRemains02(Clone)
+12/30/2023 14:32:29: Setting selected recipe 0
+12/30/2023 14:32:44: Stopped music meadows at 2630476
+12/30/2023 14:32:44: Starting music meadows
+12/30/2023 14:32:44: Resumed music meadows at 2630476
+12/30/2023 14:32:49: Setting selected recipe 0
+12/30/2023 14:33:01: Setting selected recipe 0
+12/30/2023 14:33:02: Setting selected recipe 0
+12/30/2023 14:33:19: Setting selected recipe 0
+12/30/2023 14:33:29: Binding key Block
+12/30/2023 14:33:31: Binding key SecondaryAttack
+12/30/2023 14:33:43: Setting selected recipe 0
+12/30/2023 14:33:44: Setting selected recipe 8
+12/30/2023 14:33:45: Setting selected recipe 7
+12/30/2023 14:33:47: Setting selected recipe 5
+12/30/2023 14:33:48: Setting selected recipe 6
+12/30/2023 14:33:48: Setting selected recipe 5
+12/30/2023 14:33:50: Setting selected recipe 3
+12/30/2023 14:33:51: Setting selected recipe 4
+12/30/2023 14:33:52: Setting selected recipe 3
+12/30/2023 14:33:57: Setting selected recipe 2
+12/30/2023 14:33:58: Setting selected recipe 1
+12/30/2023 14:33:58: Setting selected recipe 0
+12/30/2023 14:34:01: Setting selected recipe 0
+12/30/2023 14:34:21: Setting selected recipe 0
+12/30/2023 14:34:23: Drop item $item_stone
+12/30/2023 14:34:23: drop all 2  2
+12/30/2023 14:34:23: Setting selected recipe 0
+12/30/2023 14:34:34: Player 1075019493 wants to open piece_chest_private(Clone)   im: 1075019493
+12/30/2023 14:34:34: Setting selected recipe 0
+12/30/2023 14:34:40: Player 1075019493 wants to open piece_chest_wood(Clone)   im: 1075019493
+12/30/2023 14:34:40: Setting selected recipe 0
+12/30/2023 14:34:47: Player 1075019493 wants to open piece_chest(Clone)   im: 1075019493
+12/30/2023 14:34:47: Setting selected recipe 0
+12/30/2023 14:34:59: Setting selected recipe 0
+12/30/2023 14:35:00: Setting selected recipe 1
+12/30/2023 14:35:01: Setting selected recipe 2
+12/30/2023 14:35:02: Setting selected recipe 3
+12/30/2023 14:35:02: Setting selected recipe 4
+12/30/2023 14:35:03: Setting selected recipe 4
+12/30/2023 14:35:03: Setting selected recipe 5
+12/30/2023 14:35:04: Setting selected recipe 4
+12/30/2023 14:35:04: Setting selected recipe 6
+12/30/2023 14:35:05: Setting selected recipe 7
+12/30/2023 14:35:07: Setting selected recipe 8
+12/30/2023 14:35:10: Player 1075019493 wants to open piece_chest_wood(Clone)   im: 1075019493
+12/30/2023 14:35:10: Setting selected recipe 0
+12/30/2023 14:35:47: Setting selected recipe 0
+12/30/2023 14:35:57: Spawned Greydwarf x 2
+12/30/2023 14:36:03: Right click
+12/30/2023 14:36:10: Right click
+12/30/2023 14:36:14: Left click
+12/30/2023 14:36:17: Turret 'piece_turret(Clone)' is shooting 1 projectiles, ammo: 19/40
+12/30/2023 14:36:19: Turret 'piece_turret(Clone)' is shooting 1 projectiles, ammo: 18/40
+12/30/2023 14:36:20: Target is gone
+12/30/2023 14:36:46: Setting selected recipe 0
+12/30/2023 14:36:49: Spawned Greydwarf x 1
+12/30/2023 14:36:52: Doodad controlls set Lox(Clone)
+12/30/2023 14:36:52: Ignoring 4 colliders
+12/30/2023 14:37:03: Stop doodad controlls
+12/30/2023 14:37:11: Doodad controlls set Lox(Clone)
+12/30/2023 14:37:11: Ignoring 4 colliders
+12/30/2023 14:37:25: Loading dungeon
+12/30/2023 14:37:25: Dungeon loaded with 27 rooms in 24,4846 ms.
+12/30/2023 14:37:28: Destroying old picked Pickable_ForestCryptRemains03(Clone)
+12/30/2023 14:37:28: Destroying old picked Pickable_ForestCryptRemains01(Clone)
+12/30/2023 14:37:28: hit mine rock 105
+12/30/2023 14:37:32: Stop doodad controlls
+12/30/2023 14:37:38: Stopped music meadows at 3285342
+12/30/2023 14:37:38: Starting music blackforest
+12/30/2023 14:38:27: Doodad controlls set Lox(Clone)
+12/30/2023 14:38:27: Ignoring 4 colliders
+12/30/2023 14:38:33: Spawned Greyling x 1
+12/30/2023 14:38:33: Spawned Greyling x 1
+12/30/2023 14:39:21: Loading dungeon
+12/30/2023 14:39:21: Dungeon loaded with 26 rooms in 14,2292 ms.
+12/30/2023 14:39:33: Loading dungeon
+12/30/2023 14:39:33: Dungeon loaded with 33 rooms in 24,6006 ms.
+12/30/2023 14:39:55: Loading dungeon
+12/30/2023 14:39:55: Dungeon loaded with 29 rooms in 18,256 ms.
+12/30/2023 14:40:03: Update PlayFab entity token
+12/30/2023 14:40:12: Destroying old picked Pickable_ForestCryptRemains03(Clone)
+12/30/2023 14:40:12: Destroying old picked Pickable_ForestCryptRemains01(Clone)
+12/30/2023 14:40:47: Force generating hmap (-1600.00, 0.00, 128.00)
+12/30/2023 14:40:47: Force generating hmap (-1600.00, 0.00, 192.00)
+12/30/2023 14:41:11: Starting music evening
+12/30/2023 14:41:12: Stopped music blackforest at 391734
+12/30/2023 14:41:14: Spawned Fish5 x 3
+12/30/2023 14:41:14: Spawned Greydwarf x 1
+12/30/2023 14:41:14: Spawned Skeleton x 3
+12/30/2023 14:41:14: Spawned Tick x 3
+12/30/2023 14:41:14: Spawned Greydwarf_Shaman x 1
+12/30/2023 14:41:14: Spawned FireFlies x 1
+12/30/2023 14:41:14: Spawned FireFlies x 1
+12/30/2023 14:41:14: Spawned FireFlies x 1
+12/30/2023 14:41:20: Stop doodad controlls
+12/30/2023 14:41:31: Rel vel 3,643362
+12/30/2023 14:41:38: Spawned FireFlies x 1
+12/30/2023 14:41:45: Setting selected recipe 0
+12/30/2023 14:41:58: Starting music blackforest
+12/30/2023 14:41:58: Resumed music blackforest at 391734
+12/30/2023 14:42:01: Doodad controlls set Lox(Clone)
+12/30/2023 14:42:01: Ignoring 4 colliders
+12/30/2023 14:42:10: Spawned Greydwarf x 1
+12/30/2023 14:42:18: Spawned Greydwarf_Shaman x 1
+12/30/2023 14:42:20: Spawned Seeker x 2
+12/30/2023 14:42:39: Stop doodad controlls
+12/30/2023 14:43:00: Doodad controlls set Lox(Clone)
+12/30/2023 14:43:00: Ignoring 4 colliders
+12/30/2023 14:43:00: Setting selected recipe 0
+12/30/2023 14:43:02: Stop doodad controlls
+12/30/2023 14:43:33: Spawned FireFlies x 1
+12/30/2023 14:43:35: Doodad controlls set Lox(Clone)
+12/30/2023 14:43:35: Ignoring 4 colliders
+12/30/2023 14:43:39: Spawned Skeleton x 1
+12/30/2023 14:43:39: Spawned Greydwarf_Shaman x 1
+12/30/2023 14:43:39: Spawned FireFlies x 1
+12/30/2023 14:43:39: Spawned FireFlies x 1
+12/30/2023 14:43:39: Spawned FireFlies x 1
+12/30/2023 14:43:50: Spawned Greydwarf_Shaman x 1
+12/30/2023 14:43:50: Spawned Wolf x 1
+12/30/2023 14:44:01: Setting selected recipe 0
+12/30/2023 14:44:03: Spawned Greydwarf x 2
+12/30/2023 14:44:03: Spawned Greydwarf_Shaman x 1
+12/30/2023 14:44:03: Spawned FireFlies x 1
+12/30/2023 14:44:03: Spawned FireFlies x 1
+12/30/2023 14:44:07: Spawned Wolf x 2
+12/30/2023 14:44:21: Loading dungeon
+12/30/2023 14:44:21: Dungeon loaded with 33 rooms in 23,6352 ms.
+12/30/2023 14:44:23: Spawned Greydwarf x 1
+12/30/2023 14:44:43: Loading dungeon
+12/30/2023 14:44:43: Dungeon loaded with 29 rooms in 18,5596 ms.
+12/30/2023 14:44:45: Setting selected recipe 0
+12/30/2023 14:44:46: Spawned Greydwarf x 1
+12/30/2023 14:44:46: Spawned Skeleton x 2
+12/30/2023 14:44:46: Spawned Greydwarf_Shaman x 1
+12/30/2023 14:45:00: Loading dungeon
+12/30/2023 14:45:00: Dungeon loaded with 26 rooms in 13,0288 ms.
+12/30/2023 14:45:00: Spawned Greydwarf x 3
+12/30/2023 14:45:00: Spawned Greydwarf x 2
+12/30/2023 14:45:00: Spawned Greydwarf_Elite x 1
+12/30/2023 14:45:00: Spawned SeekerBrood x 3
+12/30/2023 14:45:00: Spawned Tick x 3
+12/30/2023 14:45:00: Spawned FireFlies x 1
+12/30/2023 14:45:24: Loading dungeon
+12/30/2023 14:45:24: Dungeon loaded with 27 rooms in 21,0784 ms.
+12/30/2023 14:45:25: Spawned Greydwarf x 1
+12/30/2023 14:45:25: Spawned Greydwarf_Shaman x 1
+12/30/2023 14:45:45: Spawned Greydwarf x 3
+12/30/2023 14:45:45: Spawned Skeleton x 2
+12/30/2023 14:45:59: Spawned Greydwarf_Shaman x 1
+12/30/2023 14:45:59: Spawned Greydwarf_Shaman x 1
+12/30/2023 14:46:08: Stop doodad controlls
+12/30/2023 14:46:10: hit mine rock 102
+12/30/2023 14:46:10: Suport time 3,295898
+12/30/2023 14:46:10: hit mine rock 44
+12/30/2023 14:46:10: Poison damage: 28,17433 ttl:6,30795 hits:6 dmg perhit:4,695722
+12/30/2023 14:46:14: hit mine rock 82
+12/30/2023 14:46:16: Doodad controlls set Lox(Clone)
+12/30/2023 14:46:16: Ignoring 4 colliders
+12/30/2023 14:46:29: Spawned Greydwarf x 1
+12/30/2023 14:46:29: Spawned Greydwarf_Shaman x 1
+12/30/2023 14:46:29: Spawned Greyling x 1
+12/30/2023 14:46:29: Spawned FireFlies x 1
+12/30/2023 14:46:29: Spawned FireFlies x 1
+12/30/2023 14:46:29: Spawned FireFlies x 1
+12/30/2023 14:46:33: hit mine rock 36
+12/30/2023 14:46:34: Stopped music blackforest at 3488268
+12/30/2023 14:46:35: Stop doodad controlls
+12/30/2023 14:46:38: Starting music blackforest
+12/30/2023 14:46:38: Resumed music blackforest at 3488268
+12/30/2023 14:46:38: Poison damage: 29,56113 ttl:6,437015 hits:6 dmg perhit:4,926856
+12/30/2023 14:46:38: hit mine rock 67
+12/30/2023 14:46:40: hit mine rock 103
+12/30/2023 14:46:40: Suport time 2,197266
+12/30/2023 14:46:42: Stopped music blackforest at 175929
+12/30/2023 14:46:42: Starting music blackforest
+12/30/2023 14:46:42: Resumed music blackforest at 175929
+12/30/2023 14:46:43: hit mine rock 82
+12/30/2023 14:46:43: hit mine rock 18
+12/30/2023 14:46:46: hit mine rock 36
+12/30/2023 14:46:48: Setting attacker Human
+12/30/2023 14:46:48: hit mine rock 36
+12/30/2023 14:46:49: hit mine rock 0
+12/30/2023 14:46:51: hit mine rock 36
+12/30/2023 14:46:54: hit mine rock 67
+12/30/2023 14:46:54: Suport time 2,075195
+12/30/2023 14:46:57: hit mine rock 82
+12/30/2023 14:47:04: Doodad controlls set Lox(Clone)
+12/30/2023 14:47:04: Ignoring 4 colliders
+12/30/2023 14:47:14: Stopped music blackforest at 1420607
+12/30/2023 14:47:14: Spawned Greydwarf x 1
+12/30/2023 14:47:14: Spawned Greydwarf x 2
+12/30/2023 14:47:14: Spawned FireFlies x 1
+12/30/2023 14:47:14: Starting music blackforest
+12/30/2023 14:47:14: Resumed music blackforest at 1420607
+12/30/2023 14:47:26: Stopped music blackforest at 537196
+12/30/2023 14:47:31: Stop doodad controlls
+12/30/2023 14:47:38: Valid True
+12/30/2023 14:47:38: On death False
+12/30/2023 14:47:55: Game - OnApplicationQuit
+12/30/2023 14:47:55: Shuting down
+12/30/2023 14:47:55: Uncompressed size 8390604
+12/30/2023 14:47:55: Compressed size 26387
+12/30/2023 14:47:55: Migrating character save from an old save format, created backup!
+12/30/2023 14:47:55: Considering autobackup. World time: 1062,64, short time: 7200, long time: 43200, backup count: 4
+12/30/2023 14:47:55: Skipping backup. World session not long enough.
+12/30/2023 14:47:55: ZNet Shutdown
+12/30/2023 14:47:56: PrepareSave: clone done in 103ms
+12/30/2023 14:47:56: PrepareSave: ZDOExtraData.PrepareSave done in 107 ms
+12/30/2023 14:47:56: Migrating world save from an old save format, created backup!
+12/30/2023 14:47:56: World save writing starting
+12/30/2023 14:47:56: World save writing started
+12/30/2023 14:47:58: Saved 810579 ZDOs
+12/30/2023 14:47:58: World save writing finishing
+12/30/2023 14:47:58: World save writing finished
+12/30/2023 14:47:58: World saved ( 2769,463ms )
+12/30/2023 14:47:58: Considering autobackup. World time: 1062,64, short time: 7200, long time: 43200, backup count: 4
+12/30/2023 14:47:58: Skipping backup. World session not long enough.
+12/30/2023 14:47:59: Unloading unused assets
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+12/30/2023 14:47:59: Sending disconnect msg
+ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+12/30/2023 14:47:59: Stopping build thread
+Unloading 2290 unused Assets to reduce memory usage. Loaded Objects now: 2056822.
+Total: 541.481600 ms (FindLiveObjects: 220.153300 ms CreateObjectMapping: 40.073900 ms MarkObjects: 269.393100 ms  DeleteObjects: 11.860600 ms)
+
+Setting up 12 worker threads for Enlighten.
+12/30/2023 14:48:02: ZNet OnDestroy
+12/30/2023 14:48:02: Net scene destroyed
+12/30/2023 14:48:03: Steam manager on destroy
+12/30/2023 14:48:03: Local player destroyed
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [2.0 KB-4.0 KB]: 562 frames, [16.0 KB-32.0 KB]: 13046 frames, [32.0 KB-64.0 KB]: 56838 frames, [64.0 KB-128.0 KB]: 61656 frames, [128.0 KB-256.0 KB]: 5967 frames, [256.0 KB-0.5 MB]: 749 frames, [0.5 MB-1.0 MB]: 112 frames, [1.0 MB-2.0 MB]: 9 frames, [2.0 MB-4.0 MB]: 5 frames, [4.0 MB-8.0 MB]: 15 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 7.9 MB
+      Peak Allocated Bytes 7.9 MB
+      Overflow Count 120
+    [ALLOC_TEMP_Background Job.worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 511.6 KB
+      Overflow Count 164531
+    [ALLOC_TEMP_Background Job.worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 16]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 19]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 20]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_NavMesh Builder.worker 0]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 23
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 138 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_HIDInput]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 10.8 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 15]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 2.1 KB
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 12
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 192.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 21]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 192.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 96.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 22]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 192.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 17]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.worker 18]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 294 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 72729
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 6407131
+        32B: 15 Subsections = 7680 buckets. Failed count: 1406464
+        48B: 148 Subsections = 50517 buckets. Failed count: 16786979
+        64B: 53 Subsections = 13568 buckets. Failed count: 1236887
+        80B: 25 Subsections = 5120 buckets. Failed count: 607218
+        96B: 5 Subsections = 853 buckets. Failed count: 406278
+        112B: 3 Subsections = 438 buckets. Failed count: 159166
+        128B: 4 Subsections = 512 buckets. Failed count: 1562988
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [32.0 MB-64.0 MB]: 19684 frames, [64.0 MB-128.0 MB]: 1 frames, [128.0 MB-256.0 MB]: 344 frames, [256.0 MB-0.50 GB]: 113851 frames, [0.50 GB-1.00 GB]: 5079 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 19
+      Peak Allocated memory 0.62 GB
+      Peak Large allocation bytes 392.0 MB
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [256.0 MB-0.50 GB]: 138959 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 22
+      Peak Allocated memory 388.3 MB
+      Peak Large allocation bytes 140.6 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 0
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 4
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 9
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 6407131
+        32B: 15 Subsections = 7680 buckets. Failed count: 1406464
+        48B: 148 Subsections = 50517 buckets. Failed count: 16786979
+        64B: 53 Subsections = 13568 buckets. Failed count: 1236887
+        80B: 25 Subsections = 5120 buckets. Failed count: 607218
+        96B: 5 Subsections = 853 buckets. Failed count: 406278
+        112B: 3 Subsections = 438 buckets. Failed count: 159166
+        128B: 4 Subsections = 512 buckets. Failed count: 1562988
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 564 frames, [8.0 MB-16.0 MB]: 19121 frames, [64.0 MB-128.0 MB]: 100377 frames, [128.0 MB-256.0 MB]: 18897 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 6
+      Peak Allocated memory 140.5 MB
+      Peak Large allocation bytes 76.0 MB
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [64.0 MB-128.0 MB]: 138959 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 6
+      Peak Allocated memory 81.5 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 147
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 6407131
+        32B: 15 Subsections = 7680 buckets. Failed count: 1406464
+        48B: 148 Subsections = 50517 buckets. Failed count: 16786979
+        64B: 53 Subsections = 13568 buckets. Failed count: 1236887
+        80B: 25 Subsections = 5120 buckets. Failed count: 607218
+        96B: 5 Subsections = 853 buckets. Failed count: 406278
+        112B: 3 Subsections = 438 buckets. Failed count: 159166
+        128B: 4 Subsections = 512 buckets. Failed count: 1562988
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [4.0 MB-8.0 MB]: 564 frames, [16.0 MB-32.0 MB]: 19121 frames, [32.0 MB-64.0 MB]: 119274 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 6
+      Peak Allocated memory 58.7 MB
+      Peak Large allocation bytes 36.4 MB
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [256.0 MB-0.50 GB]: 19685 frames, [0.50 GB-1.00 GB]: 119274 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 186
+      Peak Allocated memory 0.84 GB
+      Peak Large allocation bytes 384.4 MB
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 3 Subsections = 3072 buckets. Failed count: 6407131
+        32B: 15 Subsections = 7680 buckets. Failed count: 1406464
+        48B: 148 Subsections = 50517 buckets. Failed count: 16786979
+        64B: 53 Subsections = 13568 buckets. Failed count: 1236887
+        80B: 25 Subsections = 5120 buckets. Failed count: 607218
+        96B: 5 Subsections = 853 buckets. Failed count: 406278
+        112B: 3 Subsections = 438 buckets. Failed count: 159166
+        128B: 4 Subsections = 512 buckets. Failed count: 1562988
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 563 frames, [4.0 KB-8.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 138395 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 26.3 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 19685 frames, [128.0 KB-256.0 KB]: 119274 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 159.2 KB
+      Peak Large allocation bytes 0 B
