@@ -11,28 +11,28 @@ Direct3D:
     VRAM:     8018 MB
     Driver:   32.0.15.8088
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.148 seconds
-- Finished resetting the current domain, in  0.002 seconds
+- Loaded All Assemblies, in  0.146 seconds
+- Finished resetting the current domain, in  0.001 seconds
 <RI> Initializing input.
 New input system (experimental) initialized
 Using Windows.Gaming.Input
 <RI> Input initialized.
 <RI> Initialized touch support.
 [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
-UnloadTime: 0.608600 ms
-08/28/2025 18:19:53: Using environment steamid 892970
-08/28/2025 18:19:53: Using steam APPID:892970
-08/28/2025 18:19:53: Authentication:k_ESteamNetworkingAvailability_Attempting
-08/28/2025 18:19:53: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
-08/28/2025 18:19:53: Initialized platform!
-08/28/2025 18:19:53: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
-08/28/2025 18:19:53: All files in local storage save data:
+UnloadTime: 0.683100 ms
+09/07/2025 19:15:03: Using environment steamid 892970
+09/07/2025 19:15:03: Using steam APPID:892970
+09/07/2025 19:15:03: Authentication:k_ESteamNetworkingAvailability_Attempting
+09/07/2025 19:15:03: Platform doesn't implement Process Lifetime Management! Don't initialize suspend manager.
+09/07/2025 19:15:03: Initialized platform!
+09/07/2025 19:15:03: Platform doesn't implement matchmaking! Don't initialize matchmaking manager.
+09/07/2025 19:15:04: All files in local storage save data:
 C:/Users/hugog/AppData/LocalLow/IronGate/Valheim\adminlist.txt (40)
 C:/Users/hugog/AppData/LocalLow/IronGate/Valheim\bannedlist.txt (41)
 C:/Users/hugog/AppData/LocalLow/IronGate/Valheim\permittedlist.txt (43)
-C:/Users/hugog/AppData/LocalLow/IronGate/Valheim\Player-prev.log (44631)
+C:/Users/hugog/AppData/LocalLow/IronGate/Valheim\Player-prev.log (38877)
 C:/Users/hugog/AppData/LocalLow/IronGate/Valheim\Player.log (1501)
-08/28/2025 18:19:53: All files in platform save data:
+09/07/2025 19:15:04: All files in platform save data:
 characters/el sabio_backup_auto-20221221203650.fch (16826456)
 characters/el sabio_backup_auto-20221222195110.fch (16827272)
 characters/el sabio_backup_auto-20221223002649.fch (16827531)
@@ -47,345 +47,216 @@ worlds/cabron_backup_restore-20221211-193710.db (64619982)
 worlds/cabron_backup_restore-20221211-193710.fwl (42)
 worlds/copia.fwl.old (41)
 worlds/copia_backup_auto-20221213031707.fwl (41)
-08/28/2025 18:19:53: Set background loading budget to Low
-08/28/2025 18:19:53: Loading first scene
+09/07/2025 19:15:04: Set background loading budget to Low
+09/07/2025 19:15:04: Loading first scene
 Unloading 4 Unused Serialized files (Serialized files now loaded: 8)
 [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
-UnloadTime: 0.166300 ms
-08/28/2025 18:19:53: Fetching PlatformPrefs 'GuiScale' before loading defaults
-08/28/2025 18:19:53: Fetching PlatformPrefs 'GuiScale' before loading defaults
-08/28/2025 18:19:53: Fetching PlatformPrefs 'ControllerLayout' before loading defaults
-08/28/2025 18:19:53: Fetching PlatformPrefs 'ControllerLayout' before loading defaults
-08/28/2025 18:19:53: Initializing loading indicator instance
+UnloadTime: 0.211700 ms
+09/07/2025 19:15:04: Fetching PlatformPrefs 'GuiScale' before loading defaults
+09/07/2025 19:15:04: Fetching PlatformPrefs 'GuiScale' before loading defaults
+09/07/2025 19:15:04: Fetching PlatformPrefs 'ControllerLayout' before loading defaults
+09/07/2025 19:15:04: Fetching PlatformPrefs 'ControllerLayout' before loading defaults
+09/07/2025 19:15:04: Initializing loading indicator instance
 Unloading 173 unused Assets to reduce memory usage. Loaded Objects now: 2253.
-Total: 1.572700 ms (FindLiveObjects: 0.097900 ms CreateObjectMapping: 0.038800 ms MarkObjects: 1.352500 ms  DeleteObjects: 0.083500 ms)
+Total: 2.202800 ms (FindLiveObjects: 0.189600 ms CreateObjectMapping: 0.043400 ms MarkObjects: 1.856400 ms  DeleteObjects: 0.113300 ms)
 
-08/28/2025 18:19:53: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
-08/28/2025 18:19:53: Set background loading budget to Normal
-08/28/2025 18:19:53: Loaded localization file #0 - 'localization' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #1 - 'localization_extra' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #2 - 'heightmap_message' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #3 - 'localization_witch' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #4 - 'localization_emotes' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #6 - 'localization_captions' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #0 - 'localization' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #1 - 'localization_extra' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #2 - 'heightmap_message' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #3 - 'localization_witch' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #4 - 'localization_emotes' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #5 - 'localization_ashlands' language: 'English'
-08/28/2025 18:19:53: Loaded localization file #6 - 'localization_captions' language: 'English'
+09/07/2025 19:15:04: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+09/07/2025 19:15:04: Set background loading budget to Normal
+09/07/2025 19:15:04: Loaded localization file #0 - 'localization' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #1 - 'localization_extra' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #2 - 'heightmap_message' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #3 - 'localization_witch' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #4 - 'localization_emotes' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #6 - 'localization_captions' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #0 - 'localization' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #1 - 'localization_extra' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #2 - 'heightmap_message' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #3 - 'localization_witch' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #4 - 'localization_emotes' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+09/07/2025 19:15:04: Loaded localization file #6 - 'localization_captions' language: 'English'
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 Unloading 3 Unused Serialized files (Serialized files now loaded: 16)
-08/28/2025 18:19:57: Set background loading budget to High
-08/28/2025 18:19:58: Set background loading budget to Low
-08/28/2025 18:19:58: Destroying loading indicator instance
+09/07/2025 19:15:08: Set background loading budget to High
+09/07/2025 19:15:08: Destroying loading indicator instance
+09/07/2025 19:15:08: Set background loading budget to Low
 [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
-UnloadTime: 6.144500 ms
+UnloadTime: 6.321700 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-08/28/2025 18:19:58: Missing audio clip in music respawn
-08/28/2025 18:19:58: Steam initialized, persona:pericomando
-08/28/2025 18:19:58: Using default prefs
-08/28/2025 18:19:58: Valheim version: 0.220.5 (network version 34)
+09/07/2025 19:15:08: Missing audio clip in music respawn
+09/07/2025 19:15:08: Steam initialized, persona:pericomando
+09/07/2025 19:15:08: Using default prefs
+09/07/2025 19:15:08: Valheim version: 0.220.5 (network version 34)
 Trying to set graphic mode to 'Custom'
 Graphic mode 'Custom' is not or no longer supported. Fallback to default mode for platform...
 Graphic mode 'Custom' applied!
-08/28/2025 18:19:58: Worldgenerator version setup:2
-08/28/2025 18:19:58: Render threading mode:MultiThreaded
-08/28/2025 18:19:58: Checking for installed DLCs
-08/28/2025 18:19:58: DLC:beta installed:False
-08/28/2025 18:19:58: Builder started
-08/28/2025 18:19:58: Sending PlayFab login request (attempt 1)
-08/28/2025 18:19:58: Starting music menu
-Unloading 87562 unused Assets to reduce memory usage. Loaded Objects now: 201252.
-Total: 97.360500 ms (FindLiveObjects: 12.962900 ms CreateObjectMapping: 18.377700 ms MarkObjects: 38.989000 ms  DeleteObjects: 27.030800 ms)
+09/07/2025 19:15:08: Worldgenerator version setup:2
+09/07/2025 19:15:08: Render threading mode:MultiThreaded
+09/07/2025 19:15:08: Checking for installed DLCs
+09/07/2025 19:15:08: DLC:beta installed:False
+09/07/2025 19:15:08: Builder started
+09/07/2025 19:15:09: Sending PlayFab login request (attempt 1)
+09/07/2025 19:15:09: Starting music menu
+Unloading 87562 unused Assets to reduce memory usage. Loaded Objects now: 201238.
+Total: 105.408600 ms (FindLiveObjects: 13.463400 ms CreateObjectMapping: 20.920900 ms MarkObjects: 42.285800 ms  DeleteObjects: 28.738100 ms)
 
-08/28/2025 18:19:58: Session auth respons callback
-08/28/2025 18:20:00: Logged in PlayFab user via Steam auth session ticket
-08/28/2025 18:20:00: PlayFab local entity ID is 8A631FE385EEB1CB
-08/28/2025 18:20:00: Released session ticket
-08/28/2025 18:20:03: show character selection
-08/28/2025 18:20:04: OnCharacterStart
-08/28/2025 18:20:09: Loading main scene
+09/07/2025 19:15:09: Session auth respons callback
+09/07/2025 19:15:10: Logged in PlayFab user via Steam auth session ticket
+09/07/2025 19:15:10: PlayFab local entity ID is 8A631FE385EEB1CB
+09/07/2025 19:15:10: Released session ticket
+09/07/2025 19:15:17: show character selection
+09/07/2025 19:15:18: OnCharacterStart
+09/07/2025 19:15:28: Button pressed Start  frame:1329
+09/07/2025 19:15:29: Loading main scene
 The referenced script on this Behaviour (Game Object '<null>') is missing!
 Unloading 3 Unused Serialized files (Serialized files now loaded: 17)
 [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
-UnloadTime: 12.832800 ms
-08/28/2025 18:20:09: Audioman already exist, destroying self
-08/28/2025 18:20:09: Steam initialized, persona:pericomando
-08/28/2025 18:20:09: Using default prefs
-08/28/2025 18:20:09: Loading player profile el sabio
-08/28/2025 18:20:09: isModded: False
-08/28/2025 18:20:09: Zonesystem Awake 859
-08/28/2025 18:20:09: DungeonDB Awake 859
-08/28/2025 18:20:09: Steam initialized, persona:pericomando
-08/28/2025 18:20:09: Worldgenerator version setup:2
-08/28/2025 18:20:12: Checking for installed DLCs
-08/28/2025 18:20:12: DLC:beta installed:False
-Unloading 370 unused Assets to reduce memory usage. Loaded Objects now: 199215.
-Total: 78.523000 ms (FindLiveObjects: 8.582600 ms CreateObjectMapping: 12.923400 ms MarkObjects: 56.511400 ms  DeleteObjects: 0.505400 ms)
+UnloadTime: 13.280600 ms
+09/07/2025 19:15:29: Audioman already exist, destroying self
+09/07/2025 19:15:29: Steam initialized, persona:pericomando
+09/07/2025 19:15:29: Using default prefs
+09/07/2025 19:15:29: Loading player profile el sabio
+09/07/2025 19:15:29: isModded: False
+09/07/2025 19:15:29: Zonesystem Awake 1420
+09/07/2025 19:15:29: DungeonDB Awake 1420
+09/07/2025 19:15:29: Steam initialized, persona:pericomando
+09/07/2025 19:15:29: Worldgenerator version setup:1
+09/07/2025 19:15:32: Checking for installed DLCs
+09/07/2025 19:15:32: DLC:beta installed:False
+Unloading 370 unused Assets to reduce memory usage. Loaded Objects now: 199210.
+Total: 83.427700 ms (FindLiveObjects: 9.268900 ms CreateObjectMapping: 14.347400 ms MarkObjects: 59.230000 ms  DeleteObjects: 0.581200 ms)
 
-08/28/2025 18:20:12: Zonesystem Start 859
-08/28/2025 18:20:12: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
-08/28/2025 18:20:12: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
-08/28/2025 18:20:12: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
-08/28/2025 18:20:12: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
-08/28/2025 18:20:12: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
-08/28/2025 18:20:12: DungeonDB Start 859
-08/28/2025 18:20:12: ZRpc timeout set to 30s 
-08/28/2025 18:20:12: ZNET START
-08/28/2025 18:20:12: Load world: copia (copia)
-08/28/2025 18:20:12: Loading 9691 zdos, my sessionID: -547102617, data version: 29
-08/28/2025 18:20:12: Loading in ZDOs
-08/28/2025 18:20:12: Adding to Dictionary
-08/28/2025 18:20:12: Adding to Sectors
-08/28/2025 18:20:12: Converting Ships & Fishing-rods ownership
-08/28/2025 18:20:12: Converting & mapping CreationTime
-08/28/2025 18:20:12: Converting portals
-ConvertPortals => Make sure all 0 portals are in a good state.
-08/28/2025 18:20:12: Converting spawners
-ConvertSpawners => Will try and convert 1 spawners.
-ConvertSpawners => Converted 1 spawners, and 0 'done' spawners.
-08/28/2025 18:20:12: Converting ZSyncTransforms
-08/28/2025 18:20:12: Converting ItemSeeds
-08/28/2025 18:20:12: Converting Dungeons
-08/28/2025 18:20:12: Loaded 10049 locations
-08/28/2025 18:20:12: Unloading unused assets
+09/07/2025 19:15:32: Zonesystem Start 1420
+09/07/2025 19:15:32: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+09/07/2025 19:15:32: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+09/07/2025 19:15:32: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+09/07/2025 19:15:32: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+09/07/2025 19:15:32: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+09/07/2025 19:15:32: DungeonDB Start 1420
+09/07/2025 19:15:32: ZRpc timeout set to 30s 
+09/07/2025 19:15:32: ZNET START
+09/07/2025 19:15:32: Load world: cabron (cabron)
+09/07/2025 19:15:32: Loading 455165 zdos, my sessionID: 160479007, data version: 35
+09/07/2025 19:15:32: Loading in ZDOs
+09/07/2025 19:15:33: Adding to Dictionary
+09/07/2025 19:15:33: Adding to Sectors
+09/07/2025 19:15:33: Connecting Portals, Spawners & ZSyncTransforms
+ConnectPortals => Connected 9 portals.
+ConnectSpawners => Connected 387 spawners and 802 'done' spawners.
+09/07/2025 19:15:33: Loaded 11263 locations
+09/07/2025 19:15:33: Unloading unused assets
 Unloading 1 Unused Serialized files (Serialized files now loaded: 17)
+09/07/2025 19:15:33: Registering lobby
+09/07/2025 19:15:33: New session server "cabron" that has join code , now 1 player(s)
+09/07/2025 19:15:33: Register PlayFab server "cabron"
+09/07/2025 19:15:33: Server 'cabron' begin PlayFab create and join network for server 
+09/07/2025 19:15:33: Semaphore type: SemaphoreSlim
+09/07/2025 19:15:33: Opened PlayFab server
 Am I Host? True
-08/28/2025 18:20:12: Starting respawn
-08/28/2025 18:20:19: Generating new world minimap done [6995ms]
-08/28/2025 18:20:20: Minimap: unpacking compressed mapData 8240 => 8388617 bytes
-08/28/2025 18:20:20: tip:$loadscreen_tip06
-08/28/2025 18:20:20: Initializing loading indicator instance
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 199291.
-Total: 79.500500 ms (FindLiveObjects: 9.306400 ms CreateObjectMapping: 12.002200 ms MarkObjects: 57.938100 ms  DeleteObjects: 0.253500 ms)
+09/07/2025 19:15:33: Starting respawn
+09/07/2025 19:15:34: Loading minimap textures done [343ms]
+09/07/2025 19:15:34: Minimap: unpacking compressed mapData 36058 => 8390701 bytes
+09/07/2025 19:15:34: tip:$loadscreen_tip01
+09/07/2025 19:15:34: Initializing loading indicator instance
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 199273.
+Total: 125.494400 ms (FindLiveObjects: 9.734600 ms CreateObjectMapping: 12.467200 ms MarkObjects: 102.737700 ms  DeleteObjects: 0.554400 ms)
 
-08/28/2025 18:20:20: Setting up generating loading indicator
-08/28/2025 18:20:20: Generating locations
-08/28/2025 18:20:20: Old location found StartTemple.prefab (24e6c3b1f9d00f144b1d778748d8d546) x 1
-08/28/2025 18:20:45: Failed to place all SwampRuin2, placed 15 out of 30
-08/28/2025 18:20:46: Failed to place all FireHole, placed 52 out of 75
-08/28/2025 18:20:51: Old location found WoodHouse1.prefab (8c80c5118a0a780489c3952f410276e3) x 1
-08/28/2025 18:20:52: Old location found WoodHouse2.prefab (dfd4621e79a265a4c871b6f7cca2633c) x 1
-08/28/2025 18:20:52: Old location found WoodHouse7.prefab (498ccf35ff9226f4097d38d5cedbbaaf) x 1
-08/28/2025 18:20:52: Old location found WoodHouse8.prefab (6460aee285fe016438bd4a42273a33a6) x 1
-08/28/2025 18:20:52: Old location found WoodHouse9.prefab (c16e104812d765747a3298cb28962fa4) x 1
-08/28/2025 18:20:52: Old location found WoodHouse11.prefab (822c061c910a72a428540ecb3f5dd455) x 3
-08/28/2025 18:20:55: Failed to place all TrollCave02, placed 167 out of 200
-08/28/2025 18:20:55: Old location found Dolmen02.prefab (6f14c420b615ebb4e9961bea19890923) x 1
-08/28/2025 18:20:55: Old location found Dolmen03.prefab (5af8cc033d46abd4fb00ebc86814d31b) x 1
-08/28/2025 18:21:06: Failed to place all StoneTowerRuins05, placed 48 out of 50
-08/28/2025 18:21:09: Old location found ShipSetting01.prefab (93cf387acd86f0147a63d9c8787285d7) x 5
-08/28/2025 18:21:18: Failed to place all MountainWell1, placed 21 out of 25
-08/28/2025 18:21:19: Old location found Runestone_Meadows.prefab (86a97041cd76c664d82d24f8149d4f5d) x 4
-08/28/2025 18:21:19: Old location found Runestone_Boars.prefab (e795ba803f62a7340bf92b63cf2f2c64) x 3
-08/28/2025 18:21:22: Failed to place all Runestone_Mountains, placed 71 out of 100
-08/28/2025 18:21:26: Failed to place all TarPit2, placed 29 out of 100
-08/28/2025 18:21:31: Failed to place all MountainCave02, placed 100 out of 160
-08/28/2025 18:21:45: Failed to place all FortressRuins, placed 81 out of 100
-08/28/2025 18:21:53: Failed to place all VoltureNest, placed 340 out of 350
-08/28/2025 18:21:59: Failed to place all CharredTowerRuins3, placed 35 out of 40
-08/28/2025 18:22:05: Failed to place all MorgenHole3, placed 28 out of 40
-08/28/2025 18:22:06:  Done generating locations, duration:105988,0383 ms
-08/28/2025 18:22:10: Spawned after 109,5936
-08/28/2025 18:22:10: Character ID for player ([El Sabio, 0:0], [pericomando, 0:0], pericomando) was 0:0. Skipping.
-08/28/2025 18:22:10: Skipping unloading unused assets
-08/28/2025 18:22:10: Minimap: Adding unique location (64.69, 34.87, -6.27)
-08/28/2025 18:22:10: SpawnPrefab StoneSpawner_Fader SPAWNING BossStone_Fader
-08/28/2025 18:22:12: Starting music meadows
-08/28/2025 18:22:12: Resumed music meadows at 0
-08/28/2025 18:22:16: Activating default element Continue
-08/28/2025 18:22:20: Activating default element Continue
-Am I Host? True
-Am I Host? True
-08/28/2025 18:22:24: Available space to current user: 485756911616. Saving is blocked if below: 36374460 bytes. Warnings are given if below: 72748920
-08/28/2025 18:22:24: Shutting down
-08/28/2025 18:22:24: Minimap: compressed mapData 8388617 => 8240 bytes
-08/28/2025 18:22:24: Considering autobackup. World time: 115,96, short time: 7200, long time: 43200, backup count: 4
-08/28/2025 18:22:24: Skipping backup. World session not long enough.
-08/28/2025 18:22:24: ZNet Shutdown
-08/28/2025 18:22:24: PrepareSave: clone done in 2ms
-08/28/2025 18:22:24: PrepareSave: ZDOExtraData.PrepareSave done in 11 ms
-08/28/2025 18:22:24: Migrating world save from an old save format, created backup!
-08/28/2025 18:22:24: World save writing starting
-08/28/2025 18:22:24: World save writing started
-08/28/2025 18:22:24: Saved 9692 ZDOs
-08/28/2025 18:22:24: World save writing finishing
-08/28/2025 18:22:24: World save writing finished
-08/28/2025 18:22:24: World saved ( 56,8442ms )
-08/28/2025 18:22:24: Considering autobackup. World time: 115,96, short time: 7200, long time: 43200, backup count: 4
-08/28/2025 18:22:24: Skipping backup. World session not long enough.
-08/28/2025 18:22:24: Unloading unused assets
-Unloading 3 Unused Serialized files (Serialized files now loaded: 28)
-08/28/2025 18:22:24: Sending disconnect msg
-ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-08/28/2025 18:22:24: Local player destroyed
-Unloading 220 unused Assets to reduce memory usage. Loaded Objects now: 209760.
-Total: 71.754500 ms (FindLiveObjects: 11.281100 ms CreateObjectMapping: 13.118200 ms MarkObjects: 46.725300 ms  DeleteObjects: 0.629700 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 28)
-08/28/2025 18:22:25: ZNet OnDestroy
-08/28/2025 18:22:25: Net scene destroyed
-08/28/2025 18:22:25: Destroying loading indicator instance
-[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
-UnloadTime: 23.154400 ms
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-08/28/2025 18:22:25: Audioman already exist, destroying self
-08/28/2025 18:22:25: Steam initialized, persona:pericomando
-08/28/2025 18:22:25: Using default prefs
-08/28/2025 18:22:25: Valheim version: 0.220.5 (network version 34)
-08/28/2025 18:22:25: Worldgenerator version setup:2
-08/28/2025 18:22:25: Render threading mode:MultiThreaded
-08/28/2025 18:22:25: Checking for installed DLCs
-08/28/2025 18:22:25: DLC:beta installed:False
-Unloading 1927 unused Assets to reduce memory usage. Loaded Objects now: 209922.
-Total: 105.600800 ms (FindLiveObjects: 10.160500 ms CreateObjectMapping: 13.040600 ms MarkObjects: 80.571900 ms  DeleteObjects: 1.827600 ms)
-
-08/28/2025 18:22:25: Starting music menu
-08/28/2025 18:22:26: Stopped music meadows at 621868
-08/28/2025 18:22:47: show character selection
-08/28/2025 18:22:48: OnCharacterStart
-08/28/2025 18:27:00: Update PlayFab entity token
-08/28/2025 18:39:56: Loading main scene
-The referenced script on this Behaviour (Game Object '<null>') is missing!
-Unloading 1 Unused Serialized files (Serialized files now loaded: 17)
-[PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
-UnloadTime: 8.896600 ms
-08/28/2025 18:39:56: Audioman already exist, destroying self
-08/28/2025 18:39:56: Steam initialized, persona:pericomando
-08/28/2025 18:39:56: Using default prefs
-08/28/2025 18:39:56: Loading player profile el sabio
-08/28/2025 18:39:56: isModded: False
-08/28/2025 18:39:56: Zonesystem Awake 67230
-08/28/2025 18:39:56: DungeonDB Awake 67230
-08/28/2025 18:39:56: Steam initialized, persona:pericomando
-08/28/2025 18:39:56: Worldgenerator version setup:1
-08/28/2025 18:39:59: Checking for installed DLCs
-08/28/2025 18:39:59: DLC:beta installed:False
-Unloading 377 unused Assets to reduce memory usage. Loaded Objects now: 199258.
-Total: 63.401400 ms (FindLiveObjects: 9.851700 ms CreateObjectMapping: 12.331300 ms MarkObjects: 40.731200 ms  DeleteObjects: 0.486700 ms)
-
-08/28/2025 18:39:59: Zonesystem Start 67230
-08/28/2025 18:39:59: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
-08/28/2025 18:39:59: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
-08/28/2025 18:39:59: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
-08/28/2025 18:39:59: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
-08/28/2025 18:39:59: Added 25 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
-08/28/2025 18:39:59: DungeonDB Start 67230
-08/28/2025 18:39:59: ZRpc timeout set to 30s 
-08/28/2025 18:39:59: ZNET START
-08/28/2025 18:39:59: Load world: cabron (cabron)
-08/28/2025 18:39:59: Loading 1275264 zdos, my sessionID: 331906193, data version: 35
-08/28/2025 18:39:59: Loading in ZDOs
-08/28/2025 18:40:01: Adding to Dictionary
-08/28/2025 18:40:02: Adding to Sectors
-08/28/2025 18:40:02: Connecting Portals, Spawners & ZSyncTransforms
-ConnectPortals => Connected 18 portals.
-ConnectSpawners => Connected 829 spawners and 1841 'done' spawners.
-08/28/2025 18:40:02: Loaded 11236 locations
-08/28/2025 18:40:02: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 17)
-Am I Host? True
-08/28/2025 18:40:02: Starting respawn
-08/28/2025 18:40:02: Loading minimap textures done [341ms]
-08/28/2025 18:40:02: Minimap: unpacking compressed mapData 36058 => 8390701 bytes
-08/28/2025 18:40:02: tip:$loadscreen_tip22
-08/28/2025 18:40:02: Initializing loading indicator instance
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 201609.
-Total: 382.706000 ms (FindLiveObjects: 10.504400 ms CreateObjectMapping: 12.729200 ms MarkObjects: 359.152500 ms  DeleteObjects: 0.319400 ms)
-
-08/28/2025 18:40:06: Force generating hmap (-704.00, 0.00, -7616.00)
-08/28/2025 18:40:06: Force generating hmap (-704.00, 0.00, -7552.00)
-08/28/2025 18:40:06: Force generating hmap (-640.00, 0.00, -7552.00)
-08/28/2025 18:40:06: Setting saddle:False
-08/28/2025 18:40:06: Setting saddle:False
-08/28/2025 18:40:06: Setting saddle:False
-08/28/2025 18:40:11: Spawned after 8,019994
-08/28/2025 18:40:11: Character ID for player ([El Sabio, 0:0], [pericomando, 0:0], pericomando) was 0:0. Skipping.
-08/28/2025 18:40:11: Skipping unloading unused assets
-08/28/2025 18:40:11: Player onboard, total onboard 1
-08/28/2025 18:40:11: Minimap: Adding unique location (-377.74, 33.69, -451.42)
-08/28/2025 18:40:11: Minimap: Adding unique location (-1615.36, 35.12, 172.06)
-08/28/2025 18:40:13: Starting music plains
-08/28/2025 18:40:38: Activating default element Continue
-08/28/2025 18:40:39: Activating default element Continue
+09/07/2025 19:15:34: Lobby was created k_EResultOK  109775243212751977  error:False
+09/07/2025 19:15:34: Got requested lobby data
+09/07/2025 19:15:34: Got requested lobby data
+09/07/2025 19:15:35: Joined PlayFab Party network with ID "a3d0834d-1cf4-4ec6-8443-279ef2a53150|AwC9SIos+7HT40Pd8EmIfABoeG+3O1dlc3RFdXJvcGUAAAAAAAAAAAAA0XpOzK1HsZ7ePtMtjxuHubUyCSBiJgZOFAOCr+G4UKQwCk9kbnMtaXIwLTgxZTUtMzA2OTg4NmEtYTk1ZC00MzJhLTg4ZDktNmQ5MjJmYjRlNzdmLndlc3RldXJvcGUuY2xvdWRhcHAuYXp1cmUuY29t"
+This is the serverIP used to register the server: 
+09/07/2025 19:15:36: Created PlayFab lobby with ID "92eaa2ed-d4ec-456a-9d30-3f4eb25a98e7.r-20230509", ConnectionString "cv2:92eaa2ed-d4ec-456a-9d30-3f4eb25a98e7.r-20230509|451107|kv1:lEoUPG74+k+hpu4wgKQ+kE8X3A3dwv5d3VwXl1ires0=" and owned by "8A631FE385EEB1CB"
+09/07/2025 19:15:36: Session "cabron" registered with join code 294975
+09/07/2025 19:15:36: Retry join-code check 99
+09/07/2025 19:15:37: Retry join-code check 98
+09/07/2025 19:15:38: Retry join-code check 97
+09/07/2025 19:15:40: Session "cabron" with join code 294975 is active with 1 player(s)
+09/07/2025 19:15:42: Spawned after 8,019994
+09/07/2025 19:15:42: Character ID for player ([El Sabio, 0:0], [pericomando, 0:0], pericomando) was 0:0. Skipping.
+09/07/2025 19:15:42: Skipping unloading unused assets
+09/07/2025 19:15:42: Minimap: Adding unique location (-377.74, 33.69, -451.42)
+09/07/2025 19:15:42: Minimap: Adding unique location (-1615.36, 35.12, 172.06)
+09/07/2025 19:15:44: Starting music plains
+09/07/2025 19:15:44: Resumed music plains at 0
+09/07/2025 19:15:49: Activating default element Continue
+09/07/2025 19:15:54: Skipping unloading unused assets
 1920 x 1080 @ 60Hz
-08/28/2025 18:40:41: Activating default element Resolution
+09/07/2025 19:16:43: Activating default element MasterVolume
 Trying to set graphic mode to 'Custom'
 Graphic mode 'Custom' applied!
-08/28/2025 18:40:44: Activating default element Resolution
-08/28/2025 18:40:44: Activating default element Continue
-08/28/2025 18:40:48: Activating default element Continue
-1920 x 1080 @ 60Hz
-08/28/2025 18:40:49: Activating default element Resolution
-Trying to set graphic mode to 'Custom'
-Graphic mode 'Custom' applied!
-08/28/2025 18:40:55: Activating default element Resolution
-08/28/2025 18:40:55: Activating default element Continue
-08/28/2025 18:41:02: Activating default element Continue
+09/07/2025 19:17:18: Activating default element MasterVolume
+09/07/2025 19:17:18: Activating default element Continue
+09/07/2025 19:17:22: Activating default element Continue
 Am I Host? True
 Am I Host? True
-08/28/2025 18:41:05: Available space to current user: 484559519744. Saving is blocked if below: 147796002 bytes. Warnings are given if below: 295592004
-08/28/2025 18:41:05: Shutting down
-08/28/2025 18:41:06: Minimap: compressed mapData 8390701 => 36058 bytes
-08/28/2025 18:41:06: Considering autobackup. World time: 43,80005, short time: 7200, long time: 43200, backup count: 4
-08/28/2025 18:41:06: Skipping backup. World session not long enough.
-08/28/2025 18:41:06: ZNet Shutdown
-08/28/2025 18:41:06: PrepareSave: clone done in 145ms
-08/28/2025 18:41:06: PrepareSave: ZDOExtraData.PrepareSave done in 249 ms
-08/28/2025 18:41:06: World save writing starting
-08/28/2025 18:41:06: World save writing started
-08/28/2025 18:41:09: Saved 1275264 ZDOs
-08/28/2025 18:41:10: World save writing finishing
-08/28/2025 18:41:10: World save writing finished
-08/28/2025 18:41:10: World saved ( 3485,104ms )
-08/28/2025 18:41:10: Considering autobackup. World time: 43,80005, short time: 7200, long time: 43200, backup count: 4
-08/28/2025 18:41:10: Skipping backup. World session not long enough.
-08/28/2025 18:41:10: Unloading unused assets
-Unloading 0 Unused Serialized files (Serialized files now loaded: 18)
-08/28/2025 18:41:10: Sending disconnect msg
-ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
-08/28/2025 18:41:10: Local player destroyed
-Unloading 53 unused Assets to reduce memory usage. Loaded Objects now: 199803.
-Total: 385.516700 ms (FindLiveObjects: 10.043800 ms CreateObjectMapping: 12.334000 ms MarkObjects: 362.482000 ms  DeleteObjects: 0.656200 ms)
+09/07/2025 19:17:28: Available space to current user: 514772979712. Saving is blocked if below: 74558596 bytes. Warnings are given if below: 149117192
+09/07/2025 19:17:28: Shutting down
+09/07/2025 19:17:28: Minimap: compressed mapData 8390701 => 36058 bytes
+09/07/2025 19:17:28: Considering autobackup. World time: 17,08, short time: 7200, long time: 43200, backup count: 4
+09/07/2025 19:17:28: Skipping backup. World session not long enough.
+09/07/2025 19:17:28: ZNet Shutdown
+09/07/2025 19:17:29: PrepareSave: clone done in 50ms
+09/07/2025 19:17:29: PrepareSave: ZDOExtraData.PrepareSave done in 81 ms
+09/07/2025 19:17:29: World save writing starting
+09/07/2025 19:17:29: World save writing started
+09/07/2025 19:17:30: Saved 455165 ZDOs
+09/07/2025 19:17:30: World save writing finishing
+09/07/2025 19:17:30: World save writing finished
+09/07/2025 19:17:30: World saved ( 1291,6673ms )
+09/07/2025 19:17:30: Considering autobackup. World time: 17,08, short time: 7200, long time: 43200, backup count: 4
+09/07/2025 19:17:30: Skipping backup. World session not long enough.
+09/07/2025 19:17:30: Unloading unused assets
+Unloading 2 Unused Serialized files (Serialized files now loaded: 18)
+09/07/2025 19:17:30: Sending disconnect msg
+ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Active
+09/07/2025 19:17:30: Unregister PlayFab server "cabron" and leaving network "a3d0834d-1cf4-4ec6-8443-279ef2a53150|AwC9SIos+7HT40Pd8EmIfABoeG+3O1dlc3RFdXJvcGUAAAAAAAAAAAAA0XpOzK1HsZ7ePtMtjxuHubUyCSBiJgZOFAOCr+G4UKQwCk9kbnMtaXIwLTgxZTUtMzA2OTg4NmEtYTk1ZC00MzJhLTg4ZDktNmQ5MjJmYjRlNzdmLndlc3RldXJvcGUuY2xvdWRhcHAuYXp1cmUuY29t"
+ZPlayFabSocket::Dispose. State: LISTEN
+ZPlayFabSocket::Dispose. leave lobby. LobbyId: 
+ZPlayFabSocket::Dispose. State: CLOSED
+09/07/2025 19:17:30: Local player destroyed
+Unloading 69 unused Assets to reduce memory usage. Loaded Objects now: 199587.
+Total: 176.200100 ms (FindLiveObjects: 10.449600 ms CreateObjectMapping: 13.124400 ms MarkObjects: 151.894900 ms  DeleteObjects: 0.730800 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 20)
-08/28/2025 18:41:11: ZNet OnDestroy
-08/28/2025 18:41:11: Net scene destroyed
-08/28/2025 18:41:11: Destroying loading indicator instance
+09/07/2025 19:17:30: Deactivated PlayFab lobby 92eaa2ed-d4ec-456a-9d30-3f4eb25a98e7.r-20230509
+Unloading 1 Unused Serialized files (Serialized files now loaded: 19)
+09/07/2025 19:17:30: ZNet OnDestroy
+09/07/2025 19:17:30: Net scene destroyed
+09/07/2025 19:17:31: Destroying loading indicator instance
 [PhysX] Initialized MultithreadedTaskDispatcher with 24 workers.
-UnloadTime: 24.900500 ms
+UnloadTime: 14.830300 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-08/28/2025 18:41:11: Audioman already exist, destroying self
-08/28/2025 18:41:11: Steam initialized, persona:pericomando
-08/28/2025 18:41:11: Using default prefs
-08/28/2025 18:41:11: Valheim version: 0.220.5 (network version 34)
-08/28/2025 18:41:11: Worldgenerator version setup:2
-08/28/2025 18:41:11: Render threading mode:MultiThreaded
-08/28/2025 18:41:11: Checking for installed DLCs
-08/28/2025 18:41:11: DLC:beta installed:False
-Unloading 1944 unused Assets to reduce memory usage. Loaded Objects now: 200719.
-Total: 382.865700 ms (FindLiveObjects: 9.897100 ms CreateObjectMapping: 12.579300 ms MarkObjects: 358.617600 ms  DeleteObjects: 1.771400 ms)
+09/07/2025 19:17:31: Audioman already exist, destroying self
+09/07/2025 19:17:31: Steam initialized, persona:pericomando
+09/07/2025 19:17:31: Using default prefs
+09/07/2025 19:17:31: Valheim version: 0.220.5 (network version 34)
+09/07/2025 19:17:31: Worldgenerator version setup:2
+09/07/2025 19:17:31: Render threading mode:MultiThreaded
+09/07/2025 19:17:31: Checking for installed DLCs
+09/07/2025 19:17:31: DLC:beta installed:False
+Unloading 1912 unused Assets to reduce memory usage. Loaded Objects now: 200494.
+Total: 185.934300 ms (FindLiveObjects: 9.348800 ms CreateObjectMapping: 12.526900 ms MarkObjects: 162.248500 ms  DeleteObjects: 1.810000 ms)
 
-08/28/2025 18:41:12: Starting music menu
-08/28/2025 18:41:14: Stopped music plains at 2684102
-08/28/2025 18:41:18: Stopping build thread
-08/28/2025 18:41:18: Steam manager on destroy
+09/07/2025 19:17:31: Got requested lobby data
+09/07/2025 19:17:31: Starting music menu
+09/07/2025 19:17:31: Left PlayFab lobby 92eaa2ed-d4ec-456a-9d30-3f4eb25a98e7.r-20230509
+09/07/2025 19:17:32: Stopped music plains at 4778323
+09/07/2025 19:19:32: Stopping build thread
+09/07/2025 19:19:32: Steam manager on destroy
 Memory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [2.0 KB-4.0 KB]: 220 frames, [4.0 KB-8.0 KB]: 2 frames, [8.0 KB-16.0 KB]: 10 frames, [16.0 KB-32.0 KB]: 13164 frames, [32.0 KB-64.0 KB]: 66125 frames, [64.0 KB-128.0 KB]: 93 frames, [128.0 KB-256.0 KB]: 5 frames, [256.0 KB-0.5 MB]: 87 frames, [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 9 frames
+      Peak usage frame count: [2.0 KB-4.0 KB]: 223 frames, [4.0 KB-8.0 KB]: 4 frames, [8.0 KB-16.0 KB]: 8 frames, [16.0 KB-32.0 KB]: 8678 frames, [32.0 KB-64.0 KB]: 10549 frames, [64.0 KB-128.0 KB]: 105 frames, [128.0 KB-256.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 42 frames, [1.0 MB-2.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 5 frames
       Initial Block Size 4.0 MB
-      Current Block Size 8.0 MB
-      Peak Allocated Bytes 8.0 MB
-      Overflow Count 202
+      Current Block Size 7.7 MB
+      Peak Allocated Bytes 7.7 MB
+      Overflow Count 113
     [ALLOC_TEMP_Job.Worker 18]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
@@ -394,8 +265,8 @@ Memory Statistics:
     [ALLOC_TEMP_Loading.PreloadManager]
       Initial Block Size 256.0 KB
       Current Block Size 0.5 MB
-      Peak Allocated Bytes 385.5 KB
-      Overflow Count 267693
+      Peak Allocated Bytes 384.2 KB
+      Overflow Count 266145
     [ALLOC_TEMP_Background Job.Worker 8]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
@@ -434,7 +305,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 3]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 88.2 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 12]
       Initial Block Size 32.0 KB
@@ -459,7 +330,7 @@ Memory Statistics:
     [ALLOC_TEMP_Background Job.Worker 5]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
-      Peak Allocated Bytes 324 B
+      Peak Allocated Bytes 54 B
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 13]
       Initial Block Size 32.0 KB
@@ -489,7 +360,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 20]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 231.1 KB
+      Peak Allocated Bytes 153.5 KB
       Overflow Count 0
     [ALLOC_TEMP_HIDInput]
       Initial Block Size 64.0 KB
@@ -499,7 +370,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 11]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 88.2 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 4]
       Initial Block Size 32.0 KB
@@ -511,10 +382,10 @@ Memory Statistics:
       Current Block Size 64.0 KB
       Peak Allocated Bytes 54 B
       Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 6]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 54 B
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
@@ -531,10 +402,10 @@ Memory Statistics:
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
       Overflow Count 0
-    [ALLOC_TEMP_Background Job.Worker 9]
-      Initial Block Size 32.0 KB
-      Current Block Size 32.0 KB
-      Peak Allocated Bytes 54 B
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 153.5 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 14]
       Initial Block Size 32.0 KB
@@ -544,7 +415,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 13]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 196.7 KB
+      Peak Allocated Bytes 153.5 KB
       Overflow Count 0
     [ALLOC_TEMP_EnlightenWorker] x 12
       Initial Block Size 64.0 KB
@@ -575,7 +446,7 @@ Memory Statistics:
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 51.1 KB
-      Overflow Count 3
+      Overflow Count 2
     [ALLOC_TEMP_Job.Worker 9]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
@@ -589,7 +460,7 @@ Memory Statistics:
     [ALLOC_TEMP_Job.Worker 7]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 153.5 KB
+      Peak Allocated Bytes 88.2 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
@@ -606,12 +477,12 @@ Memory Statistics:
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 12]
+    [ALLOC_TEMP_Job.Worker 19]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
       Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 19]
+    [ALLOC_TEMP_Job.Worker 12]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
       Peak Allocated Bytes 153.5 KB
@@ -622,31 +493,31 @@ Memory Statistics:
       Peak Allocated Bytes 127.6 KB
       Overflow Count 0
 [ALLOC_DEFAULT] Dual Thread Allocator
-  Peak main deferred allocation count 65335
+  Peak main deferred allocation count 6963
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 1710856
-        32B: 14 Subsections = 7168 buckets. Failed count: 198846
-        48B: 29 Subsections = 9898 buckets. Failed count: 3724130
-        64B: 47 Subsections = 12032 buckets. Failed count: 402488
-        80B: 43 Subsections = 8806 buckets. Failed count: 60892
-        96B: 108 Subsections = 18432 buckets. Failed count: 63662
-        112B: 7 Subsections = 1024 buckets. Failed count: 37930
-        128B: 6 Subsections = 768 buckets. Failed count: 353627
+        16B: 2 Subsections = 2048 buckets. Failed count: 547130
+        32B: 14 Subsections = 7168 buckets. Failed count: 158721
+        48B: 29 Subsections = 9898 buckets. Failed count: 548430
+        64B: 47 Subsections = 12032 buckets. Failed count: 185543
+        80B: 43 Subsections = 8806 buckets. Failed count: 50857
+        96B: 108 Subsections = 18432 buckets. Failed count: 58034
+        112B: 7 Subsections = 1024 buckets. Failed count: 33498
+        128B: 6 Subsections = 768 buckets. Failed count: 148063
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 87 frames, [32.0 MB-64.0 MB]: 141 frames, [64.0 MB-128.0 MB]: 66247 frames, [128.0 MB-256.0 MB]: 13244 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 86 frames, [32.0 MB-64.0 MB]: 145 frames, [64.0 MB-128.0 MB]: 19386 frames
       Requested Block Size 16.0 MB
-      Peak Block count 10
-      Peak Allocated memory 177.9 MB
-      Peak Large allocation bytes 44.0 MB
+      Peak Block count 7
+      Peak Allocated memory 119.0 MB
+      Peak Large allocation bytes 32.0 MB
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 39 frames, [16.0 MB-32.0 MB]: 17 frames, [32.0 MB-64.0 MB]: 15 frames, [64.0 MB-128.0 MB]: 29 frames, [128.0 MB-256.0 MB]: 69 frames, [256.0 MB-0.50 GB]: 79550 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 44 frames, [16.0 MB-32.0 MB]: 19 frames, [32.0 MB-64.0 MB]: 17 frames, [64.0 MB-128.0 MB]: 35 frames, [128.0 MB-256.0 MB]: 76 frames, [256.0 MB-0.50 GB]: 19426 frames
       Requested Block Size 16.0 MB
       Peak Block count 19
-      Peak Allocated memory 299.1 MB
+      Peak Allocated memory 299.2 MB
       Peak Large allocation bytes 34.7 MB
 [ALLOC_TEMP_JOB_1_FRAME]
   Initial Block Size 2.0 MB
@@ -666,61 +537,61 @@ Memory Statistics:
 [ALLOC_TEMP_JOB_ASYNC (Background)]
   Initial Block Size 1.0 MB
   Used Block Count 1
-  Overflow Count (too large) 5
+  Overflow Count (too large) 4
   Overflow Count (full) 0
 [ALLOC_GFX] Dual Thread Allocator
-  Peak main deferred allocation count 16
+  Peak main deferred allocation count 20
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 1710856
-        32B: 14 Subsections = 7168 buckets. Failed count: 198846
-        48B: 29 Subsections = 9898 buckets. Failed count: 3724130
-        64B: 47 Subsections = 12032 buckets. Failed count: 402488
-        80B: 43 Subsections = 8806 buckets. Failed count: 60892
-        96B: 108 Subsections = 18432 buckets. Failed count: 63662
-        112B: 7 Subsections = 1024 buckets. Failed count: 37930
-        128B: 6 Subsections = 768 buckets. Failed count: 353627
+        16B: 2 Subsections = 2048 buckets. Failed count: 547130
+        32B: 14 Subsections = 7168 buckets. Failed count: 158721
+        48B: 29 Subsections = 9898 buckets. Failed count: 548430
+        64B: 47 Subsections = 12032 buckets. Failed count: 185543
+        80B: 43 Subsections = 8806 buckets. Failed count: 50857
+        96B: 108 Subsections = 18432 buckets. Failed count: 58034
+        112B: 7 Subsections = 1024 buckets. Failed count: 33498
+        128B: 6 Subsections = 768 buckets. Failed count: 148063
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [32.0 KB-64.0 KB]: 44 frames, [64.0 KB-128.0 KB]: 3 frames, [128.0 KB-256.0 KB]: 5 frames, [256.0 KB-0.5 MB]: 7 frames, [0.5 MB-1.0 MB]: 5 frames, [1.0 MB-2.0 MB]: 36 frames, [2.0 MB-4.0 MB]: 28 frames, [4.0 MB-8.0 MB]: 49 frames, [8.0 MB-16.0 MB]: 64107 frames, [64.0 MB-128.0 MB]: 15435 frames
+      Peak usage frame count: [32.0 KB-64.0 KB]: 46 frames, [64.0 KB-128.0 KB]: 4 frames, [128.0 KB-256.0 KB]: 5 frames, [256.0 KB-0.5 MB]: 7 frames, [0.5 MB-1.0 MB]: 12 frames, [1.0 MB-2.0 MB]: 25 frames, [2.0 MB-4.0 MB]: 46 frames, [4.0 MB-8.0 MB]: 59 frames, [8.0 MB-16.0 MB]: 8432 frames, [64.0 MB-128.0 MB]: 10981 frames
       Requested Block Size 16.0 MB
-      Peak Block count 3
-      Peak Allocated memory 111.1 MB
-      Peak Large allocation bytes 102.7 MB
+      Peak Block count 2
+      Peak Allocated memory 100.4 MB
+      Peak Large allocation bytes 92.0 MB
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 1 frames, [0.5 MB-1.0 MB]: 45 frames, [1.0 MB-2.0 MB]: 4 frames, [2.0 MB-4.0 MB]: 2 frames, [4.0 MB-8.0 MB]: 5 frames, [8.0 MB-16.0 MB]: 11 frames, [16.0 MB-32.0 MB]: 21 frames, [32.0 MB-64.0 MB]: 34 frames, [64.0 MB-128.0 MB]: 79542 frames, [128.0 MB-256.0 MB]: 54 frames
+      Peak usage frame count: [1.0 KB-2.0 KB]: 1 frames, [0.5 MB-1.0 MB]: 50 frames, [1.0 MB-2.0 MB]: 5 frames, [2.0 MB-4.0 MB]: 3 frames, [4.0 MB-8.0 MB]: 6 frames, [8.0 MB-16.0 MB]: 12 frames, [16.0 MB-32.0 MB]: 25 frames, [32.0 MB-64.0 MB]: 38 frames, [64.0 MB-128.0 MB]: 19442 frames, [128.0 MB-256.0 MB]: 35 frames
       Requested Block Size 16.0 MB
       Peak Block count 9
-      Peak Allocated memory 132.0 MB
+      Peak Allocated memory 131.8 MB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
-  Peak main deferred allocation count 458
+  Peak main deferred allocation count 460
     [ALLOC_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 1710856
-        32B: 14 Subsections = 7168 buckets. Failed count: 198846
-        48B: 29 Subsections = 9898 buckets. Failed count: 3724130
-        64B: 47 Subsections = 12032 buckets. Failed count: 402488
-        80B: 43 Subsections = 8806 buckets. Failed count: 60892
-        96B: 108 Subsections = 18432 buckets. Failed count: 63662
-        112B: 7 Subsections = 1024 buckets. Failed count: 37930
-        128B: 6 Subsections = 768 buckets. Failed count: 353627
+        16B: 2 Subsections = 2048 buckets. Failed count: 547130
+        32B: 14 Subsections = 7168 buckets. Failed count: 158721
+        48B: 29 Subsections = 9898 buckets. Failed count: 548430
+        64B: 47 Subsections = 12032 buckets. Failed count: 185543
+        80B: 43 Subsections = 8806 buckets. Failed count: 50857
+        96B: 108 Subsections = 18432 buckets. Failed count: 58034
+        112B: 7 Subsections = 1024 buckets. Failed count: 33498
+        128B: 6 Subsections = 768 buckets. Failed count: 148063
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 1 frames, [16.0 MB-32.0 MB]: 142 frames, [32.0 MB-64.0 MB]: 67085 frames, [64.0 MB-128.0 MB]: 12491 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 1 frames, [16.0 MB-32.0 MB]: 169 frames, [32.0 MB-64.0 MB]: 19447 frames
       Requested Block Size 4.0 MB
       Peak Block count 9
-      Peak Allocated memory 84.0 MB
-      Peak Large allocation bytes 55.7 MB
+      Peak Allocated memory 61.5 MB
+      Peak Large allocation bytes 30.6 MB
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [128.0 KB-256.0 KB]: 1 frames, [64.0 MB-128.0 MB]: 42 frames, [128.0 MB-256.0 MB]: 40 frames, [256.0 MB-0.50 GB]: 79636 frames
+      Peak usage frame count: [64.0 KB-128.0 KB]: 1 frames, [64.0 MB-128.0 MB]: 46 frames, [128.0 MB-256.0 MB]: 47 frames, [256.0 MB-0.50 GB]: 19523 frames
       Requested Block Size 4.0 MB
       Peak Block count 99
-      Peak Allocated memory 483.8 MB
+      Peak Allocated memory 483.9 MB
       Peak Large allocation bytes 117.6 MB
 [ALLOC_TYPETREE] Dual Thread Allocator
   Peak main deferred allocation count 136
@@ -729,22 +600,22 @@ Memory Statistics:
       Used Block count 1
       Peak Allocated bytes 4.0 MB
       Failed Allocations. Bucket layout:
-        16B: 2 Subsections = 2048 buckets. Failed count: 1710856
-        32B: 14 Subsections = 7168 buckets. Failed count: 198846
-        48B: 29 Subsections = 9898 buckets. Failed count: 3724130
-        64B: 47 Subsections = 12032 buckets. Failed count: 402488
-        80B: 43 Subsections = 8806 buckets. Failed count: 60892
-        96B: 108 Subsections = 18432 buckets. Failed count: 63662
-        112B: 7 Subsections = 1024 buckets. Failed count: 37930
-        128B: 6 Subsections = 768 buckets. Failed count: 353627
+        16B: 2 Subsections = 2048 buckets. Failed count: 547130
+        32B: 14 Subsections = 7168 buckets. Failed count: 158721
+        48B: 29 Subsections = 9898 buckets. Failed count: 548430
+        64B: 47 Subsections = 12032 buckets. Failed count: 185543
+        80B: 43 Subsections = 8806 buckets. Failed count: 50857
+        96B: 108 Subsections = 18432 buckets. Failed count: 58034
+        112B: 7 Subsections = 1024 buckets. Failed count: 33498
+        128B: 6 Subsections = 768 buckets. Failed count: 148063
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 857 frames, [1.0 MB-2.0 MB]: 78862 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 1418 frames, [1.0 MB-2.0 MB]: 18199 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 1.4 MB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [16.0 KB-32.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 74430 frames, [4.0 MB-8.0 MB]: 5288 frames
+      Peak usage frame count: [16.0 KB-32.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 7940 frames, [4.0 MB-8.0 MB]: 11676 frames
       Requested Block Size 2.0 MB
       Peak Block count 3
       Peak Allocated memory 4.5 MB
